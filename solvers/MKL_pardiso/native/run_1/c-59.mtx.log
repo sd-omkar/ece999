@@ -1,0 +1,144 @@
+
+===================================
+mtx file = /home/odeshmukh/c-59.mtx
+
+Done with reading mtx file.
+m = 41282, n = 41282, nz = 260909
+
+Number of threads = 236
+
+=== PARDISO: solving a real nonsymmetric system ===
+The local (internal) PARDISO version is                          : 103911000
+1-based array indexing is turned ON
+PARDISO double precision computation is turned ON
+METIS algorithm at reorder step is turned ON
+Scaling is turned ON
+Matching is turned ON
+
+
+Summary: ( reordering phase )
+================
+
+Times:
+======
+Time spent in calculations of symmetric matrix portrait (fulladj): 0.064480 s
+Time spent in reordering of the initial matrix (reorder)         : 2.687018 s
+Time spent in symbolic factorization (symbfct)                   : 0.595665 s
+Time spent in data preparations for factorization (parlist)      : 0.022794 s
+Time spent in allocation of internal data structures (malloc)    : 0.223285 s
+Time spent in additional calculations                            : 0.328976 s
+Total time spent                                                 : 3.922218 s
+
+Statistics:
+===========
+< Parallel Direct Factorization with number of processors: > 236
+< Numerical Factorization with BLAS3 and O(n) synchronization >
+
+< Linear system Ax = b >
+             number of equations:           41282
+             number of non-zeros in A:      260909
+             number of non-zeros in A (%): 0.015310
+
+             number of right-hand sides:    1
+
+< Factors L and U >
+             number of columns for each panel: 72
+             number of independent subgraphs:  0
+< Preprocessing with state of the art partitioning metis>
+             number of supernodes:                    35482
+             size of largest supernode:               473
+             number of non-zeros in L:                3581616
+             number of non-zeros in U:                3329760
+             number of non-zeros in L+U:              6911376
+
+Reordering completed ... 
+Number of nonzeros in factors  = 0
+Number of factorization MFLOPS = 5459=== PARDISO is running in In-Core mode, because iparam(60)=0 ===
+Percentage of computed non-zeros for LL^T factorization
+ 0 %  1 %  2 %  3 %  4 %  5 %  6 %  7 %  8 %  9 %  11 %  14 %  24 %  100 % 
+
+=== PARDISO: solving a real nonsymmetric system ===
+Single-level factorization algorithm is turned ON
+
+
+Summary: ( factorization phase )
+================
+
+Times:
+======
+Time spent in copying matrix to internal data structure (A to LU): 0.000001 s
+Time spent in factorization step (numfct)                        : 2.364204 s
+Time spent in allocation of internal data structures (malloc)    : 0.000263 s
+Time spent in additional calculations                            : 0.000018 s
+Total time spent                                                 : 2.364486 s
+
+Statistics:
+===========
+< Parallel Direct Factorization with number of processors: > 236
+< Numerical Factorization with BLAS3 and O(n) synchronization >
+
+< Linear system Ax = b >
+             number of equations:           41282
+             number of non-zeros in A:      260909
+             number of non-zeros in A (%): 0.015310
+
+             number of right-hand sides:    1
+
+< Factors L and U >
+             number of columns for each panel: 72
+             number of independent subgraphs:  0
+< Preprocessing with state of the art partitioning metis>
+             number of supernodes:                    35482
+             size of largest supernode:               473
+             number of non-zeros in L:                3581616
+             number of non-zeros in U:                3329760
+             number of non-zeros in L+U:              6911376
+             gflop   for the numerical factorization: 5.459762
+
+             gflop/s for the numerical factorization: 2.309345
+
+
+Factorization completed ...
+ 
+=== PARDISO: solving a real nonsymmetric system ===
+
+
+Summary: ( solution phase )
+================
+
+Times:
+======
+Time spent in direct solver at solve step (solve)                : 0.293082 s
+Time spent in additional calculations                            : 0.586019 s
+Total time spent                                                 : 0.879101 s
+
+Statistics:
+===========
+< Parallel Direct Factorization with number of processors: > 236
+< Numerical Factorization with BLAS3 and O(n) synchronization >
+
+< Linear system Ax = b >
+             number of equations:           41282
+             number of non-zeros in A:      260909
+             number of non-zeros in A (%): 0.015310
+
+             number of right-hand sides:    1
+
+< Factors L and U >
+             number of columns for each panel: 72
+             number of independent subgraphs:  0
+< Preprocessing with state of the art partitioning metis>
+             number of supernodes:                    35482
+             size of largest supernode:               473
+             number of non-zeros in L:                3581616
+             number of non-zeros in U:                3329760
+             number of non-zeros in L+U:              6911376
+             gflop   for the numerical factorization: 5.459762
+
+             gflop/s for the numerical factorization: 2.309345
+
+
+Solve completed ...
+Remote process returned: -1
+Exit reason: Exit reason 11 - Segmentation fault
+
