@@ -1,0 +1,15 @@
+Linpack: dense solver
+  CPU done
+  Phi done
+
+LU
+  dense and banded
+  CPU and Phi
+
+DSS
+  dense and banded
+  CPU and Phi
+  
+Iterative
+  dense and banded
+  CPU and Phi

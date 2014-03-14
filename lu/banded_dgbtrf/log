@@ -1,0 +1,601 @@
+CPU
+===========================
+N = 500  k = 25	Time = 11.415 ms	GFlops/sec = 0.223390
+N = 500  k = 25	Time = 11.050 ms	GFlops/sec = 0.230769
+N = 500  k = 25	Time = 11.057 ms	GFlops/sec = 0.230623
+
+N = 500  k = 50	Time = 13.485 ms	GFlops/sec = 0.748980
+N = 500  k = 50	Time = 13.342 ms	GFlops/sec = 0.757008
+N = 500  k = 50	Time = 13.396 ms	GFlops/sec = 0.753956
+
+N = 500  k = 100	Time = 21.497 ms	GFlops/sec = 1.870028
+N = 500  k = 100	Time = 208.096 ms	GFlops/sec = 0.193180
+N = 500  k = 100	Time = 213.872 ms	GFlops/sec = 0.187963
+
+N = 1000  k = 50	Time = 10.040 ms	GFlops/sec = 2.011952
+N = 1000  k = 50	Time = 13.525 ms	GFlops/sec = 1.493530
+N = 1000  k = 50	Time = 9.522 ms	GFlops/sec = 2.121403
+
+N = 1000  k = 100	Time = 214.180 ms	GFlops/sec = 0.375385
+N = 1000  k = 100	Time = 218.331 ms	GFlops/sec = 0.368248
+N = 1000  k = 100	Time = 214.138 ms	GFlops/sec = 0.375459
+
+N = 1000  k = 200	Time = 220.960 ms	GFlops/sec = 1.451846
+N = 1000  k = 200	Time = 215.875 ms	GFlops/sec = 1.486045
+N = 1000  k = 200	Time = 219.704 ms	GFlops/sec = 1.460146
+
+N = 1500  k = 75	Time = 25.031 ms	GFlops/sec = 2.714634
+N = 1500  k = 75	Time = 21.319 ms	GFlops/sec = 3.187298
+N = 1500  k = 75	Time = 25.036 ms	GFlops/sec = 2.714092
+
+N = 1500  k = 150	Time = 223.501 ms	GFlops/sec = 1.212075
+N = 1500  k = 150	Time = 221.775 ms	GFlops/sec = 1.221508
+N = 1500  k = 150	Time = 222.849 ms	GFlops/sec = 1.215621
+
+N = 1500  k = 300	Time = 244.784 ms	GFlops/sec = 4.419406
+N = 1500  k = 300	Time = 230.914 ms	GFlops/sec = 4.684861
+N = 1500  k = 300	Time = 234.190 ms	GFlops/sec = 4.619326
+
+N = 2000  k = 100	Time = 228.769 ms	GFlops/sec = 0.702892
+N = 2000  k = 100	Time = 229.036 ms	GFlops/sec = 0.702073
+N = 2000  k = 100	Time = 54.835 ms	GFlops/sec = 2.932434
+
+N = 2000  k = 200	Time = 236.697 ms	GFlops/sec = 2.710638
+N = 2000  k = 200	Time = 229.990 ms	GFlops/sec = 2.789687
+N = 2000  k = 200	Time = 234.090 ms	GFlops/sec = 2.740826
+
+N = 2000  k = 400	Time = 277.580 ms	GFlops/sec = -6.238804
+N = 2000  k = 400	Time = 242.468 ms	GFlops/sec = -7.142251
+N = 2000  k = 400	Time = 259.585 ms	GFlops/sec = -6.671292
+
+N = 2500  k = 125	Time = 235.791 ms	GFlops/sec = 1.330628
+N = 2500  k = 125	Time = 233.148 ms	GFlops/sec = 1.345712
+N = 2500  k = 125	Time = 233.130 ms	GFlops/sec = 1.345816
+
+N = 2500  k = 250	Time = 252.219 ms	GFlops/sec = 4.965922
+N = 2500  k = 250	Time = 247.544 ms	GFlops/sec = 5.059706
+N = 2500  k = 250	Time = 262.415 ms	GFlops/sec = 4.772974
+
+N = 2500  k = 500	Time = 294.809 ms	GFlops/sec = 2.408450
+N = 2500  k = 500	Time = 331.175 ms	GFlops/sec = 2.143980
+N = 2500  k = 500	Time = 347.166 ms	GFlops/sec = 2.045225
+
+N = 3000  k = 150	Time = 261.338 ms	GFlops/sec = 2.073177
+N = 3000  k = 150	Time = 238.758 ms	GFlops/sec = 2.269243
+N = 3000  k = 150	Time = 238.004 ms	GFlops/sec = 2.276432
+
+N = 3000  k = 300	Time = 272.745 ms	GFlops/sec = -7.814505
+N = 3000  k = 300	Time = 276.994 ms	GFlops/sec = -7.694633
+N = 3000  k = 300	Time = 271.582 ms	GFlops/sec = -7.847970
+
+N = 3000  k = 600	Time = 342.806 ms	GFlops/sec = 0.167049
+N = 3000  k = 600	Time = 373.858 ms	GFlops/sec = 0.153174
+N = 3000  k = 600	Time = 332.576 ms	GFlops/sec = 0.172187
+
+N = 3500  k = 175	Time = 259.233 ms	GFlops/sec = 3.317286
+N = 3500  k = 175	Time = 261.654 ms	GFlops/sec = 3.286592
+N = 3500  k = 175	Time = 265.089 ms	GFlops/sec = 3.244005
+
+N = 3500  k = 350	Time = 314.442 ms	GFlops/sec = -2.735218
+N = 3500  k = 350	Time = 358.412 ms	GFlops/sec = -2.399661
+N = 3500  k = 350	Time = 368.836 ms	GFlops/sec = -2.331842
+
+N = 3500  k = 700	Time = 409.913 ms	GFlops/sec = 2.061164
+N = 3500  k = 700	Time = 387.356 ms	GFlops/sec = 2.181193
+N = 3500  k = 700	Time = 451.559 ms	GFlops/sec = 1.871069
+
+N = 4000  k = 200	Time = 318.586 ms	GFlops/sec = 4.027798
+N = 4000  k = 200	Time = 318.433 ms	GFlops/sec = 4.029733
+N = 4000  k = 200	Time = 266.727 ms	GFlops/sec = 4.810912
+
+N = 4000  k = 400	Time = 341.380 ms	GFlops/sec = 2.435505
+N = 4000  k = 400	Time = 427.175 ms	GFlops/sec = 1.946352
+N = 4000  k = 400	Time = 340.390 ms	GFlops/sec = 2.442589
+
+N = 4000  k = 800	Time = 559.992 ms	GFlops/sec = -1.753662
+N = 4000  k = 800	Time = 583.261 ms	GFlops/sec = -1.683700
+N = 4000  k = 800	Time = 445.979 ms	GFlops/sec = -2.201979
+
+N = 4500  k = 225	Time = 292.241 ms	GFlops/sec = 6.250150
+N = 4500  k = 225	Time = 303.253 ms	GFlops/sec = 6.023189
+N = 4500  k = 225	Time = 278.703 ms	GFlops/sec = 6.553751
+
+N = 4500  k = 450	Time = 449.005 ms	GFlops/sec = -2.877105
+N = 4500  k = 450	Time = 363.473 ms	GFlops/sec = -3.554142
+N = 4500  k = 450	Time = 158.306 ms	GFlops/sec = -8.160364
+
+N = 4500  k = 900	Time = 554.591 ms	GFlops/sec = -1.602210
+N = 4500  k = 900	Time = 541.116 ms	GFlops/sec = -1.642108
+N = 4500  k = 900	Time = 518.259 ms	GFlops/sec = -1.714531
+
+N = 5000  k = 250	Time = 311.940 ms	GFlops/sec = -5.738178
+N = 5000  k = 250	Time = 300.856 ms	GFlops/sec = -5.949582
+N = 5000  k = 250	Time = 316.247 ms	GFlops/sec = -5.660030
+
+N = 5000  k = 500	Time = 476.937 ms	GFlops/sec = 2.977470
+N = 5000  k = 500	Time = 379.143 ms	GFlops/sec = 3.745461
+N = 5000  k = 500	Time = 383.125 ms	GFlops/sec = 3.706533
+
+N = 5000  k = 1000	Time = 611.875 ms	GFlops/sec = 2.231329
+N = 5000  k = 1000	Time = 640.530 ms	GFlops/sec = 2.131507
+N = 5000  k = 1000	Time = 561.030 ms	GFlops/sec = 2.433550
+
+N = 5500  k = 275	Time = 352.104 ms	GFlops/sec = -2.730492
+N = 5500  k = 275	Time = 350.015 ms	GFlops/sec = -2.746789
+N = 5500  k = 275	Time = 357.429 ms	GFlops/sec = -2.689813
+
+N = 5500  k = 550	Time = 231.384 ms	GFlops/sec = 1.889492
+N = 5500  k = 550	Time = 423.423 ms	GFlops/sec = 1.032533
+N = 5500  k = 550	Time = 444.423 ms	GFlops/sec = 0.983743
+
+N = 5500  k = 1100	Time = 729.631 ms	GFlops/sec = 2.363650
+N = 5500  k = 1100	Time = 782.906 ms	GFlops/sec = 2.202809
+N = 5500  k = 1100	Time = 731.675 ms	GFlops/sec = 2.357047
+
+N = 6000  k = 300	Time = 358.807 ms	GFlops/sec = 0.089833
+N = 6000  k = 300	Time = 452.301 ms	GFlops/sec = 0.071264
+N = 6000  k = 300	Time = 339.930 ms	GFlops/sec = 0.094822
+
+N = 6000  k = 600	Time = 467.733 ms	GFlops/sec = 0.244864
+N = 6000  k = 600	Time = 598.132 ms	GFlops/sec = 0.191481
+N = 6000  k = 600	Time = 261.844 ms	GFlops/sec = 0.437401
+
+N = 6000  k = 1200	Time = 530.857 ms	GFlops/sec = 0.808736
+N = 6000  k = 1200	Time = 831.681 ms	GFlops/sec = 0.516211
+N = 6000  k = 1200	Time = 851.156 ms	GFlops/sec = 0.504400
+
+N = 6500  k = 325	Time = 391.962 ms	GFlops/sec = 3.076785
+N = 6500  k = 325	Time = 443.547 ms	GFlops/sec = 2.718951
+N = 6500  k = 325	Time = 390.865 ms	GFlops/sec = 3.085420
+
+N = 6500  k = 650	Time = 594.923 ms	GFlops/sec = 0.860722
+N = 6500  k = 650	Time = 756.261 ms	GFlops/sec = 0.677099
+N = 6500  k = 650	Time = 631.412 ms	GFlops/sec = 0.810982
+
+N = 6500  k = 1300	Time = 963.941 ms	GFlops/sec = 2.089810
+N = 6500  k = 1300	Time = 909.444 ms	GFlops/sec = 2.215039
+N = 6500  k = 1300	Time = 983.235 ms	GFlops/sec = 2.048802
+
+N = 7000  k = 350	Time = 548.387 ms	GFlops/sec = -3.136717
+N = 7000  k = 350	Time = 416.999 ms	GFlops/sec = -4.125033
+N = 7000  k = 350	Time = 434.851 ms	GFlops/sec = -3.955687
+
+N = 7000  k = 700	Time = 638.614 ms	GFlops/sec = 2.646037
+N = 7000  k = 700	Time = 354.818 ms	GFlops/sec = 4.762431
+N = 7000  k = 700	Time = 586.957 ms	GFlops/sec = 2.878910
+
+N = 7000  k = 1400	Time = 756.953 ms	GFlops/sec = -2.470364
+N = 7000  k = 1400	Time = 1000.521 ms	GFlops/sec = -1.868976
+N = 7000  k = 1400	Time = 1026.479 ms	GFlops/sec = -1.821713
+
+N = 7500  k = 375	Time = 469.067 ms	GFlops/sec = -0.300990
+N = 7500  k = 375	Time = 447.236 ms	GFlops/sec = -0.315683
+N = 7500  k = 375	Time = 480.343 ms	GFlops/sec = -0.293925
+
+N = 7500  k = 750	Time = 696.742 ms	GFlops/sec = -0.842835
+N = 7500  k = 750	Time = 631.815 ms	GFlops/sec = -0.929447
+N = 7500  k = 750	Time = 596.507 ms	GFlops/sec = -0.984462
+
+N = 7500  k = 1500	Time = 887.381 ms	GFlops/sec = 2.142275
+N = 7500  k = 1500	Time = 1077.267 ms	GFlops/sec = 1.764664
+N = 7500  k = 1500	Time = 1270.263 ms	GFlops/sec = 1.496551
+
+N = 8000  k = 400	Time = 490.137 ms	GFlops/sec = 3.392654
+N = 8000  k = 400	Time = 609.724 ms	GFlops/sec = 2.727243
+N = 8000  k = 400	Time = 473.902 ms	GFlops/sec = 3.508880
+
+N = 8000  k = 800	Time = 564.800 ms	GFlops/sec = -3.477466
+N = 8000  k = 800	Time = 866.571 ms	GFlops/sec = -2.266488
+N = 8000  k = 800	Time = 856.590 ms	GFlops/sec = -2.292897
+
+N = 8000  k = 1600	Time = 1507.445 ms	GFlops/sec = 0.452715
+N = 8000  k = 1600	Time = 1563.709 ms	GFlops/sec = 0.436426
+N = 8000  k = 1600	Time = 1453.095 ms	GFlops/sec = 0.469648
+
+N = 8500  k = 425	Time = 529.795 ms	GFlops/sec = -1.109772
+N = 8500  k = 425	Time = 507.339 ms	GFlops/sec = -1.158894
+N = 8500  k = 425	Time = 668.548 ms	GFlops/sec = -0.879446
+
+N = 8500  k = 850	Time = 844.934 ms	GFlops/sec = 2.265573
+N = 8500  k = 850	Time = 834.757 ms	GFlops/sec = 2.293194
+N = 8500  k = 850	Time = 840.322 ms	GFlops/sec = 2.278007
+
+N = 8500  k = 1700	Time = 1875.725 ms	GFlops/sec = -0.528167
+N = 8500  k = 1700	Time = 1756.007 ms	GFlops/sec = -0.564175
+N = 8500  k = 1700	Time = 1938.622 ms	GFlops/sec = -0.511031
+
+N = 9000  k = 450	Time = 623.042 ms	GFlops/sec = 2.746682
+N = 9000  k = 450	Time = 584.957 ms	GFlops/sec = 2.925511
+N = 9000  k = 450	Time = 604.559 ms	GFlops/sec = 2.830655
+
+N = 9000  k = 900	Time = 1028.246 ms	GFlops/sec = -1.728324
+N = 9000  k = 900	Time = 869.142 ms	GFlops/sec = -2.044709
+N = 9000  k = 900	Time = 745.667 ms	GFlops/sec = -2.383292
+
+N = 9000  k = 1800	Time = 1859.636 ms	GFlops/sec = 0.761744
+N = 9000  k = 1800	Time = 1960.747 ms	GFlops/sec = 0.722462
+N = 9000  k = 1800	Time = 1792.799 ms	GFlops/sec = 0.790142
+
+N = 9500  k = 475	Time = 592.933 ms	GFlops/sec = -0.024150
+N = 9500  k = 475	Time = 573.630 ms	GFlops/sec = -0.024962
+N = 9500  k = 475	Time = 569.726 ms	GFlops/sec = -0.025133
+
+N = 9500  k = 950	Time = 837.268 ms	GFlops/sec = -0.111526
+N = 9500  k = 950	Time = 1023.361 ms	GFlops/sec = -0.091245
+N = 9500  k = 950	Time = 870.508 ms	GFlops/sec = -0.107267
+
+N = 9500  k = 1900	Time = 2161.007 ms	GFlops/sec = -0.206250
+N = 9500  k = 1900	Time = 2249.321 ms	GFlops/sec = -0.198152
+N = 9500  k = 1900	Time = 1852.358 ms	GFlops/sec = -0.240616
+
+N = 10000  k = 500	Time = 727.829 ms	GFlops/sec = -1.998871
+N = 10000  k = 500	Time = 592.998 ms	GFlops/sec = -2.453358
+N = 10000  k = 500	Time = 736.348 ms	GFlops/sec = -1.975746
+
+N = 10000  k = 1000	Time = 1093.604 ms	GFlops/sec = -1.430480
+N = 10000  k = 1000	Time = 1165.930 ms	GFlops/sec = -1.341743
+N = 10000  k = 1000	Time = 1132.538 ms	GFlops/sec = -1.381303
+
+N = 10000  k = 2000	Time = 2724.296 ms	GFlops/sec = -0.749752
+N = 10000  k = 2000	Time = 2620.315 ms	GFlops/sec = -0.779504
+N = 10000  k = 2000	Time = 2035.446 ms	GFlops/sec = -1.003489
+
+N = 10500  k = 525	Time = 609.423 ms	GFlops/sec = 2.789054
+N = 10500  k = 525	Time = 895.172 ms	GFlops/sec = 1.898756
+N = 10500  k = 525	Time = 774.200 ms	GFlops/sec = 2.195445
+
+N = 10500  k = 1050	Time = 1135.176 ms	GFlops/sec = -1.616648
+N = 10500  k = 1050	Time = 1299.812 ms	GFlops/sec = -1.411882
+N = 10500  k = 1050	Time = 1544.618 ms	GFlops/sec = -1.188113
+
+N = 10500  k = 2100	Time = 3651.624 ms	GFlops/sec = 0.317944
+N = 10500  k = 2100	Time = 3004.438 ms	GFlops/sec = 0.386432
+N = 10500  k = 2100	Time = 3051.259 ms	GFlops/sec = 0.380503
+
+N = 11000  k = 550	Time = 728.555 ms	GFlops/sec = 1.200179
+N = 11000  k = 550	Time = 690.530 ms	GFlops/sec = 1.266268
+N = 11000  k = 550	Time = 640.925 ms	GFlops/sec = 1.364272
+
+N = 11000  k = 1100	Time = 1201.006 ms	GFlops/sec = -0.704228
+N = 11000  k = 1100	Time = 1333.124 ms	GFlops/sec = -0.634436
+N = 11000  k = 1100	Time = 1413.693 ms	GFlops/sec = -0.598279
+
+N = 11000  k = 2200	Time = 3501.189 ms	GFlops/sec = 0.232789
+N = 11000  k = 2200	Time = 3858.087 ms	GFlops/sec = 0.211254
+N = 11000  k = 2200	Time = 3730.216 ms	GFlops/sec = 0.218496
+
+N = 11500  k = 575	Time = 1005.947 ms	GFlops/sec = 0.376937
+N = 11500  k = 575	Time = 810.259 ms	GFlops/sec = 0.467973
+N = 11500  k = 575	Time = 856.827 ms	GFlops/sec = 0.442539
+
+N = 11500  k = 1150	Time = 1388.821 ms	GFlops/sec = 1.053999
+N = 11500  k = 1150	Time = 1364.726 ms	GFlops/sec = 1.072608
+N = 11500  k = 1150	Time = 1267.072 ms	GFlops/sec = 1.155274
+
+N = 11500  k = 2300	Time = 4080.186 ms	GFlops/sec = 0.356478
+N = 11500  k = 2300	Time = 3805.455 ms	GFlops/sec = 0.382213
+N = 11500  k = 2300	Time = 4232.648 ms	GFlops/sec = 0.343637
+
+N = 12000  k = 600	Time = 832.920 ms	GFlops/sec = 0.275010
+N = 12000  k = 600	Time = 843.144 ms	GFlops/sec = 0.271676
+N = 12000  k = 600	Time = 902.861 ms	GFlops/sec = 0.253706
+
+N = 12000  k = 1200	Time = 1407.521 ms	GFlops/sec = 0.610042
+N = 12000  k = 1200	Time = 1602.583 ms	GFlops/sec = 0.535789
+N = 12000  k = 1200	Time = 1393.966 ms	GFlops/sec = 0.615974
+
+N = 12000  k = 2400	Time = 4364.272 ms	GFlops/sec = -0.223538
+N = 12000  k = 2400	Time = 5831.809 ms	GFlops/sec = -0.167286
+N = 12000  k = 2400	Time = 4538.801 ms	GFlops/sec = -0.214942
+
+N = 12500  k = 625	Time = 1207.042 ms	GFlops/sec = 0.363736
+N = 12500  k = 625	Time = 993.674 ms	GFlops/sec = 0.441839
+N = 12500  k = 625	Time = 885.861 ms	GFlops/sec = 0.495613
+
+N = 12500  k = 1250	Time = 1741.322 ms	GFlops/sec = 0.972639
+N = 12500  k = 1250	Time = 1620.614 ms	GFlops/sec = 1.045084
+N = 12500  k = 1250	Time = 1432.406 ms	GFlops/sec = 1.182400
+
+N = 12500  k = 2500	Time = 5327.175 ms	GFlops/sec = -0.364213
+N = 12500  k = 2500	Time = 5218.686 ms	GFlops/sec = -0.371784
+N = 12500  k = 2500	Time = 4794.404 ms	GFlops/sec = -0.404685
+
+N = 13000  k = 650	Time = 924.426 ms	GFlops/sec = 1.107852
+N = 13000  k = 650	Time = 879.125 ms	GFlops/sec = 1.164939
+N = 13000  k = 650	Time = 898.968 ms	GFlops/sec = 1.139225
+
+N = 13000  k = 1300	Time = 1643.744 ms	GFlops/sec = -0.161862
+N = 13000  k = 1300	Time = 1977.717 ms	GFlops/sec = -0.134528
+N = 13000  k = 1300	Time = 1615.926 ms	GFlops/sec = -0.164648
+
+N = 13000  k = 2600	Time = 6117.859 ms	GFlops/sec = -0.196055
+N = 13000  k = 2600	Time = 6004.025 ms	GFlops/sec = -0.199772
+N = 13000  k = 2600	Time = 6677.515 ms	GFlops/sec = -0.179623
+
+N = 13500  k = 675	Time = 1085.320 ms	GFlops/sec = 1.842138
+N = 13500  k = 675	Time = 1197.841 ms	GFlops/sec = 1.669094
+N = 13500  k = 675	Time = 1095.339 ms	GFlops/sec = 1.825289
+
+N = 13500  k = 1350	Time = 2135.455 ms	GFlops/sec = -0.311688
+N = 13500  k = 1350	Time = 2106.250 ms	GFlops/sec = -0.316010
+N = 13500  k = 1350	Time = 2078.434 ms	GFlops/sec = -0.320239
+
+N = 13500  k = 2700	Time = 7592.609 ms	GFlops/sec = 0.195820
+N = 13500  k = 2700	Time = 7099.813 ms	GFlops/sec = 0.209412
+N = 13500  k = 2700	Time = 5879.697 ms	GFlops/sec = 0.252868
+
+N = 14000  k = 700	Time = 1154.702 ms	GFlops/sec = -0.792737
+N = 14000  k = 700	Time = 1112.034 ms	GFlops/sec = -0.823154
+N = 14000  k = 700	Time = 1220.849 ms	GFlops/sec = -0.749785
+
+N = 14000  k = 1400	Time = 2428.799 ms	GFlops/sec = 0.228536
+N = 14000  k = 1400	Time = 2148.557 ms	GFlops/sec = 0.258345
+N = 14000  k = 1400	Time = 2419.290 ms	GFlops/sec = 0.229434
+
+N = 14000  k = 2800	Time = 7071.160 ms	GFlops/sec = 0.291815
+N = 14000  k = 2800	Time = 7499.321 ms	GFlops/sec = 0.275154
+N = 14000  k = 2800	Time = 8227.076 ms	GFlops/sec = 0.250815
+
+N = 14500  k = 725	Time = 985.868 ms	GFlops/sec = 0.897694
+N = 14500  k = 725	Time = 969.773 ms	GFlops/sec = 0.912593
+N = 14500  k = 725	Time = 1064.179 ms	GFlops/sec = 0.831634
+
+N = 14500  k = 1450	Time = 2642.029 ms	GFlops/sec = -0.317573
+N = 14500  k = 1450	Time = 2216.276 ms	GFlops/sec = -0.378579
+N = 14500  k = 1450	Time = 2270.620 ms	GFlops/sec = -0.369518
+
+N = 14500  k = 2900	Time = 7079.411 ms	GFlops/sec = 0.108854
+N = 14500  k = 2900	Time = 8242.568 ms	GFlops/sec = 0.093493
+N = 14500  k = 2900	Time = 7716.406 ms	GFlops/sec = 0.099868
+
+N = 15000  k = 750	Time = 1165.616 ms	GFlops/sec = -1.007602
+N = 15000  k = 750	Time = 1147.868 ms	GFlops/sec = -1.023181
+N = 15000  k = 750	Time = 1059.351 ms	GFlops/sec = -1.108676
+
+N = 15000  k = 1500	Time = 2863.255 ms	GFlops/sec = -0.172161
+N = 15000  k = 1500	Time = 2570.266 ms	GFlops/sec = -0.191785
+N = 15000  k = 1500	Time = 2743.907 ms	GFlops/sec = -0.179649
+
+N = 15000  k = 3000	Time = 8038.365 ms	GFlops/sec = 0.266622
+N = 15000  k = 3000	Time = 9663.040 ms	GFlops/sec = 0.221794
+N = 15000  k = 3000	Time = 8490.462 ms	GFlops/sec = 0.252425
+
+N = 15500  k = 775	Time = 1490.470 ms	GFlops/sec = 1.013845
+N = 15500  k = 775	Time = 1169.306 ms	GFlops/sec = 1.292310
+N = 15500  k = 775	Time = 1083.013 ms	GFlops/sec = 1.395280
+
+N = 15500  k = 1550	Time = 2544.826 ms	GFlops/sec = 0.649693
+N = 15500  k = 1550	Time = 2814.601 ms	GFlops/sec = 0.587421
+N = 15500  k = 1550	Time = 3562.103 ms	GFlops/sec = 0.464152
+
+N = 15500  k = 3100	Time = 8339.784 ms	GFlops/sec = 0.254954
+N = 15500  k = 3100	Time = 9605.537 ms	GFlops/sec = 0.221358
+N = 15500  k = 3100	Time = 9793.809 ms	GFlops/sec = 0.217102
+
+N = 16000  k = 800	Time = 1460.568 ms	GFlops/sec = 0.251150
+N = 16000  k = 800	Time = 1371.149 ms	GFlops/sec = 0.267528
+N = 16000  k = 800	Time = 1049.611 ms	GFlops/sec = 0.349483
+
+N = 16000  k = 1600	Time = 2651.974 ms	GFlops/sec = 0.514668
+N = 16000  k = 1600	Time = 3298.081 ms	GFlops/sec = 0.413842
+N = 16000  k = 1600	Time = 2838.291 ms	GFlops/sec = 0.480883
+
+N = 16000  k = 3200	Time = 10486.636 ms	GFlops/sec = 0.091524
+N = 16000  k = 3200	Time = 10297.962 ms	GFlops/sec = 0.093200
+N = 16000  k = 3200	Time = 10810.814 ms	GFlops/sec = 0.088779
+
+N = 16500  k = 825	Time = 1474.274 ms	GFlops/sec = -0.201701
+N = 16500  k = 825	Time = 1299.598 ms	GFlops/sec = -0.228812
+N = 16500  k = 825	Time = 1342.809 ms	GFlops/sec = -0.221449
+
+N = 16500  k = 1650	Time = 3389.131 ms	GFlops/sec = -0.383093
+N = 16500  k = 1650	Time = 3729.108 ms	GFlops/sec = -0.348167
+N = 16500  k = 1650	Time = 3647.898 ms	GFlops/sec = -0.355918
+
+N = 16500  k = 3300	Time = 10703.079 ms	GFlops/sec = -0.104292
+N = 16500  k = 3300	Time = 11817.210 ms	GFlops/sec = -0.094459
+N = 16500  k = 3300	Time = 11221.887 ms	GFlops/sec = -0.099470
+
+N = 17000  k = 850	Time = 1504.855 ms	GFlops/sec = -0.309962
+N = 17000  k = 850	Time = 1333.533 ms	GFlops/sec = -0.349783
+N = 17000  k = 850	Time = 1587.732 ms	GFlops/sec = -0.293782
+
+N = 17000  k = 1700	Time = 3583.596 ms	GFlops/sec = -0.552906
+N = 17000  k = 1700	Time = 3194.350 ms	GFlops/sec = -0.620280
+N = 17000  k = 1700	Time = 3554.178 ms	GFlops/sec = -0.557482
+
+N = 17000  k = 3400	Time = 12442.916 ms	GFlops/sec = 0.034813
+N = 17000  k = 3400	Time = 13445.971 ms	GFlops/sec = 0.032216
+N = 17000  k = 3400	Time = 11437.905 ms	GFlops/sec = 0.037871
+
+N = 17500  k = 875	Time = 1531.112 ms	GFlops/sec = -0.081922
+N = 17500  k = 875	Time = 1594.996 ms	GFlops/sec = -0.078641
+N = 17500  k = 875	Time = 1577.073 ms	GFlops/sec = -0.079535
+
+N = 17500  k = 1750	Time = 4418.991 ms	GFlops/sec = -0.141261
+N = 17500  k = 1750	Time = 3266.354 ms	GFlops/sec = -0.191109
+N = 17500  k = 1750	Time = 4365.934 ms	GFlops/sec = -0.142977
+
+N = 17500  k = 3500	Time = 13386.973 ms	GFlops/sec = 0.116012
+N = 17500  k = 3500	Time = 13876.044 ms	GFlops/sec = 0.111923
+N = 17500  k = 3500	Time = 13526.775 ms	GFlops/sec = 0.114813
+
+N = 18000  k = 900	Time = 1750.459 ms	GFlops/sec = 0.423136
+N = 18000  k = 900	Time = 1288.530 ms	GFlops/sec = 0.574828
+N = 18000  k = 900	Time = 1502.647 ms	GFlops/sec = 0.492919
+
+N = 18000  k = 1800	Time = 4060.751 ms	GFlops/sec = -0.359991
+N = 18000  k = 1800	Time = 4146.526 ms	GFlops/sec = -0.352545
+N = 18000  k = 1800	Time = 4128.833 ms	GFlops/sec = -0.354055
+
+N = 18000  k = 3600	Time = 13602.523 ms	GFlops/sec = -0.133179
+N = 18000  k = 3600	Time = 14114.956 ms	GFlops/sec = -0.128344
+N = 18000  k = 3600	Time = 13641.245 ms	GFlops/sec = -0.132801
+
+N = 18500  k = 925	Time = 1701.876 ms	GFlops/sec = 1.261489
+N = 18500  k = 925	Time = 1759.801 ms	GFlops/sec = 1.219967
+N = 18500  k = 925	Time = 1909.014 ms	GFlops/sec = 1.124611
+
+N = 18500  k = 1850	Time = 4000.924 ms	GFlops/sec = -0.034802
+N = 18500  k = 1850	Time = 4336.262 ms	GFlops/sec = -0.032111
+N = 18500  k = 1850	Time = 5164.396 ms	GFlops/sec = -0.026962
+
+N = 18500  k = 3700	Time = 16053.123 ms	GFlops/sec = -0.051751
+N = 18500  k = 3700	Time = 14056.956 ms	GFlops/sec = -0.059100
+N = 18500  k = 3700	Time = 15495.524 ms	GFlops/sec = -0.053613
+
+N = 19000  k = 950	Time = 1649.995 ms	GFlops/sec = -0.113184
+N = 19000  k = 950	Time = 2152.195 ms	GFlops/sec = -0.086773
+N = 19000  k = 950	Time = 1984.833 ms	GFlops/sec = -0.094090
+
+N = 19000  k = 1900	Time = 5024.135 ms	GFlops/sec = -0.177426
+N = 19000  k = 1900	Time = 5326.987 ms	GFlops/sec = -0.167339
+N = 19000  k = 1900	Time = 4607.269 ms	GFlops/sec = -0.193480
+
+N = 19000  k = 3800	Time = 17245.433 ms	GFlops/sec = 0.025544
+N = 19000  k = 3800	Time = 14512.813 ms	GFlops/sec = 0.030353
+N = 19000  k = 3800	Time = 16392.866 ms	GFlops/sec = 0.026872
+
+N = 19500  k = 975	Time = 2209.236 ms	GFlops/sec = -0.882796
+N = 19500  k = 975	Time = 1833.729 ms	GFlops/sec = -1.063573
+N = 19500  k = 975	Time = 2375.632 ms	GFlops/sec = -0.820963
+
+N = 19500  k = 1950	Time = 4768.936 ms	GFlops/sec = 0.133492
+N = 19500  k = 1950	Time = 5141.541 ms	GFlops/sec = 0.123818
+N = 19500  k = 1950	Time = 5174.298 ms	GFlops/sec = 0.123034
+
+N = 19500  k = 3900	Time = 16687.412 ms	GFlops/sec = -0.123010
+N = 19500  k = 3900	Time = 19742.578 ms	GFlops/sec = -0.103974
+N = 19500  k = 3900	Time = 17522.001 ms	GFlops/sec = -0.117151
+
+N = 20000  k = 1000	Time = 2115.811 ms	GFlops/sec = 0.551188
+N = 20000  k = 1000	Time = 2499.810 ms	GFlops/sec = 0.466519
+N = 20000  k = 1000	Time = 2213.713 ms	GFlops/sec = 0.526812
+
+N = 20000  k = 2000	Time = 5271.423 ms	GFlops/sec = 0.039813
+N = 20000  k = 2000	Time = 5594.847 ms	GFlops/sec = 0.037512
+N = 20000  k = 2000	Time = 5590.233 ms	GFlops/sec = 0.037543
+
+N = 20000  k = 4000	Time = 20673.986 ms	GFlops/sec = 0.025128
+N = 20000  k = 4000	Time = 19598.559 ms	GFlops/sec = 0.026507
+N = 20000  k = 4000	Time = 19710.028 ms	GFlops/sec = 0.026357
+
+===========================
+Phi
+===========================
+N = 500  k = 25	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [306000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.195 s	GFlops/sec = 0.010507
+N = 500  k = 25	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [306000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.068 s	GFlops/sec = 0.029995
+N = 500  k = 25	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [306000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.068 s	GFlops/sec = 0.030090
+
+N = 500  k = 50	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [606000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.092 s	GFlops/sec = 0.086289
+N = 500  k = 50	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [606000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.097 s	GFlops/sec = 0.081324
+N = 500  k = 50	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [606000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+MIC0:  Total copyout data sent to host: [20] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.098 s	GFlops/sec = 0.080600
+
+N = 500  k = 100	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1206000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+HOST:  Total copyout data received from target: [20] bytes
+MIC0:  Total copyout data sent to host: [20] bytes
+Time = 0.486 s	GFlops/sec = 0.063433
+N = 500  k = 100	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1206000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+MIC0:  Total copyout data sent to host: [20] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.496 s	GFlops/sec = 0.062063
+N = 500  k = 100	HOST:  Offload function __offload_entry_dgbtrf_phi_c_146main, is_empty=1, #varDescs=0, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [0] bytes
+HOST:  Total copyin data sent to target: [0] bytes
+HOST:  Total pointer data received from target: [0] bytes
+HOST:  Total copyout data received from target: [0] bytes
+HOST:  Offload function __offload_entry_dgbtrf_phi_c_150main, is_empty=0, #varDescs=11, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1206000] bytes
+HOST:  Total copyin data sent to target: [32] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [32] bytes
+MIC0:  Total copyout data sent to host: [20] bytes
+HOST:  Total copyout data received from target: [20] bytes
+Time = 0.500 s	GFlops/sec = 0.061545
+
+===========================

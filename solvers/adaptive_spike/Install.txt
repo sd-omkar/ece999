@@ -1,0 +1,217 @@
+
+Intel(R) Adaptive Spike-Based Solver 1.0 for Linux*
+
+Installation Guide
+
+    Contents
+
+    * Introduction 
+
+    * System Requirements 
+
+    * Installing the package
+
+    * Uninstalling the package
+
+    * Building and Running Example Programs
+
+    * Performance
+
+
+Introduction
+
+This document explains how to install and configure Intel(R) Adaptive
+Spike-Based Solver 1.0 for Linux*.  Installation is a multi-step process.
+Please read this document in its entirety before installing and follow
+the steps in sequence. 
+
+
+System Requirements
+
+Hardware - Recommended
+
+  * Intel(R) Itanium(R) 2 processor
+
+  * 64-bit Intel(R) Xeon(R) processor
+
+Software - Minimum Requirements
+
+  * Linux* operating system 
+
+  * Compatible compiler 
+
+  * A supported Message Passing Interface (MPI) - (see specific
+    supported MPI's listed later on this page)
+
+  * Adobe Acrobat* Reader 6.0 or later
+
+Software - Recommended
+
+  * Red Hat* Enterprise Linux* 5
+
+  * Intel(R) Fortran Compiler for Linux* version 10.1
+
+  * Intel(R) C++ Compiler for Linux* version 10.1
+
+  * Intel(R) MPI Library version 3.1
+
+
+Software - Supported MPI implementations
+
+  * Intel(R) MPI Library Version 3.1 
+
+  * MPICH version 1.2.7p1 available at
+    http://www-unix.mcs.anl.gov/mpi/mpich
+
+  * MPICH version 2.0 available at
+    http://www-unix.mcs.anl.gov/mpi/mpich
+
+  * Open MPI version 1.2.3 available at 
+    http://www.open-mpi.org 
+
+  Note: See the Technical User Notes in the doc directory for linking
+  instructions.
+
+
+Installing the Package
+
+Pre-Installation Instructions
+
+Note: The default installation directory is ${HOME}/SPIKE/1.0.
+
+
+Installation Instructions
+
+Follow these instructions to install the package on Linux*.  The
+installation software installs the full file set for all supported
+processors. 
+
+   1. Installing from the downloaded package
+
+         Unpack the package in a directory where you have write access:
+
+         >tar -zxvf spike_10.tar.gz
+
+   2. Run the installation script
+
+         Execute the install script in the directory where the tar file
+         was extracted:
+
+         > cd spike_10
+         > ./install.sh 
+
+   3. The install script will display a series of options:
+
+		1. Install
+                2. Installation Guide
+		h. Help
+		x. Exit
+
+	Option 1 is used to install the package. Options 2 and h can
+	be used to obtain additional information before installing.
+
+	Type 1 and press Enter to begin the installation, or type x 
+	to exit the install program.
+
+   4. Press Enter to display the license agreement.  After the
+      license agreement is displayed, you are prompted to accept or
+      reject the license. If you accept the license, type accept and
+      press enter. If you reject the license, type reject and press
+      enter to return to the main menu.
+
+   5. You will be prompted for an install location. Press Enter to
+      select the default location, or type another path. If you are
+      installing from a non-root account, you will need to choose a
+      location where you have write permission.
+
+      Please wait while the installation proceeds. When the
+      installation has completed, the install script exits.
+
+
+Uninstalling the Package
+
+Simply remove the installation directory to uninstall the package.  If
+you installed in the default directory, use
+
+    rm -rf ${HOME}/SPIKE/1.0
+
+
+Building and Running Example Programs
+
+The package comes with a set of C and Fortran 90 example programs.  This
+section describes how to build and run these example programs.  For
+information about compiling user-developed programs, please refer to the
+User Guide <spike_ug.pdf>.
+
+To build the example programs, use the following instructions:
+
+    0. View the Help message
+
+         Go to the C or Fortran 90 example directory and execute 
+         "make" or "make help".
+
+    1. Build and run the examples
+
+      A. Building and running the C example programs
+ 
+         Go to the C example directory and execute "make" with target "all".
+         Note that the user needs to specify the MPI implementation, and may
+         need to specify the path to MPI, e.g.:
+
+         > cd <installation directory>/examples/examples_c
+         > make mpi=intelmpi MPIdir=/opt/intel/mpi/3.1 all
+      
+         Run "make" or "make help" under <installation directory>/examples/examples_c
+         for additional options.
+      
+         The command will create a directory called <arch>_<mpi implementation>
+         and the executables and results of run are stored under
+         <arch>_<mpi implementation>/_results.  The executables are "example*" and
+         "toeplitz" while the results of run are called "*.txt".
+ 
+      B. Building and running the Fortran 90 example programs
+ 
+         Go to the Fortran 90 example directory and execute "make" with target
+         "all".  Note that the user needs to specify the MPI implementation, and
+         may need to specify the path to MPI, e.g.:
+
+         > cd <installation directory>/examples/examples_f90
+         > make mpi=intelmpi MPIdir=/opt/intel/mpi/3.1 all
+      
+         Run "make" or "make help" under <installation directory>/examples/examples_f90
+         for additional options.
+      
+         The command will create a directory called <arch>_<mpi implementation>
+         and the executables and results of run are stored under
+         <arch>_<mpi implementation>/_results.  The executables are "example*" and
+         "toeplitz" while the results of run are called "*.txt".
+
+      The examples will be built following the makefile rules. At the end 
+      there will be a message "Examples program created under <example dir>"
+      where <example dir> is the directory storing the example programs and the
+      data files used by the example programs.
+
+    2. Cleanup the build and run results
+
+       Go to the C or Fortran 90 example directory and execute "make" with target
+       "clean".  Note that the user needs to specify which MPI implementation was
+       used in the original build, e.g.:
+
+       > make mpi=intelmpi clean
+
+
+Performance
+
+To get the best performance with the Intel(R) Adaptive Spike-Based Library, make
+sure the following conditions are met:
+
+    * arrays are aligned on a 16-byte boundary
+
+    * leading dimension values (n*element_size) of two-dimensional arrays are
+      divisible by 16
+
+    * for two-dimensional arrays, leading dimension values divisible by 2048
+      should be avoided
+
+
+* Other names and brands may be claimed as the property of others.
