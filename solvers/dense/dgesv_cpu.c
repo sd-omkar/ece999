@@ -111,17 +111,19 @@ int main(int argc, char *argv[]) {
 
 	/* Local arrays */
         srand(26);
-	MKL_INT ipiv[n];
+	MKL_INT *ipiv = (MKL_INT *)malloc(sizeof(MKL_INT) * n);
 	double *a = (double *)calloc(lda * n, sizeof(double));
         for (i=0; i<lda*n; i++)
           a[i] = -10 + rand() % 20;
-	double b[LDB*n];
+	double *b = (double *)malloc(sizeof(double) * LDB * n);
         for (i=0; i<LDB*n; i++)
           b[i] = -10 + rand() % 20;
 
 	/* Executable statements */
 	//printf( "LAPACKE_dgesv (row-major, high-level) Example Program Results\n" );
 	/* Solve the equations A*X = B */
+        mkl_mic_disable();
+
         gettimeofday(&begin, NULL);
 	info = LAPACKE_dgesv( LAPACK_ROW_MAJOR, n, nrhs, a, lda, ipiv,
 			b, ldb );
@@ -147,6 +149,8 @@ int main(int argc, char *argv[]) {
 	/* Print pivot indices */
 	//print_int_vector( "Pivot indices", n, ipiv );
         free(a);
+        free(b);
+        free(ipiv);
 	exit( 0 );
 } /* End of LAPACKE_dgesv Example */
 

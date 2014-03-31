@@ -1,0 +1,456 @@
+Time = 0.076 s
+Time = 0.172 s
+Time = 0.075 s
+
+Time = 0.096 s
+Time = 0.096 s
+Time = 0.100 s
+
+Time = 0.490 s
+Time = 0.896 s
+Time = 0.489 s
+
+Time = 0.530 s
+Time = 0.132 s
+Time = 0.131 s
+
+Time = 0.676 s
+Time = 0.639 s
+Time = 0.625 s
+
+Time = 0.711 s
+Time = 0.699 s
+Time = 0.735 s
+
+Time = 0.746 s
+Time = 0.727 s
+Time = 0.726 s
+
+Time = 0.840 s
+Time = 0.845 s
+Time = 0.854 s
+
+Time = 1.028 s
+Time = 1.059 s
+Time = 1.036 s
+
+Time = 0.947 s
+Time = 0.921 s
+Time = 1.005 s
+
+Time = 1.114 s
+Time = 1.158 s
+Time = 1.125 s
+
+Time = 1.446 s
+Time = 1.573 s
+Time = 1.549 s
+
+Time = 1.189 s
+Time = 1.073 s
+Time = 1.167 s
+
+Time = 1.431 s
+Time = 1.454 s
+Time = 1.457 s
+
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.918 s
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.879 s
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+Time = 1.326 s
+Time = 1.480 s
+Time = 1.329 s
+
+Time = 1.810 s
+Time = 1.804 s
+Time = 2.034 s
+
+Time = 2.468 s
+Time = 2.535 s
+Time = 2.534 s
+
+Time = 1.792 s
+Time = 1.572 s
+Time = 1.848 s
+
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.206 s
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.223 s
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.203 s
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.185 s
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+Time = 1.961 s
+Time = 1.895 s
+Time = 1.983 s
+
+Time = 2.650 s
+Time = 2.727 s
+Time = 2.909 s
+
+Time = 10.852 s
+Time = 10.684 s
+Time = 10.756 s
+
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.468 s
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.254 s
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+Time = 3.221 s
+Time = 3.193 s
+Time = 3.178 s
+
+Time = 6.809 s
+Time = 7.032 s
+Time = 6.586 s
+
+Time = 2.568 s
+Time = 2.522 s
+Time = 2.714 s
+
+Time = 3.630 s
+Time = 3.767 s
+
+Time = 8.375 s
+Time = 8.247 s
+Time = 7.736 s
+
+Time = 2.907 s
+Time = 2.857 s
+
+Time = 4.472 s
+Time = 4.456 s
+Time = 4.470 s
+
+Time = 11.609 s
+Time = 13.262 s
+Time = 12.930 s
+
+Time = 3.249 s
+Time = 3.323 s
+Time = 3.255 s
+
+Time = 5.610 s
+Time = 5.572 s
+Time = 5.289 s
+
+Time = 24.611 s
+Time = 24.527 s
+
+Time = 3.967 s
+Time = 3.638 s
+Time = 3.746 s
+
+Time = 6.131 s
+Time = 5.803 s
+Time = 6.038 s
+
+Time = 23.198 s
+Time = 22.789 s
+Time = 22.117 s
+
+Time = 4.161 s
+Time = 4.211 s
+Time = 4.088 s
+
+Time = 6.571 s
+Time = 7.698 s
+Time = 6.771 s
+
+Time = 28.958 s
+Time = 29.904 s
+Time = 28.705 s
+
+Time = 4.543 s
+Time = 4.800 s
+Time = 4.536 s
+
+Time = 7.794 s
+Time = 8.247 s
+Time = 9.048 s
+
+Time = 37.799 s
+Time = 37.057 s
+Time = 37.391 s
+
+Time = 13.256 s
+Time = 13.429 s
+Time = 13.555 s
+
+Time = 24.743 s
+Time = 24.687 s
+Time = 24.715 s
+
+Time = 48.601 s
+Time = 46.042 s
+Time = 49.225 s
+
+Time = 5.703 s
+Time = 5.633 s
+Time = 5.597 s
+
+Time = 13.993 s
+Time = 11.747 s
+Time = 11.640 s
+
+Time = 56.612 s
+Time = 56.707 s
+
+Time = 6.114 s
+Time = 6.174 s
+Time = 6.120 s
+
+Time = 14.068 s
+Time = 15.663 s
+Time = 14.669 s
+
+Time = 66.311 s
+Time = 65.805 s
+
+Time = 6.759 s
+Time = 6.713 s
+Time = 6.721 s
+
+Time = 20.058 s
+Time = 18.607 s
+Time = 17.964 s
+
+Time = 78.681 s
+Time = 76.754 s
+Time = 77.392 s
+
+Time = 7.318 s
+Time = 7.225 s
+Time = 7.545 s
+
+Time = 32.471 s
+Time = 32.476 s
+Time = 32.001 s
+
+Time = 88.522 s
+Time = 88.183 s
+Time = 87.306 s
+
+Time = 8.134 s
+Time = 7.735 s
+Time = 7.868 s
+
+Time = 22.195 s
+Time = 24.428 s
+Time = 25.569 s
+
+Time = 100.896 s
+Time = 101.679 s
+Time = 101.434 s
+
+Time = 8.732 s
+Time = 8.638 s
+Time = 8.562 s
+
+Time = 26.906 s
+Time = 29.397 s
+Time = 28.035 s
+
+Time = 112.518 s
+Time = 113.831 s
+Time = 111.704 s
+
+Time = 9.280 s
+Time = 9.322 s
+Time = 9.269 s
+
+Time = 34.636 s
+Time = 33.926 s
+Time = 35.251 s
+
+Time = 126.612 s
+Time = 126.587 s
+Time = 127.829 s
+
+Time = 22.376 s
+Time = 22.308 s
+Time = 22.256 s
+
+Time = 59.342 s
+Time = 59.048 s
+Time = 60.421 s
+
+Time = 125.754 s
+Time = 123.877 s
+Time = 125.457 s
+
+Time = 11.092 s
+Time = 11.649 s
+Time = 10.952 s
+
+Time = 46.424 s
+Time = 45.201 s
+Time = 45.970 s
+
+Time = 153.292 s
+Time = 154.213 s
+Time = 153.178 s
+
+Time = 12.113 s
+Time = 11.688 s
+Time = 11.892 s
+
+Time = 52.909 s
+Time = 53.470 s
+Time = 54.241 s
+
+Time = 167.159 s
+Time = 167.093 s
+Time = 166.929 s
+
+Time = 13.110 s
+Time = 12.866 s
+Time = 13.129 s
+
+Time = 63.923 s
+Time = 62.764 s
+Time = 64.676 s
+
+Time = 183.637 s
+Time = 183.942 s
+Time = 183.782 s
+
+Time = 17.530 s
+Time = 17.863 s
+Time = 16.341 s
+
+Time = 87.386 s
+Time = 88.843 s
+Time = 87.935 s
+
+Time = 188.648 s
+Time = 188.892 s
+Time = 188.503 s
+
+Time = 17.756 s
+Time = 15.601 s
+Time = 15.778 s
+
+Time = 81.586 s
+Time = 82.084 s
+Time = 81.031 s
+
+Time = 212.876 s
+Time = 213.541 s
+Time = 213.592 s
+
+Time = 17.521 s
+Time = 17.580 s
+Time = 19.349 s
+
+Time = 90.649 s
+Time = 92.206 s
+Time = 90.053 s
+
+Time = 227.476 s
+Time = 226.658 s
+Time = 226.637 s
+
+Time = 19.686 s
+Time = 18.345 s
+Time = 20.895 s
+
+Time = 103.406 s
+Time = 105.430 s
+Time = 105.665 s
+
+Time = 246.622 s
+Time = 245.714 s
+Time = 245.401 s
+
+Time = 49.448 s
+Time = 49.288 s
+Time = 49.374 s
+
+Time = 98.772 s
+Time = 97.462 s
+Time = 100.526 s
+
+Time = 235.069 s
+Time = 233.375 s
+Time = 235.925 s
+
+Time = 22.676 s
+Time = 22.005 s
+
+Time = 125.849 s
+Time = 127.519 s
+Time = 126.667 s
+
+Time = 278.225 s
+Time = 279.568 s
+Time = 279.899 s
+
+Time = 22.491 s
+Time = 22.854 s
+Time = 23.082 s
+
+Time = 136.877 s
+Time = 132.863 s
+Time = 137.232 s
+
+Time = 296.075 s
+Time = 296.075 s
+Time = 296.832 s
+
+Time = 28.562 s
+Time = 31.167 s
+Time = 28.220 s
+
+Time = 150.083 s
+Time = 150.610 s
+Time = 146.038 s
+
+Time = 316.454 s
+Time = 316.188 s
+Time = 316.290 s
+
+Time = 48.284 s
+Time = 47.435 s
+Time = 45.757 s
+
+Time = 155.816 s
+Time = 158.739 s
+Time = 158.225 s
+
+Time = 328.672 s
+Time = 326.712 s
+Time = 326.368 s
+
+Time = 33.147 s
+Time = 35.204 s
+Time = 33.786 s
+
+Time = 171.287 s
+Time = 171.200 s
+Time = 172.830 s
+
+Time = 355.214 s
+Time = 354.720 s
+Time = 355.224 s
+
+Time = 41.085 s
+Time = 40.580 s
+Time = 32.521 s
+
+Time = 182.938 s
+Time = 183.782 s
+Time = 185.843 s
+
+Time = 374.080 s
+Time = 373.675 s

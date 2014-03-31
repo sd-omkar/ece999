@@ -1,0 +1,540 @@
+OMP_NUM_THREADS = 1
+/home/odeshmukh/vpu_test
+N = 1000  Time = 514.471 ms
+
+Usage summary
+      0.85 seconds Elapsed         ( 7.5% System, 92.5% User )
+
+      0.00 seconds Parallel        (    0 cores)
+      0.84 seconds Serial         
+OMP_NUM_THREADS = 2
+/home/odeshmukh/vpu_test
+N = 1000  Time = 415.014 ms
+
+Usage summary
+      0.85 seconds Elapsed         (11.4% System, 88.6% User )
+
+      0.00 seconds Parallel        (    0 cores)
+      0.84 seconds Serial         
+OMP_NUM_THREADS = 3
+/home/odeshmukh/vpu_test
+N = 1000  Time = 392.681 ms
+
+Usage summary
+      0.85 seconds Elapsed         (14.3% System, 85.7% User )
+
+      0.00 seconds Parallel        (    0 cores)
+      0.84 seconds Serial         
+OMP_NUM_THREADS = 4
+/home/odeshmukh/vpu_test
+N = 1000  Time = 358.013 ms
+
+Usage summary
+      0.84 seconds Elapsed         ( 8.8% System, 91.2% User )
+
+      0.00 seconds Parallel        (    0 cores)
+      0.84 seconds Serial         
+OMP_NUM_THREADS = 5
+/home/odeshmukh/vpu_test
+N = 1000  Time = 348.878 ms
+
+Usage summary
+      0.85 seconds Elapsed         ( 8.2% System, 91.8% User )
+
+      0.21 seconds Parallel        (    5 cores)
+      0.81   GB/Sec  (Mem)         (  0.5 % peak)
+      1.49   GIPS    (Inst)        (  1.2 % peak)
+      0.19   GIPS    (VPU)         (  0.2 % peak)
+      1.40   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.40   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.64 seconds Serial         
+OMP_NUM_THREADS = 6
+/home/odeshmukh/vpu_test
+N = 1000  Time = 341.771 ms
+
+Usage summary
+      0.84 seconds Elapsed         ( 5.4% System, 94.6% User )
+
+      0.42 seconds Parallel        (    6 cores)
+      0.64   GB/Sec  (Mem)         (  0.4 % peak)
+      1.44   GIPS    (Inst)        (  1.2 % peak)
+      0.18   GIPS    (VPU)         (  0.1 % peak)
+      1.23   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.23   Gop/Sec (VpuDP)       (  0.2 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 7
+/home/odeshmukh/vpu_test
+N = 1000  Time = 344.239 ms
+
+Usage summary
+      0.84 seconds Elapsed         (10.8% System, 89.2% User )
+
+      0.42 seconds Parallel        (    6 cores)
+      0.65   GB/Sec  (Mem)         (  0.4 % peak)
+      1.70   GIPS    (Inst)        (  1.4 % peak)
+      0.18   GIPS    (VPU)         (  0.1 % peak)
+      1.17   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.17   Gop/Sec (VpuDP)       (  0.2 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 8
+/home/odeshmukh/vpu_test
+N = 1000  Time = 343.048 ms
+
+Usage summary
+      0.85 seconds Elapsed         ( 7.9% System, 92.1% User )
+
+      0.42 seconds Parallel        (    7 cores)
+      0.62   GB/Sec  (Mem)         (  0.4 % peak)
+      1.90   GIPS    (Inst)        (  1.5 % peak)
+      0.18   GIPS    (VPU)         (  0.1 % peak)
+      1.10   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.10   Gop/Sec (VpuDP)       (  0.2 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 9
+/home/odeshmukh/vpu_test
+N = 1000  Time = 337.643 ms
+
+Usage summary
+      0.85 seconds Elapsed         ( 8.1% System, 91.9% User )
+
+      0.21 seconds Parallel        (    9 cores)
+      0.80   GB/Sec  (Mem)         (  0.5 % peak)
+      2.11   GIPS    (Inst)        (  1.7 % peak)
+      0.21   GIPS    (VPU)         (  0.2 % peak)
+      1.32   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.32   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.63 seconds Serial         
+OMP_NUM_THREADS = 10
+/home/odeshmukh/vpu_test
+N = 1000  Time = 342.358 ms
+
+Usage summary
+      0.84 seconds Elapsed         ( 7.4% System, 92.6% User )
+
+      0.42 seconds Parallel        (    8 cores)
+      0.62   GB/Sec  (Mem)         (  0.4 % peak)
+      2.00   GIPS    (Inst)        (  1.6 % peak)
+      0.18   GIPS    (VPU)         (  0.1 % peak)
+      1.32   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.32   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 11
+/home/odeshmukh/vpu_test
+N = 1000  Time = 338.098 ms
+
+Usage summary
+      0.84 seconds Elapsed         ( 5.4% System, 94.6% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      0.77   GB/Sec  (Mem)         (  0.4 % peak)
+      2.45   GIPS    (Inst)        (  2.0 % peak)
+      0.21   GIPS    (VPU)         (  0.2 % peak)
+      1.52   Gop/Sec (VpuSP)       (  0.2 % peak)
+      1.52   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.63 seconds Serial         
+OMP_NUM_THREADS = 12
+/home/odeshmukh/vpu_test
+N = 1000  Time = 233.433 ms
+
+Usage summary
+      0.64 seconds Elapsed         (16.3% System, 83.7% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      1.53   GB/Sec  (Mem)         (  0.9 % peak)
+      2.59   GIPS    (Inst)        (  2.1 % peak)
+      0.31   GIPS    (VPU)         (  0.3 % peak)
+      2.54   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.54   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 13
+/home/odeshmukh/vpu_test
+N = 1000  Time = 238.474 ms
+
+Usage summary
+      0.64 seconds Elapsed         (15.3% System, 84.7% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      1.51   GB/Sec  (Mem)         (  0.9 % peak)
+      2.70   GIPS    (Inst)        (  2.2 % peak)
+      0.29   GIPS    (VPU)         (  0.2 % peak)
+      2.24   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.24   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 14
+/home/odeshmukh/vpu_test
+N = 1000  Time = 235.161 ms
+
+Usage summary
+      0.63 seconds Elapsed         (12.9% System, 87.1% User )
+
+      0.21 seconds Parallel        (   13 cores)
+      1.51   GB/Sec  (Mem)         (  0.9 % peak)
+      3.00   GIPS    (Inst)        (  2.4 % peak)
+      0.37   GIPS    (VPU)         (  0.3 % peak)
+      2.44   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.44   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 15
+/home/odeshmukh/vpu_test
+N = 1000  Time = 236.647 ms
+
+Usage summary
+      0.64 seconds Elapsed         (10.3% System, 89.7% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      1.53   GB/Sec  (Mem)         (  0.9 % peak)
+      3.12   GIPS    (Inst)        (  2.5 % peak)
+      0.31   GIPS    (VPU)         (  0.3 % peak)
+      2.33   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.33   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 16
+/home/odeshmukh/vpu_test
+N = 1000  Time = 230.012 ms
+
+Usage summary
+      0.63 seconds Elapsed         (23.3% System, 76.7% User )
+
+      0.21 seconds Parallel        (    5 cores)
+      1.54   GB/Sec  (Mem)         (  0.9 % peak)
+      3.42   GIPS    (Inst)        (  2.8 % peak)
+      0.37   GIPS    (VPU)         (  0.3 % peak)
+      2.28   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.28   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 17
+/home/odeshmukh/vpu_test
+N = 1000  Time = 243.625 ms
+
+Usage summary
+      0.63 seconds Elapsed         (18.6% System, 81.4% User )
+
+      0.21 seconds Parallel        (   12 cores)
+      1.53   GB/Sec  (Mem)         (  0.9 % peak)
+      3.86   GIPS    (Inst)        (  3.1 % peak)
+      0.37   GIPS    (VPU)         (  0.3 % peak)
+      2.06   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.06   Gop/Sec (VpuDP)       (  0.4 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 18
+/home/odeshmukh/vpu_test
+N = 1000  Time = 225.454 ms
+
+Usage summary
+      0.64 seconds Elapsed         (16.0% System, 84.0% User )
+
+      0.21 seconds Parallel        (   15 cores)
+      1.54   GB/Sec  (Mem)         (  0.9 % peak)
+      3.51   GIPS    (Inst)        (  2.8 % peak)
+      0.29   GIPS    (VPU)         (  0.2 % peak)
+      2.45   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.45   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 19
+/home/odeshmukh/vpu_test
+N = 1000  Time = 229.451 ms
+
+Usage summary
+      0.63 seconds Elapsed         (15.3% System, 84.7% User )
+
+      0.21 seconds Parallel        (   10 cores)
+      1.52   GB/Sec  (Mem)         (  0.9 % peak)
+      3.66   GIPS    (Inst)        (  3.0 % peak)
+      0.32   GIPS    (VPU)         (  0.3 % peak)
+      2.47   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.47   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 20
+/home/odeshmukh/vpu_test
+N = 1000  Time = 234.672 ms
+
+Usage summary
+      0.63 seconds Elapsed         (20.2% System, 79.8% User )
+
+      0.21 seconds Parallel        (    9 cores)
+      1.58   GB/Sec  (Mem)         (  0.9 % peak)
+      4.16   GIPS    (Inst)        (  3.4 % peak)
+      0.34   GIPS    (VPU)         (  0.3 % peak)
+      2.53   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.53   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 21
+/home/odeshmukh/vpu_test
+N = 1000  Time = 230.972 ms
+
+Usage summary
+      0.64 seconds Elapsed         (19.9% System, 80.1% User )
+
+      0.21 seconds Parallel        (   14 cores)
+      1.60   GB/Sec  (Mem)         (  0.9 % peak)
+      4.14   GIPS    (Inst)        (  3.3 % peak)
+      0.36   GIPS    (VPU)         (  0.3 % peak)
+      2.52   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.52   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 22
+/home/odeshmukh/vpu_test
+N = 1000  Time = 242.481 ms
+
+Usage summary
+      0.63 seconds Elapsed         (21.5% System, 78.5% User )
+
+      0.21 seconds Parallel        (   14 cores)
+      1.59   GB/Sec  (Mem)         (  0.9 % peak)
+      3.95   GIPS    (Inst)        (  3.2 % peak)
+      0.32   GIPS    (VPU)         (  0.3 % peak)
+      2.51   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.51   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 23
+/home/odeshmukh/vpu_test
+N = 1000  Time = 233.868 ms
+
+Usage summary
+      0.64 seconds Elapsed         (15.8% System, 84.2% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      1.59   GB/Sec  (Mem)         (  0.9 % peak)
+      4.12   GIPS    (Inst)        (  3.3 % peak)
+      0.44   GIPS    (VPU)         (  0.4 % peak)
+      2.50   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.50   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.43 seconds Serial         
+OMP_NUM_THREADS = 24
+/home/odeshmukh/vpu_test
+N = 1000  Time = 241.504 ms
+
+Usage summary
+      0.63 seconds Elapsed         (21.9% System, 78.1% User )
+
+      0.21 seconds Parallel        (   10 cores)
+      1.64   GB/Sec  (Mem)         (  0.9 % peak)
+      4.49   GIPS    (Inst)        (  3.6 % peak)
+      0.33   GIPS    (VPU)         (  0.3 % peak)
+      3.21   Gop/Sec (VpuSP)       (  0.3 % peak)
+      3.21   Gop/Sec (VpuDP)       (  0.6 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 25
+/home/odeshmukh/vpu_test
+N = 1000  Time = 241.860 ms
+
+Usage summary
+      0.63 seconds Elapsed         (23.3% System, 76.7% User )
+
+      0.21 seconds Parallel        (   10 cores)
+      1.60   GB/Sec  (Mem)         (  0.9 % peak)
+      5.01   GIPS    (Inst)        (  4.1 % peak)
+      0.33   GIPS    (VPU)         (  0.3 % peak)
+      2.29   Gop/Sec (VpuSP)       (  0.2 % peak)
+      2.29   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 26
+/home/odeshmukh/vpu_test
+N = 1000  Time = 243.410 ms
+
+Usage summary
+      0.63 seconds Elapsed         (20.4% System, 79.6% User )
+
+      0.21 seconds Parallel        (   13 cores)
+      1.66   GB/Sec  (Mem)         (  0.9 % peak)
+      4.75   GIPS    (Inst)        (  3.8 % peak)
+      0.28   GIPS    (VPU)         (  0.2 % peak)
+      2.55   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.55   Gop/Sec (VpuDP)       (  0.5 % peak)
+      0.41 seconds Serial         
+OMP_NUM_THREADS = 27
+/home/odeshmukh/vpu_test
+N = 1000  Time = 254.143 ms
+
+Usage summary
+      0.63 seconds Elapsed         (14.4% System, 85.6% User )
+
+      0.21 seconds Parallel        (    9 cores)
+      1.62   GB/Sec  (Mem)         (  0.9 % peak)
+      5.06   GIPS    (Inst)        (  4.1 % peak)
+      0.15   GIPS    (VPU)         (  0.1 % peak)
+      1.23   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.23   Gop/Sec (VpuDP)       (  0.2 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 28
+/home/odeshmukh/vpu_test
+N = 1000  Time = 258.952 ms
+
+Usage summary
+      0.64 seconds Elapsed         (22.0% System, 78.0% User )
+
+      0.21 seconds Parallel        (   11 cores)
+      2.12   GB/Sec  (Mem)         (  1.2 % peak)
+      4.95   GIPS    (Inst)        (  4.0 % peak)
+      0.08   GIPS    (VPU)         (  0.1 % peak)
+      1.05   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.05   Gop/Sec (VpuDP)       (  0.2 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 29
+/home/odeshmukh/vpu_test
+N = 1000  Time = 258.499 ms
+
+Usage summary
+      0.64 seconds Elapsed         (23.7% System, 76.3% User )
+
+      0.21 seconds Parallel        (    5 cores)
+      1.60   GB/Sec  (Mem)         (  0.9 % peak)
+      4.52   GIPS    (Inst)        (  3.7 % peak)
+      0.12   GIPS    (VPU)         (  0.1 % peak)
+      0.34   Gop/Sec (VpuSP)       (  0.0 % peak)
+      0.34   Gop/Sec (VpuDP)       (  0.1 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 30
+/home/odeshmukh/vpu_test
+N = 1000  Time = 258.096 ms
+
+Usage summary
+      0.64 seconds Elapsed         (19.0% System, 81.0% User )
+
+      0.21 seconds Parallel        (    7 cores)
+      1.70   GB/Sec  (Mem)         (  1.0 % peak)
+      5.49   GIPS    (Inst)        (  4.4 % peak)
+      0.15   GIPS    (VPU)         (  0.1 % peak)
+      0.68   Gop/Sec (VpuSP)       (  0.1 % peak)
+      0.68   Gop/Sec (VpuDP)       (  0.1 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 31
+/home/odeshmukh/vpu_test
+N = 1000  Time = 276.461 ms
+
+Usage summary
+      0.63 seconds Elapsed         (24.2% System, 75.8% User )
+
+      0.21 seconds Parallel        (    8 cores)
+      1.49   GB/Sec  (Mem)         (  0.8 % peak)
+      4.55   GIPS    (Inst)        (  3.7 % peak)
+      0.03   GIPS    (VPU)         (  0.0 % peak)
+      0.24   Gop/Sec (VpuSP)       (  0.0 % peak)
+      0.24   Gop/Sec (VpuDP)       (  0.0 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 32
+/home/odeshmukh/vpu_test
+N = 1000  Time = 410.956 ms
+
+Usage summary
+      0.85 seconds Elapsed         (17.2% System, 82.8% User )
+
+      0.21 seconds Parallel        (   32 cores)
+      0.75   GB/Sec  (Mem)         (  0.4 % peak)
+      9.91   GIPS    (Inst)        (  8.0 % peak)
+      0.45   GIPS    (VPU)         (  0.4 % peak)
+      2.91   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.91   Gop/Sec (VpuDP)       (  0.6 % peak)
+      0.63 seconds Serial         
+OMP_NUM_THREADS = 33
+/home/odeshmukh/vpu_test
+N = 1000  Time = 395.435 ms
+
+Usage summary
+      0.85 seconds Elapsed         (16.0% System, 84.0% User )
+
+      0.42 seconds Parallel        (   22 cores)
+      0.92   GB/Sec  (Mem)         (  0.5 % peak)
+      8.12   GIPS    (Inst)        (  6.6 % peak)
+      0.25   GIPS    (VPU)         (  0.2 % peak)
+      1.44   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.44   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 34
+/home/odeshmukh/vpu_test
+N = 1000  Time = 405.574 ms
+
+Usage summary
+      0.85 seconds Elapsed         (13.0% System, 87.0% User )
+
+      0.42 seconds Parallel        (   20 cores)
+      0.92   GB/Sec  (Mem)         (  0.5 % peak)
+      8.54   GIPS    (Inst)        (  6.9 % peak)
+      0.27   GIPS    (VPU)         (  0.2 % peak)
+      1.55   Gop/Sec (VpuSP)       (  0.2 % peak)
+      1.55   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 35
+/home/odeshmukh/vpu_test
+N = 1000  Time = 405.760 ms
+
+Usage summary
+      0.84 seconds Elapsed         (16.6% System, 83.4% User )
+
+      0.42 seconds Parallel        (   22 cores)
+      0.94   GB/Sec  (Mem)         (  0.5 % peak)
+      9.26   GIPS    (Inst)        (  7.5 % peak)
+      0.28   GIPS    (VPU)         (  0.2 % peak)
+      1.57   Gop/Sec (VpuSP)       (  0.2 % peak)
+      1.57   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 36
+/home/odeshmukh/vpu_test
+N = 1000  Time = 416.588 ms
+
+Usage summary
+      0.84 seconds Elapsed         (12.1% System, 87.9% User )
+
+      0.42 seconds Parallel        (   22 cores)
+      0.97   GB/Sec  (Mem)         (  0.6 % peak)
+      9.40   GIPS    (Inst)        (  7.6 % peak)
+      0.28   GIPS    (VPU)         (  0.2 % peak)
+      1.64   Gop/Sec (VpuSP)       (  0.2 % peak)
+      1.64   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 37
+/home/odeshmukh/vpu_test
+N = 1000  Time = 423.867 ms
+
+Usage summary
+      0.86 seconds Elapsed         (15.2% System, 84.8% User )
+
+      0.43 seconds Parallel        (   25 cores)
+      0.96   GB/Sec  (Mem)         (  0.5 % peak)
+     10.28   GIPS    (Inst)        (  8.3 % peak)
+      0.24   GIPS    (VPU)         (  0.2 % peak)
+      1.40   Gop/Sec (VpuSP)       (  0.1 % peak)
+      1.40   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.43 seconds Serial         
+OMP_NUM_THREADS = 38
+/home/odeshmukh/vpu_test
+N = 1000  Time = 436.448 ms
+
+Usage summary
+      0.84 seconds Elapsed         (19.5% System, 80.5% User )
+
+      0.42 seconds Parallel        (   22 cores)
+      1.01   GB/Sec  (Mem)         (  0.6 % peak)
+     10.75   GIPS    (Inst)        (  8.7 % peak)
+      0.28   GIPS    (VPU)         (  0.2 % peak)
+      1.53   Gop/Sec (VpuSP)       (  0.2 % peak)
+      1.53   Gop/Sec (VpuDP)       (  0.3 % peak)
+      0.42 seconds Serial         
+OMP_NUM_THREADS = 39
+/home/odeshmukh/vpu_test
+N = 1000  Time = 432.639 ms
+
+Usage summary
+      0.85 seconds Elapsed         (15.1% System, 84.9% User )
+
+      0.21 seconds Parallel        (   39 cores)
+      0.93   GB/Sec  (Mem)         (  0.5 % peak)
+     17.07   GIPS    (Inst)        ( 13.8 % peak)
+      0.47   GIPS    (VPU)         (  0.4 % peak)
+      2.96   Gop/Sec (VpuSP)       (  0.3 % peak)
+      2.96   Gop/Sec (VpuDP)       (  0.6 % peak)
+      0.63 seconds Serial         
+OMP_NUM_THREADS = 40
+/home/odeshmukh/vpu_test
+N = 1000  Time = 424.308 ms
+
+Usage summary
+      0.85 seconds Elapsed         (12.2% System, 87.8% User )
+
+      0.21 seconds Parallel        (   40 cores)
+      0.81   GB/Sec  (Mem)         (  0.5 % peak)
+     17.22   GIPS    (Inst)        ( 13.9 % peak)
+      0.47   GIPS    (VPU)         (  0.4 % peak)
+      3.00   Gop/Sec (VpuSP)       (  0.3 % peak)
+      3.00   Gop/Sec (VpuDP)       (  0.6 % peak)
+      0.63 seconds Serial         

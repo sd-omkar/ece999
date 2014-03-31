@@ -1,0 +1,19 @@
+Function             Module            CPU Time:Self  CPU Time:Idle:Self  CPU Time:Poor:Self  CPU Time:Ok:Self  CPU Time:Ideal:Self  CPU Time:Over:Self  Wait Time:Self  Overhead Time:Self  Spin Time:Self
+-------------------  ----------------  -------------  ------------------  ------------------  ----------------  -------------------  ------------------  --------------  ------------------  --------------
+[OpenMP worker]      libiomp5.so              17.049                   0               1.390             2.360               13.299                   0               0               0.010          17.039
+[OpenMP dispatcher]  libiomp5.so               1.090                   0                   0                 0                1.090                   0           0.094               1.070           0.020
+main                 cpu.out                   0.260                   0               0.190                 0                0.070                   0           0.000                   0               0
+[OpenMP fork]        libiomp5.so               0.200                   0                   0                 0                0.200                   0               0               0.110           0.090
+COIEngineGetInfo     libcoi_host.so.0          0.010                   0               0.010                 0                    0                   0               0                   0               0
+func@0x330962e6b0    libcoi_host.so.0          0.010                   0               0.010                 0                    0                   0               0                   0               0
+func@0x330964fff0    libcoi_host.so.0          0.010                   0               0.010                 0                    0                   0           0.000                   0               0
+read                 libc-2.3.4.so             0.010                   0               0.010                 0                    0                   0               0                   0               0
+[Unknown]            [Unknown]                     0                   0                   0                 0                    0                   0           0.000                   0               0
+func@0x3309611cb0    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.000                   0               0
+func@0x330962e000    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.000                   0               0
+func@0x330962e360    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.007                   0               0
+func@0x330962e430    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.000                   0               0
+func@0x330962ee20    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.000                   0               0
+func@0x33096492e0    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.013                   0               0
+func@0x3309649d60    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.003                   0               0
+func@0x330964ff20    libcoi_host.so.0              0                   0                   0                 0                    0                   0           0.000                   0               0

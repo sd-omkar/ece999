@@ -1,0 +1,1271 @@
+CPU Banded
+===========================
+N = 500  k = 25	Time = 11.979 ms
+N = 500  k = 25	Time = 10.289 ms
+N = 500  k = 25	Time = 11.238 ms
+
+N = 500  k = 50	Time = 13.707 ms
+N = 500  k = 50	Time = 13.318 ms
+N = 500  k = 50	Time = 13.453 ms
+
+N = 500  k = 100	Time = 36.999 ms
+N = 500  k = 100	Time = 35.038 ms
+N = 500  k = 100	Time = 33.799 ms
+
+N = 1000  k = 50	Time = 16.367 ms
+N = 1000  k = 50	Time = 16.026 ms
+N = 1000  k = 50	Time = 15.333 ms
+
+N = 1000  k = 100	Time = 40.395 ms
+N = 1000  k = 100	Time = 54.312 ms
+N = 1000  k = 100	Time = 33.139 ms
+
+N = 1000  k = 200	Time = 42.701 ms
+N = 1000  k = 200	Time = 55.497 ms
+N = 1000  k = 200	Time = 41.131 ms
+
+N = 1500  k = 75	Time = 20.786 ms
+N = 1500  k = 75	Time = 23.893 ms
+N = 1500  k = 75	Time = 24.347 ms
+
+N = 1500  k = 150	Time = 57.759 ms
+N = 1500  k = 150	Time = 51.328 ms
+N = 1500  k = 150	Time = 63.388 ms
+
+N = 1500  k = 300	Time = 58.581 ms
+N = 1500  k = 300	Time = 54.393 ms
+N = 1500  k = 300	Time = 57.678 ms
+
+N = 2000  k = 100	Time = 75.764 ms
+N = 2000  k = 100	Time = 38.316 ms
+N = 2000  k = 100	Time = 49.631 ms
+
+N = 2000  k = 200	Time = 59.679 ms
+N = 2000  k = 200	Time = 64.536 ms
+N = 2000  k = 200	Time = 58.373 ms
+
+N = 2000  k = 400	Time = 78.469 ms
+N = 2000  k = 400	Time = 80.147 ms
+N = 2000  k = 400	Time = 86.738 ms
+
+N = 2500  k = 125	Time = 74.920 ms
+N = 2500  k = 125	Time = 54.918 ms
+N = 2500  k = 125	Time = 64.739 ms
+
+N = 2500  k = 250	Time = 63.591 ms
+N = 2500  k = 250	Time = 75.289 ms
+N = 2500  k = 250	Time = 65.503 ms
+
+N = 2500  k = 500	Time = 123.699 ms
+N = 2500  k = 500	Time = 110.242 ms
+N = 2500  k = 500	Time = 106.774 ms
+
+N = 3000  k = 150	Time = 72.833 ms
+N = 3000  k = 150	Time = 67.799 ms
+N = 3000  k = 150	Time = 73.258 ms
+
+N = 3000  k = 300	Time = 89.700 ms
+N = 3000  k = 300	Time = 96.640 ms
+N = 3000  k = 300	Time = 96.527 ms
+
+N = 3000  k = 600	Time = 139.891 ms
+N = 3000  k = 600	Time = 133.294 ms
+N = 3000  k = 600	Time = 167.627 ms
+
+N = 3500  k = 175	Time = 71.397 ms
+N = 3500  k = 175	Time = 90.882 ms
+N = 3500  k = 175	Time = 85.070 ms
+
+N = 3500  k = 350	Time = 111.205 ms
+N = 3500  k = 350	Time = 109.993 ms
+N = 3500  k = 350	Time = 113.320 ms
+
+N = 3500  k = 700	Time = 178.230 ms
+N = 3500  k = 700	Time = 185.956 ms
+N = 3500  k = 700	Time = 181.427 ms
+
+N = 4000  k = 200	Time = 73.560 ms
+N = 4000  k = 200	Time = 89.232 ms
+N = 4000  k = 200	Time = 91.724 ms
+
+N = 4000  k = 400	Time = 148.231 ms
+N = 4000  k = 400	Time = 153.654 ms
+N = 4000  k = 400	Time = 163.043 ms
+
+N = 4000  k = 800	Time = 254.209 ms
+N = 4000  k = 800	Time = 244.411 ms
+N = 4000  k = 800	Time = 246.156 ms
+
+N = 4500  k = 225	Time = 106.522 ms
+N = 4500  k = 225	Time = 103.100 ms
+N = 4500  k = 225	Time = 115.242 ms
+
+N = 4500  k = 450	Time = 166.986 ms
+N = 4500  k = 450	Time = 166.746 ms
+N = 4500  k = 450	Time = 161.728 ms
+
+N = 4500  k = 900	Time = 303.848 ms
+N = 4500  k = 900	Time = 289.393 ms
+N = 4500  k = 900	Time = 282.133 ms
+
+N = 5000  k = 250	Time = 115.794 ms
+N = 5000  k = 250	Time = 122.428 ms
+N = 5000  k = 250	Time = 126.617 ms
+
+N = 5000  k = 500	Time = 176.789 ms
+N = 5000  k = 500	Time = 193.317 ms
+N = 5000  k = 500	Time = 183.937 ms
+
+N = 5000  k = 1000	Time = 317.196 ms
+N = 5000  k = 1000	Time = 319.115 ms
+N = 5000  k = 1000	Time = 317.935 ms
+
+N = 5500  k = 275	Time = 154.065 ms
+N = 5500  k = 275	Time = 140.612 ms
+N = 5500  k = 275	Time = 148.044 ms
+
+N = 5500  k = 550	Time = 222.544 ms
+N = 5500  k = 550	Time = 271.429 ms
+N = 5500  k = 550	Time = 232.755 ms
+
+N = 5500  k = 1100	Time = 436.066 ms
+N = 5500  k = 1100	Time = 441.954 ms
+N = 5500  k = 1100	Time = 443.666 ms
+
+N = 6000  k = 300	Time = 166.868 ms
+N = 6000  k = 300	Time = 157.958 ms
+N = 6000  k = 300	Time = 158.587 ms
+
+N = 6000  k = 600	Time = 252.853 ms
+N = 6000  k = 600	Time = 256.357 ms
+N = 6000  k = 600	Time = 257.052 ms
+
+N = 6000  k = 1200	Time = 531.983 ms
+N = 6000  k = 1200	Time = 519.946 ms
+N = 6000  k = 1200	Time = 534.572 ms
+
+N = 6500  k = 325	Time = 174.304 ms
+N = 6500  k = 325	Time = 178.043 ms
+N = 6500  k = 325	Time = 165.877 ms
+
+N = 6500  k = 650	Time = 317.856 ms
+N = 6500  k = 650	Time = 325.565 ms
+N = 6500  k = 650	Time = 317.784 ms
+
+N = 6500  k = 1300	Time = 617.802 ms
+N = 6500  k = 1300	Time = 619.200 ms
+N = 6500  k = 1300	Time = 610.474 ms
+
+N = 7000  k = 350	Time = 205.163 ms
+N = 7000  k = 350	Time = 207.007 ms
+N = 7000  k = 350	Time = 189.435 ms
+
+N = 7000  k = 700	Time = 342.042 ms
+N = 7000  k = 700	Time = 335.896 ms
+N = 7000  k = 700	Time = 335.863 ms
+
+N = 7000  k = 1400	Time = 735.961 ms
+N = 7000  k = 1400	Time = 725.943 ms
+N = 7000  k = 1400	Time = 728.448 ms
+
+N = 7500  k = 375	Time = 241.438 ms
+N = 7500  k = 375	Time = 229.853 ms
+N = 7500  k = 375	Time = 232.114 ms
+
+N = 7500  k = 750	Time = 392.472 ms
+N = 7500  k = 750	Time = 393.911 ms
+N = 7500  k = 750	Time = 401.296 ms
+
+N = 7500  k = 1500	Time = 882.604 ms
+N = 7500  k = 1500	Time = 875.699 ms
+N = 7500  k = 1500	Time = 916.307 ms
+
+N = 8000  k = 400	Time = 291.682 ms
+N = 8000  k = 400	Time = 323.301 ms
+N = 8000  k = 400	Time = 287.791 ms
+
+N = 8000  k = 800	Time = 518.902 ms
+N = 8000  k = 800	Time = 514.452 ms
+N = 8000  k = 800	Time = 506.076 ms
+
+N = 8000  k = 1600	Time = 1103.776 ms
+N = 8000  k = 1600	Time = 1081.864 ms
+N = 8000  k = 1600	Time = 1079.070 ms
+
+N = 8500  k = 425	Time = 285.997 ms
+N = 8500  k = 425	Time = 289.859 ms
+N = 8500  k = 425	Time = 323.155 ms
+
+N = 8500  k = 850	Time = 542.969 ms
+N = 8500  k = 850	Time = 541.631 ms
+N = 8500  k = 850	Time = 537.602 ms
+
+N = 8500  k = 1700	Time = 1248.182 ms
+N = 8500  k = 1700	Time = 1249.666 ms
+N = 8500  k = 1700	Time = 1253.829 ms
+
+N = 9000  k = 450	Time = 287.680 ms
+N = 9000  k = 450	Time = 298.894 ms
+N = 9000  k = 450	Time = 303.206 ms
+
+N = 9000  k = 900	Time = 535.595 ms
+N = 9000  k = 900	Time = 546.647 ms
+N = 9000  k = 900	Time = 543.977 ms
+
+N = 9000  k = 1800	Time = 1371.048 ms
+N = 9000  k = 1800	Time = 1426.723 ms
+N = 9000  k = 1800	Time = 1414.487 ms
+
+N = 9500  k = 475	Time = 346.535 ms
+N = 9500  k = 475	Time = 344.468 ms
+N = 9500  k = 475	Time = 337.863 ms
+
+N = 9500  k = 950	Time = 619.687 ms
+N = 9500  k = 950	Time = 664.024 ms
+N = 9500  k = 950	Time = 623.537 ms
+
+N = 9500  k = 1900	Time = 1738.171 ms
+N = 9500  k = 1900	Time = 1739.550 ms
+N = 9500  k = 1900	Time = 1688.013 ms
+
+N = 10000  k = 500	Time = 349.228 ms
+N = 10000  k = 500	Time = 352.079 ms
+N = 10000  k = 500	Time = 344.596 ms
+
+N = 10000  k = 1000	Time = 715.617 ms
+N = 10000  k = 1000	Time = 719.601 ms
+N = 10000  k = 1000	Time = 732.369 ms
+
+N = 10000  k = 2000	Time = 2039.286 ms
+N = 10000  k = 2000	Time = 2062.412 ms
+N = 10000  k = 2000	Time = 2023.666 ms
+
+N = 10500  k = 525	Time = 405.713 ms
+N = 10500  k = 525	Time = 402.711 ms
+N = 10500  k = 525	Time = 440.992 ms
+
+N = 10500  k = 1050	Time = 888.160 ms
+N = 10500  k = 1050	Time = 891.448 ms
+N = 10500  k = 1050	Time = 871.200 ms
+
+N = 10500  k = 2100	Time = 2479.147 ms
+N = 10500  k = 2100	Time = 2504.627 ms
+N = 10500  k = 2100	Time = 2491.544 ms
+
+N = 11000  k = 550	Time = 422.556 ms
+N = 11000  k = 550	Time = 427.874 ms
+N = 11000  k = 550	Time = 419.356 ms
+
+N = 11000  k = 1100	Time = 897.974 ms
+N = 11000  k = 1100	Time = 871.759 ms
+N = 11000  k = 1100	Time = 880.100 ms
+
+N = 11000  k = 2200	Time = 2833.762 ms
+N = 11000  k = 2200	Time = 2859.882 ms
+N = 11000  k = 2200	Time = 2842.120 ms
+
+N = 11500  k = 575	Time = 536.467 ms
+N = 11500  k = 575	Time = 478.808 ms
+N = 11500  k = 575	Time = 524.358 ms
+
+N = 11500  k = 1150	Time = 1009.156 ms
+N = 11500  k = 1150	Time = 1023.022 ms
+N = 11500  k = 1150	Time = 1011.641 ms
+
+N = 11500  k = 2300	Time = 3444.203 ms
+N = 11500  k = 2300	Time = 3449.699 ms
+N = 11500  k = 2300	Time = 3443.695 ms
+
+N = 12000  k = 600	Time = 549.019 ms
+N = 12000  k = 600	Time = 585.371 ms
+N = 12000  k = 600	Time = 549.624 ms
+
+N = 12000  k = 1200	Time = 1128.029 ms
+N = 12000  k = 1200	Time = 1126.891 ms
+N = 12000  k = 1200	Time = 1133.300 ms
+
+N = 12000  k = 2400	Time = 4264.402 ms
+N = 12000  k = 2400	Time = 4265.866 ms
+N = 12000  k = 2400	Time = 4243.808 ms
+
+N = 12500  k = 625	Time = 590.140 ms
+N = 12500  k = 625	Time = 592.531 ms
+N = 12500  k = 625	Time = 588.651 ms
+
+N = 12500  k = 1250	Time = 1292.456 ms
+N = 12500  k = 1250	Time = 1280.652 ms
+N = 12500  k = 1250	Time = 1263.638 ms
+
+N = 12500  k = 2500	Time = 4504.131 ms
+N = 12500  k = 2500	Time = 4532.124 ms
+N = 12500  k = 2500	Time = 4488.397 ms
+
+N = 13000  k = 650	Time = 640.075 ms
+N = 13000  k = 650	Time = 607.274 ms
+N = 13000  k = 650	Time = 608.362 ms
+
+N = 13000  k = 1300	Time = 1277.246 ms
+N = 13000  k = 1300	Time = 1288.493 ms
+N = 13000  k = 1300	Time = 1267.701 ms
+
+N = 13000  k = 2600	Time = 5016.108 ms
+N = 13000  k = 2600	Time = 5046.822 ms
+N = 13000  k = 2600	Time = 5064.765 ms
+
+N = 13500  k = 675	Time = 736.108 ms
+N = 13500  k = 675	Time = 674.851 ms
+N = 13500  k = 675	Time = 693.716 ms
+
+N = 13500  k = 1350	Time = 1694.560 ms
+N = 13500  k = 1350	Time = 1629.221 ms
+N = 13500  k = 1350	Time = 1590.870 ms
+
+N = 13500  k = 2700	Time = 5778.049 ms
+N = 13500  k = 2700	Time = 5839.798 ms
+N = 13500  k = 2700	Time = 5865.054 ms
+
+N = 14000  k = 700	Time = 700.891 ms
+N = 14000  k = 700	Time = 751.094 ms
+N = 14000  k = 700	Time = 703.911 ms
+
+N = 14000  k = 1400	Time = 1651.113 ms
+N = 14000  k = 1400	Time = 1607.210 ms
+N = 14000  k = 1400	Time = 1648.446 ms
+
+N = 14000  k = 2800	Time = 6226.049 ms
+N = 14000  k = 2800	Time = 6398.005 ms
+N = 14000  k = 2800	Time = 6223.207 ms
+
+N = 14500  k = 725	Time = 788.347 ms
+N = 14500  k = 725	Time = 736.792 ms
+N = 14500  k = 725	Time = 740.081 ms
+
+N = 14500  k = 1450	Time = 1826.578 ms
+N = 14500  k = 1450	Time = 1783.914 ms
+N = 14500  k = 1450	Time = 1841.711 ms
+
+N = 14500  k = 2900	Time = 7058.372 ms
+N = 14500  k = 2900	Time = 7020.422 ms
+N = 14500  k = 2900	Time = 7035.738 ms
+
+N = 15000  k = 750	Time = 760.302 ms
+N = 15000  k = 750	Time = 759.555 ms
+N = 15000  k = 750	Time = 762.430 ms
+
+N = 15000  k = 1500	Time = 1842.891 ms
+N = 15000  k = 1500	Time = 1886.654 ms
+N = 15000  k = 1500	Time = 1891.644 ms
+
+N = 15000  k = 3000	Time = 7492.552 ms
+N = 15000  k = 3000	Time = 7490.430 ms
+N = 15000  k = 3000	Time = 7488.050 ms
+
+N = 15500  k = 775	Time = 848.032 ms
+N = 15500  k = 775	Time = 843.627 ms
+N = 15500  k = 775	Time = 890.477 ms
+
+N = 15500  k = 1550	Time = 2035.381 ms
+N = 15500  k = 1550	Time = 2101.875 ms
+N = 15500  k = 1550	Time = 2107.182 ms
+
+N = 15500  k = 3100	Time = 8265.017 ms
+N = 15500  k = 3100	Time = 8269.540 ms
+N = 15500  k = 3100	Time = 8277.243 ms
+
+N = 16000  k = 800	Time = 993.424 ms
+N = 16000  k = 800	Time = 988.819 ms
+N = 16000  k = 800	Time = 982.583 ms
+
+N = 16000  k = 1600	Time = 2280.111 ms
+N = 16000  k = 1600	Time = 2289.118 ms
+N = 16000  k = 1600	Time = 2284.129 ms
+
+N = 16000  k = 3200	Time = 9820.256 ms
+N = 16000  k = 3200	Time = 9805.120 ms
+N = 16000  k = 3200	Time = 9832.484 ms
+
+N = 16500  k = 825	Time = 981.376 ms
+N = 16500  k = 825	Time = 991.714 ms
+N = 16500  k = 825	Time = 988.649 ms
+
+N = 16500  k = 1650	Time = 2505.010 ms
+N = 16500  k = 1650	Time = 2506.301 ms
+N = 16500  k = 1650	Time = 2509.941 ms
+
+N = 16500  k = 3300	Time = 9797.893 ms
+N = 16500  k = 3300	Time = 9830.453 ms
+N = 16500  k = 3300	Time = 9749.730 ms
+
+N = 17000  k = 850	Time = 977.124 ms
+N = 17000  k = 850	Time = 1016.653 ms
+N = 17000  k = 850	Time = 1021.176 ms
+
+N = 17000  k = 1700	Time = 2579.876 ms
+N = 17000  k = 1700	Time = 2588.528 ms
+N = 17000  k = 1700	Time = 2581.464 ms
+
+N = 17000  k = 3400	Time = 10572.016 ms
+N = 17000  k = 3400	Time = 10545.284 ms
+N = 17000  k = 3400	Time = 10600.927 ms
+
+N = 17500  k = 875	Time = 1078.527 ms
+N = 17500  k = 875	Time = 1084.912 ms
+N = 17500  k = 875	Time = 1084.522 ms
+
+N = 17500  k = 1750	Time = 2801.463 ms
+N = 17500  k = 1750	Time = 2827.800 ms
+N = 17500  k = 1750	Time = 2806.966 ms
+
+N = 17500  k = 3500	Time = 11393.468 ms
+N = 17500  k = 3500	Time = 11409.882 ms
+N = 17500  k = 3500	Time = 11349.845 ms
+
+N = 18000  k = 900	Time = 1251.217 ms
+N = 18000  k = 900	Time = 1228.277 ms
+N = 18000  k = 900	Time = 1185.186 ms
+
+N = 18000  k = 1800	Time = 2949.782 ms
+N = 18000  k = 1800	Time = 2972.885 ms
+N = 18000  k = 1800	Time = 2980.682 ms
+
+N = 18000  k = 3600	Time = 11983.739 ms
+N = 18000  k = 3600	Time = 12022.904 ms
+N = 18000  k = 3600	Time = 11993.078 ms
+
+N = 18500  k = 925	Time = 1241.106 ms
+N = 18500  k = 925	Time = 1255.842 ms
+N = 18500  k = 925	Time = 1253.498 ms
+
+N = 18500  k = 1850	Time = 3498.184 ms
+N = 18500  k = 1850	Time = 3484.195 ms
+N = 18500  k = 1850	Time = 3451.076 ms
+
+N = 18500  k = 3700	Time = 13228.417 ms
+N = 18500  k = 3700	Time = 13257.139 ms
+N = 18500  k = 3700	Time = 13252.718 ms
+
+N = 19000  k = 950	Time = 1209.073 ms
+N = 19000  k = 950	Time = 1225.311 ms
+N = 19000  k = 950	Time = 1266.896 ms
+
+N = 19000  k = 1900	Time = 3544.053 ms
+N = 19000  k = 1900	Time = 3557.162 ms
+N = 19000  k = 1900	Time = 3541.846 ms
+
+N = 19000  k = 3800	Time = 14026.276 ms
+N = 19000  k = 3800	Time = 14024.939 ms
+N = 19000  k = 3800	Time = 14201.314 ms
+
+N = 19500  k = 975	Time = 1375.527 ms
+N = 19500  k = 975	Time = 1402.672 ms
+N = 19500  k = 975	Time = 1388.785 ms
+
+N = 19500  k = 1950	Time = 4292.224 ms
+N = 19500  k = 1950	Time = 4211.606 ms
+N = 19500  k = 1950	Time = 4195.806 ms
+
+N = 19500  k = 3900	Time = 15606.236 ms
+N = 19500  k = 3900	Time = 15676.414 ms
+N = 19500  k = 3900	Time = 15513.819 ms
+
+N = 20000  k = 1000	Time = 1535.690 ms
+N = 20000  k = 1000	Time = 1529.395 ms
+N = 20000  k = 1000	Time = 1525.887 ms
+
+N = 20000  k = 2000	Time = 4565.548 ms
+N = 20000  k = 2000	Time = 4493.813 ms
+N = 20000  k = 2000	Time = 4475.100 ms
+
+N = 20000  k = 4000	Time = 18244.912 ms
+N = 20000  k = 4000	Time = 18190.409 ms
+N = 20000  k = 4000	Time = 18274.376 ms
+
+===========================
+Phi Banded
+===========================
+N = 500  k = 25	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.076 s
+N = 500  k = 25	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.172 s
+N = 500  k = 25	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.075 s
+
+N = 500  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.096 s
+N = 500  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.096 s
+N = 500  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.100 s
+
+N = 500  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.490 s
+N = 500  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.896 s
+N = 500  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.489 s
+
+N = 1000  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.530 s
+N = 1000  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.132 s
+N = 1000  k = 50	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.131 s
+
+N = 1000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.676 s
+N = 1000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.639 s
+N = 1000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.625 s
+
+N = 1000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.711 s
+N = 1000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.699 s
+N = 1000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.735 s
+
+N = 1500  k = 75	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.746 s
+N = 1500  k = 75	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.727 s
+N = 1500  k = 75	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.726 s
+
+N = 1500  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.840 s
+N = 1500  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.845 s
+N = 1500  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.854 s
+
+N = 1500  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.028 s
+N = 1500  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.059 s
+N = 1500  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.036 s
+
+N = 2000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.947 s
+N = 2000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 0.921 s
+N = 2000  k = 100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.005 s
+
+N = 2000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.114 s
+N = 2000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.158 s
+N = 2000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.125 s
+
+N = 2000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.446 s
+N = 2000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.573 s
+N = 2000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.549 s
+
+N = 2500  k = 125	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.189 s
+N = 2500  k = 125	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.073 s
+N = 2500  k = 125	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.167 s
+
+N = 2500  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.431 s
+N = 2500  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.454 s
+N = 2500  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.457 s
+
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.918 s
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.879 s
+N = 2500  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 3000  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.326 s
+N = 3000  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.480 s
+N = 3000  k = 150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.329 s
+
+N = 3000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.810 s
+N = 3000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.804 s
+N = 3000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.034 s
+
+N = 3000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.468 s
+N = 3000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.535 s
+N = 3000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.534 s
+
+N = 3500  k = 175	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.792 s
+N = 3500  k = 175	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.572 s
+N = 3500  k = 175	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.848 s
+
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.206 s
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.223 s
+N = 3500  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.203 s
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.185 s
+N = 3500  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 4000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.961 s
+N = 4000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.895 s
+N = 4000  k = 200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 1.983 s
+
+N = 4000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.650 s
+N = 4000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.727 s
+N = 4000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.909 s
+
+N = 4000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 10.852 s
+N = 4000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 10.684 s
+N = 4000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 10.756 s
+
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.468 s
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.254 s
+N = 4500  k = 225	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 4500  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.221 s
+N = 4500  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.193 s
+N = 4500  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.178 s
+
+N = 4500  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.809 s
+N = 4500  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.032 s
+N = 4500  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.586 s
+
+N = 5000  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.568 s
+N = 5000  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.522 s
+N = 5000  k = 250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.714 s
+
+N = 5000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.630 s
+N = 5000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.767 s
+N = 5000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 5000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.375 s
+N = 5000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.247 s
+N = 5000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.736 s
+
+N = 5500  k = 275	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.907 s
+N = 5500  k = 275	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 2.857 s
+N = 5500  k = 275	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 5500  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.472 s
+N = 5500  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.456 s
+N = 5500  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.470 s
+
+N = 5500  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.609 s
+N = 5500  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.262 s
+N = 5500  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 12.930 s
+
+N = 6000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.249 s
+N = 6000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.323 s
+N = 6000  k = 300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.255 s
+
+N = 6000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.610 s
+N = 6000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.572 s
+N = 6000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.289 s
+
+N = 6000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.611 s
+N = 6000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.527 s
+N = 6000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 6500  k = 325	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.967 s
+N = 6500  k = 325	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.638 s
+N = 6500  k = 325	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 3.746 s
+
+N = 6500  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.131 s
+N = 6500  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.803 s
+N = 6500  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.038 s
+
+N = 6500  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 23.198 s
+N = 6500  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.789 s
+N = 6500  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.117 s
+
+N = 7000  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.161 s
+N = 7000  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.211 s
+N = 7000  k = 350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.088 s
+
+N = 7000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.571 s
+N = 7000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.698 s
+N = 7000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.771 s
+
+N = 7000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 28.958 s
+N = 7000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 29.904 s
+N = 7000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 28.705 s
+
+N = 7500  k = 375	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.543 s
+N = 7500  k = 375	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.800 s
+N = 7500  k = 375	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 4.536 s
+
+N = 7500  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.794 s
+N = 7500  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.247 s
+N = 7500  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 9.048 s
+
+N = 7500  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 37.799 s
+N = 7500  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 37.057 s
+N = 7500  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 37.391 s
+
+N = 8000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.256 s
+N = 8000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.429 s
+N = 8000  k = 400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.555 s
+
+N = 8000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.743 s
+N = 8000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.687 s
+N = 8000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.715 s
+
+N = 8000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 48.601 s
+N = 8000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 46.042 s
+N = 8000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 49.225 s
+
+N = 8500  k = 425	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.703 s
+N = 8500  k = 425	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.633 s
+N = 8500  k = 425	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 5.597 s
+
+N = 8500  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.993 s
+N = 8500  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.747 s
+N = 8500  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.640 s
+
+N = 8500  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 56.612 s
+N = 8500  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 56.707 s
+N = 8500  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 9000  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.114 s
+N = 9000  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.174 s
+N = 9000  k = 450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.120 s
+
+N = 9000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 14.068 s
+N = 9000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 15.663 s
+N = 9000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 14.669 s
+
+N = 9000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 66.311 s
+N = 9000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 65.805 s
+N = 9000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 9500  k = 475	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.759 s
+N = 9500  k = 475	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.713 s
+N = 9500  k = 475	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 6.721 s
+
+N = 9500  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 20.058 s
+N = 9500  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 18.607 s
+N = 9500  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.964 s
+
+N = 9500  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 78.681 s
+N = 9500  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 76.754 s
+N = 9500  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 77.392 s
+
+N = 10000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.318 s
+N = 10000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.225 s
+N = 10000  k = 500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.545 s
+
+N = 10000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 32.471 s
+N = 10000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 32.476 s
+N = 10000  k = 1000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 32.001 s
+
+N = 10000  k = 2000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 88.522 s
+N = 10000  k = 2000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 88.183 s
+N = 10000  k = 2000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 87.306 s
+
+N = 10500  k = 525	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.134 s
+N = 10500  k = 525	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.735 s
+N = 10500  k = 525	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 7.868 s
+
+N = 10500  k = 1050	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.195 s
+N = 10500  k = 1050	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 24.428 s
+N = 10500  k = 1050	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 25.569 s
+
+N = 10500  k = 2100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 100.896 s
+N = 10500  k = 2100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 101.679 s
+N = 10500  k = 2100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 101.434 s
+
+N = 11000  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.732 s
+N = 11000  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.638 s
+N = 11000  k = 550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 8.562 s
+
+N = 11000  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 26.906 s
+N = 11000  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 29.397 s
+N = 11000  k = 1100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 28.035 s
+
+N = 11000  k = 2200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 112.518 s
+N = 11000  k = 2200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 113.831 s
+N = 11000  k = 2200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 111.704 s
+
+N = 11500  k = 575	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 9.280 s
+N = 11500  k = 575	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 9.322 s
+N = 11500  k = 575	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 9.269 s
+
+N = 11500  k = 1150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 34.636 s
+N = 11500  k = 1150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 33.926 s
+N = 11500  k = 1150	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 35.251 s
+
+N = 11500  k = 2300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 126.612 s
+N = 11500  k = 2300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 126.587 s
+N = 11500  k = 2300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 127.829 s
+
+N = 12000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.376 s
+N = 12000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.308 s
+N = 12000  k = 600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.256 s
+
+N = 12000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 59.342 s
+N = 12000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 59.048 s
+N = 12000  k = 1200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 60.421 s
+
+N = 12000  k = 2400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 125.754 s
+N = 12000  k = 2400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 123.877 s
+N = 12000  k = 2400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 125.457 s
+
+N = 12500  k = 625	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.092 s
+N = 12500  k = 625	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.649 s
+N = 12500  k = 625	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 10.952 s
+
+N = 12500  k = 1250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 46.424 s
+N = 12500  k = 1250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 45.201 s
+N = 12500  k = 1250	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 45.970 s
+
+N = 12500  k = 2500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 153.292 s
+N = 12500  k = 2500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 154.213 s
+N = 12500  k = 2500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 153.178 s
+
+N = 13000  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 12.113 s
+N = 13000  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.688 s
+N = 13000  k = 650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 11.892 s
+
+N = 13000  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 52.909 s
+N = 13000  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 53.470 s
+N = 13000  k = 1300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 54.241 s
+
+N = 13000  k = 2600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 167.159 s
+N = 13000  k = 2600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 167.093 s
+N = 13000  k = 2600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 166.929 s
+
+N = 13500  k = 675	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.110 s
+N = 13500  k = 675	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 12.866 s
+N = 13500  k = 675	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 13.129 s
+
+N = 13500  k = 1350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 63.923 s
+N = 13500  k = 1350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 62.764 s
+N = 13500  k = 1350	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 64.676 s
+
+N = 13500  k = 2700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 183.637 s
+N = 13500  k = 2700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 183.942 s
+N = 13500  k = 2700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 183.782 s
+
+N = 14000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.530 s
+N = 14000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.863 s
+N = 14000  k = 700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 16.341 s
+
+N = 14000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 87.386 s
+N = 14000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 88.843 s
+N = 14000  k = 1400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 87.935 s
+
+N = 14000  k = 2800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 188.648 s
+N = 14000  k = 2800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 188.892 s
+N = 14000  k = 2800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 188.503 s
+
+N = 14500  k = 725	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.756 s
+N = 14500  k = 725	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 15.601 s
+N = 14500  k = 725	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 15.778 s
+
+N = 14500  k = 1450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 81.586 s
+N = 14500  k = 1450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 82.084 s
+N = 14500  k = 1450	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 81.031 s
+
+N = 14500  k = 2900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 212.876 s
+N = 14500  k = 2900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 213.541 s
+N = 14500  k = 2900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 213.592 s
+
+N = 15000  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.521 s
+N = 15000  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 17.580 s
+N = 15000  k = 750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 19.349 s
+
+N = 15000  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 90.649 s
+N = 15000  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 92.206 s
+N = 15000  k = 1500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 90.053 s
+
+N = 15000  k = 3000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 227.476 s
+N = 15000  k = 3000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 226.658 s
+N = 15000  k = 3000	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 226.637 s
+
+N = 15500  k = 775	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 19.686 s
+N = 15500  k = 775	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 18.345 s
+N = 15500  k = 775	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 20.895 s
+
+N = 15500  k = 1550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 103.406 s
+N = 15500  k = 1550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 105.430 s
+N = 15500  k = 1550	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 105.665 s
+
+N = 15500  k = 3100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 246.622 s
+N = 15500  k = 3100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 245.714 s
+N = 15500  k = 3100	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 245.401 s
+
+N = 16000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 49.448 s
+N = 16000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 49.288 s
+N = 16000  k = 800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 49.374 s
+
+N = 16000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 98.772 s
+N = 16000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 97.462 s
+N = 16000  k = 1600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 100.526 s
+
+N = 16000  k = 3200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 235.069 s
+N = 16000  k = 3200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 233.375 s
+N = 16000  k = 3200	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 235.925 s
+
+N = 16500  k = 825	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.676 s
+N = 16500  k = 825	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.005 s
+N = 16500  k = 825	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+
+N = 16500  k = 1650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 125.849 s
+N = 16500  k = 1650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 127.519 s
+N = 16500  k = 1650	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 126.667 s
+
+N = 16500  k = 3300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 278.225 s
+N = 16500  k = 3300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 279.568 s
+N = 16500  k = 3300	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 279.899 s
+
+N = 17000  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.491 s
+N = 17000  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 22.854 s
+N = 17000  k = 850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 23.082 s
+
+N = 17000  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 136.877 s
+N = 17000  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 132.863 s
+N = 17000  k = 1700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 137.232 s
+
+N = 17000  k = 3400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 296.075 s
+N = 17000  k = 3400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 296.075 s
+N = 17000  k = 3400	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 296.832 s
+
+N = 17500  k = 875	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 28.562 s
+N = 17500  k = 875	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 31.167 s
+N = 17500  k = 875	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 28.220 s
+
+N = 17500  k = 1750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 150.083 s
+N = 17500  k = 1750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 150.610 s
+N = 17500  k = 1750	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 146.038 s
+
+N = 17500  k = 3500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 316.454 s
+N = 17500  k = 3500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 316.188 s
+N = 17500  k = 3500	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 316.290 s
+
+N = 18000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 48.284 s
+N = 18000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 47.435 s
+N = 18000  k = 900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 45.757 s
+
+N = 18000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 155.816 s
+N = 18000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 158.739 s
+N = 18000  k = 1800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 158.225 s
+
+N = 18000  k = 3600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 328.672 s
+N = 18000  k = 3600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 326.712 s
+N = 18000  k = 3600	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 326.368 s
+
+N = 18500  k = 925	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 33.147 s
+N = 18500  k = 925	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 35.204 s
+N = 18500  k = 925	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 33.786 s
+
+N = 18500  k = 1850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 171.287 s
+N = 18500  k = 1850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 171.200 s
+N = 18500  k = 1850	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 172.830 s
+
+N = 18500  k = 3700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 355.214 s
+N = 18500  k = 3700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 354.720 s
+N = 18500  k = 3700	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 355.224 s
+
+N = 19000  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 41.085 s
+N = 19000  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 40.580 s
+N = 19000  k = 950	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 32.521 s
+
+N = 19000  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 182.938 s
+N = 19000  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 183.782 s
+N = 19000  k = 1900	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 185.843 s
+
+N = 19000  k = 3800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 374.080 s
+N = 19000  k = 3800	[Offload] [MIC 0] [File]            dgbtrf_phi.c
+Time = 373.675 s
+N = 19000  k = 3800	[Offload] [MIC 0] [File]            dgbtrf_phi.c

@@ -1,0 +1,8 @@
+Function             Module            CPU Time:Self  Overhead Time:Self  Spin Time:Self
+-------------------  ----------------  -------------  ------------------  --------------
+[OpenMP worker]      libiomp5.so              21.200                   0          21.200
+[OpenMP dispatcher]  libiomp5.so               0.750               0.750               0
+[OpenMP fork]        libiomp5.so               0.350               0.140           0.210
+main                 cpu.out                   0.270                   0               0
+func@0x33096493b0    libcoi_host.so.0          0.010                   0               0
+_IO_setb             libc-2.3.4.so             0.010                   0               0

@@ -1,0 +1,1053 @@
+==============================
+CPU Dense
+==============================
+N = 500  Time = 18.764 ms
+N = 500  Time = 19.088 ms
+N = 500  Time = 20.964 ms
+N = 1000  Time = 29.789 ms
+N = 1000  Time = 25.492 ms
+N = 1000  Time = 28.700 ms
+N = 1500  Time = 41.442 ms
+N = 1500  Time = 43.476 ms
+N = 1500  Time = 47.750 ms
+N = 2000  Time = 66.174 ms
+N = 2000  Time = 61.766 ms
+N = 2000  Time = 66.081 ms
+N = 2500  Time = 98.104 ms
+N = 2500  Time = 107.797 ms
+N = 2500  Time = 105.104 ms
+N = 3000  Time = 144.438 ms
+N = 3000  Time = 135.346 ms
+N = 3000  Time = 135.531 ms
+N = 3500  Time = 202.406 ms
+N = 3500  Time = 201.041 ms
+N = 3500  Time = 196.282 ms
+N = 4000  Time = 322.709 ms
+N = 4000  Time = 342.019 ms
+N = 4000  Time = 318.310 ms
+N = 4500  Time = 416.017 ms
+N = 4500  Time = 407.223 ms
+N = 4500  Time = 410.981 ms
+N = 5000  Time = 548.940 ms
+N = 5000  Time = 538.926 ms
+N = 5000  Time = 542.666 ms
+N = 5500  Time = 651.021 ms
+N = 5500  Time = 650.412 ms
+N = 5500  Time = 653.691 ms
+N = 6000  Time = 831.892 ms
+N = 6000  Time = 834.091 ms
+N = 6000  Time = 831.205 ms
+N = 6500  Time = 1019.360 ms
+N = 6500  Time = 1032.502 ms
+N = 6500  Time = 1020.210 ms
+N = 7000  Time = 1251.018 ms
+N = 7000  Time = 1256.402 ms
+N = 7000  Time = 1260.117 ms
+N = 7500  Time = 1370.970 ms
+N = 7500  Time = 1383.021 ms
+N = 7500  Time = 1380.606 ms
+N = 8000  Time = 1818.906 ms
+N = 8000  Time = 1800.922 ms
+N = 8000  Time = 1797.365 ms
+N = 8500  Time = 2392.754 ms
+N = 8500  Time = 2159.218 ms
+N = 8500  Time = 2117.650 ms
+N = 9000  Time = 2286.096 ms
+N = 9000  Time = 3129.584 ms
+N = 9000  Time = 2979.637 ms
+N = 9500  Time = 3259.809 ms
+N = 9500  Time = 3035.766 ms
+N = 9500  Time = 3002.635 ms
+N = 10000  Time = 3242.665 ms
+N = 10000  Time = 3898.676 ms
+N = 10000  Time = 3957.236 ms
+
+==============================
+Phi Dense
+==============================
+N = 500  Time = 414.549 ms
+N = 500  Time = 417.459 ms
+N = 500  Time = 414.054 ms
+N = 1000  Time = 1298.900 ms
+N = 1000  Time = 1186.534 ms
+N = 1000  Time = 1276.403 ms
+N = 1500  Time = 1366.679 ms
+N = 1500  Time = 1746.580 ms
+N = 1500  Time = 1783.244 ms
+N = 2000  Time = 1715.122 ms
+N = 2000  Time = 1363.933 ms
+N = 2000  Time = 1673.754 ms
+N = 2500  Time = 1791.744 ms
+N = 2500  Time = 1705.328 ms
+N = 2500  Time = 1642.882 ms
+N = 3000  Time = 1623.646 ms
+N = 3000  Time = 1673.782 ms
+N = 3000  Time = 1641.808 ms
+N = 3500  Time = 1946.463 ms
+N = 3500  Time = 1952.646 ms
+N = 3500  Time = 1905.956 ms
+N = 4000  Time = 1953.635 ms
+N = 4000  Time = 2359.665 ms
+N = 4000  Time = 2347.920 ms
+N = 4500  Time = 2341.051 ms
+N = 4500  Time = 2185.792 ms
+N = 4500  Time = 2368.175 ms
+N = 5000  Time = 2119.554 ms
+N = 5000  Time = 2149.360 ms
+N = 5000  Time = 2094.439 ms
+N = 5500  Time = 2990.775 ms
+N = 5500  Time = 3045.491 ms
+N = 5500  Time = 2677.035 ms
+N = 6000  Time = 2566.745 ms
+N = 6000  Time = 2546.072 ms
+N = 6000  Time = 2554.246 ms
+N = 6500  Time = 3200.663 ms
+N = 6500  Time = 3211.541 ms
+N = 6500  Time = 3250.254 ms
+N = 7000  Time = 3045.103 ms
+N = 7000  Time = 3076.679 ms
+N = 7000  Time = 3050.270 ms
+N = 7500  Time = 3862.842 ms
+N = 7500  Time = 4276.525 ms
+N = 7500  Time = 3896.161 ms
+N = 8000  Time = 3726.952 ms
+N = 8000  Time = 3699.947 ms
+N = 8000  Time = 3732.102 ms
+N = 8500  Time = 5089.322 ms
+N = 8500  Time = 5069.513 ms
+N = 8500  Time = 4745.766 ms
+N = 9000  Time = 4250.416 ms
+N = 9000  Time = 4267.667 ms
+N = 9000  Time = 4298.134 ms
+N = 9500  Time = 5517.283 ms
+N = 9500  Time = 5513.399 ms
+N = 9500  Time = 5514.442 ms
+N = 10000  Time = 5064.048 ms
+N = 10000  Time = 5099.631 ms
+N = 10000  Time = 5354.452 ms
+===========================
+CPU DENSE
+===========================
+N = 10500  Time = 3064.582 ms
+N = 10500  Time = 3821.642 ms
+N = 10500  Time = 3748.722 ms
+
+N = 11000  Time = 3892.482 ms
+N = 11000  Time = 3697.441 ms
+N = 11000  Time = 3733.344 ms
+
+N = 11500  Time = 3817.998 ms
+N = 11500  Time = 4497.271 ms
+N = 11500  Time = 4614.824 ms
+
+N = 12000  Time = 4945.328 ms
+N = 12000  Time = 4559.099 ms
+N = 12000  Time = 4367.580 ms
+
+N = 12500  Time = 5436.571 ms
+N = 12500  Time = 5308.786 ms
+N = 12500  Time = 5335.775 ms
+
+N = 13000  Time = 5594.558 ms
+N = 13000  Time = 5092.411 ms
+N = 13000  Time = 5196.079 ms
+
+N = 13500  Time = 6541.441 ms
+N = 13500  Time = 6127.030 ms
+N = 13500  Time = 6078.459 ms
+
+N = 14000  Time = 6318.664 ms
+N = 14000  Time = 6952.517 ms
+N = 14000  Time = 6967.368 ms
+
+N = 14500  Time = 7465.850 ms
+N = 14500  Time = 6748.531 ms
+N = 14500  Time = 6774.678 ms
+
+N = 15000  Time = 8122.318 ms
+N = 15000  Time = 7615.409 ms
+N = 15000  Time = 7691.580 ms
+
+N = 15500  Time = 8019.506 ms
+N = 15500  Time = 8546.708 ms
+N = 15500  Time = 8491.840 ms
+
+N = 16000  Time = 9191.158 ms
+N = 16000  Time = 9349.443 ms
+N = 16000  Time = 9272.518 ms
+
+N = 16500  Time = 9561.145 ms
+N = 16500  Time = 10206.443 ms
+N = 16500  Time = 10179.357 ms
+
+N = 17000  Time = 10457.968 ms
+N = 17000  Time = 10070.924 ms
+N = 17000  Time = 10100.855 ms
+
+N = 17500  Time = 11768.313 ms
+N = 17500  Time = 11741.144 ms
+N = 17500  Time = 11755.524 ms
+
+N = 18000  Time = 12056.906 ms
+N = 18000  Time = 11698.837 ms
+N = 18000  Time = 11615.406 ms
+
+N = 18500  Time = 12587.711 ms
+N = 18500  Time = 13452.069 ms
+N = 18500  Time = 13442.957 ms
+
+N = 19000  Time = 13815.109 ms
+N = 19000  Time = 13247.382 ms
+N = 19000  Time = 13230.889 ms
+
+N = 19500  Time = 15413.738 ms
+N = 19500  Time = 15049.474 ms
+N = 19500  Time = 15058.903 ms
+
+N = 20000  Time = 15931.650 ms
+N = 20000  Time = 15905.509 ms
+N = 20000  Time = 15915.844 ms
+
+===========================
+===========================
+Phi DENSE
+===========================
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [882126000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.739828(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        6.537553(seconds)
+
+N = 10500  Time = 6569.798 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [882126000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.768275(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        6.544143(seconds)
+
+N = 10500  Time = 6576.415 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [882126000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.783567(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        6.558729(seconds)
+
+N = 10500  Time = 6591.086 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [968132000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.475787(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        5.969430(seconds)
+
+N = 11000  Time = 5998.839 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [968132000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.531178(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        5.979269(seconds)
+
+N = 11000  Time = 6008.716 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [968132000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        11.545729(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        6.003310(seconds)
+
+N = 11000  Time = 6032.878 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1058138000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.664568(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.758116(seconds)
+
+N = 11500  Time = 7796.452 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1058138000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.667152(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.797204(seconds)
+
+N = 11500  Time = 7835.739 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1058138000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.643017(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.777480(seconds)
+
+N = 11500  Time = 7815.941 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1152144000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.386497(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.154219(seconds)
+
+N = 12000  Time = 7189.562 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1152144000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.420294(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.166389(seconds)
+
+N = 12000  Time = 7201.791 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1152144000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        13.426724(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        7.107129(seconds)
+
+N = 12000  Time = 7142.241 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1250150000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.796744(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        9.145107(seconds)
+
+N = 12500  Time = 9190.422 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1250150000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.857432(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        9.164163(seconds)
+
+N = 12500  Time = 9209.573 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1250150000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.973159(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        9.305817(seconds)
+
+N = 12500  Time = 9351.916 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1352156000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.325652(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        8.330617(seconds)
+
+N = 13000  Time = 8371.856 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1352156000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.305695(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        8.337792(seconds)
+
+N = 13000  Time = 8379.054 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1352156000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        15.403721(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        8.339568(seconds)
+
+N = 13000  Time = 8380.856 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1458162000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        18.277323(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        10.822851(seconds)
+
+N = 13500  Time = 10876.539 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1458162000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        18.555399(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        11.130906(seconds)
+
+N = 13500  Time = 11186.178 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1458162000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        18.211736(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        10.770867(seconds)
+
+N = 13500  Time = 10824.324 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1568168000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        19.306247(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        11.365650(seconds)
+
+N = 14000  Time = 11422.096 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1568168000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        19.362995(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        11.408772(seconds)
+
+N = 14000  Time = 11465.456 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1568168000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        19.559628(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        11.693955(seconds)
+
+N = 14000  Time = 11752.052 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1682174000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        20.778719(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        12.466035(seconds)
+
+N = 14500  Time = 12528.007 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1682174000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        21.077574(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        12.693744(seconds)
+
+N = 14500  Time = 12756.853 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1682174000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        21.060629(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        12.724573(seconds)
+
+N = 14500  Time = 12787.845 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1800180000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        22.499166(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        13.747088(seconds)
+
+N = 15000  Time = 13815.472 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1800180000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        22.994343(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        14.091118(seconds)
+
+N = 15000  Time = 14161.239 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1800180000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        22.616683(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        13.813301(seconds)
+
+N = 15000  Time = 13882.016 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1922186000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        23.859298(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        14.456133(seconds)
+
+N = 15500  Time = 14528.084 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1922186000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        23.762090(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        14.487421(seconds)
+
+N = 15500  Time = 14559.513 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [1922186000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        23.807686(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        14.557986(seconds)
+
+MIC0:  Total copyout data sent to host: [36] bytes
+N = 15500  Time = 14630.431 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2048192000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        25.822892(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        15.927209(seconds)
+
+N = 16000  Time = 16006.526 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2048192000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        25.711673(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        15.939853(seconds)
+
+N = 16000  Time = 16019.169 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2048192000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        25.849735(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        16.058686(seconds)
+
+N = 16000  Time = 16138.658 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2178198000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        27.032062(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        16.796147(seconds)
+
+N = 16500  Time = 16879.825 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2178198000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        27.063476(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        16.815857(seconds)
+
+N = 16500  Time = 16899.629 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2178198000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        27.061642(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        16.767463(seconds)
+
+N = 16500  Time = 16850.984 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2312204000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        29.062489(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.330437(seconds)
+
+N = 17000  Time = 18421.803 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2312204000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        29.125822(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.320871(seconds)
+
+N = 17000  Time = 18412.172 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2312204000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        29.118854(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.318634(seconds)
+
+N = 17000  Time = 18409.918 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2450210000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        30.300792(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.883108(seconds)
+
+N = 17500  Time = 18977.246 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2450210000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        30.196488(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.783576(seconds)
+
+N = 17500  Time = 18877.201 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2450210000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        30.010997(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        18.614120(seconds)
+
+N = 17500  Time = 18706.904 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2592216000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        33.101730(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.085064(seconds)
+
+N = 18000  Time = 21190.225 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2592216000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        33.079565(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.146085(seconds)
+
+N = 18000  Time = 21251.559 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2592216000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        32.957553(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.053104(seconds)
+
+N = 18000  Time = 21158.116 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2738222000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        33.882577(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.302987(seconds)
+
+N = 18500  Time = 21409.255 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2738222000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        33.594638(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.133387(seconds)
+
+N = 18500  Time = 21238.796 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2738222000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        33.657560(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        21.219848(seconds)
+
+N = 18500  Time = 21325.705 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2888228000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.170337(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        23.963062(seconds)
+
+N = 19000  Time = 24082.648 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2888228000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.040923(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        24.001160(seconds)
+
+N = 19000  Time = 24120.904 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [2888228000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.327899(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        24.247391(seconds)
+
+N = 19000  Time = 24368.410 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [3042234000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+HOST:  Total copyout data received from target: [36] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.721960(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        24.008561(seconds)
+
+N = 19500  Time = 24128.372 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [3042234000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.922901(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        24.270587(seconds)
+
+N = 19500  Time = 24391.713 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [3042234000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        37.642117(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        24.100960(seconds)
+
+N = 19500  Time = 24221.235 ms
+
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [3200240000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes
+MIC0:  Total copyout data sent to host: [36] bytes
+HOST:  Total copyout data received from target: [36] bytes
+[Offload] [HOST]  [Tag 0] [CPU Time]        537.697538(seconds)
+[Offload] [MIC 0] [Tag 0] [MIC Time]        521.191217(seconds)
+
+N = 20000  Time = 523803.154 ms
+[Offload] [MIC 0] [File]            dgesv_phi.c
+[Offload] [MIC 0] [Line]            131
+[Offload] [MIC 0] [Tag]             Tag 0
+HOST:  Offload function __offload_entry_dgesv_phi_c_131main, is_empty=0, #varDescs=14, #waits=0, signal=none
+HOST:  Total pointer data sent to target: [3200240000] bytes
+HOST:  Total copyin data sent to target: [80] bytes
+HOST:  Total pointer data received from target: [0] bytes
+MIC0:  Total copyin data received from host: [80] bytes

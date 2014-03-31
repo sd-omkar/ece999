@@ -1,0 +1,1678 @@
+CPU Banded
+===========================
+N = 500  k = 25	Time = 11.939 ms
+N = 500  k = 25	Time = 10.485 ms
+N = 500  k = 25	Time = 11.219 ms
+
+N = 500  k = 50	Time = 13.709 ms
+N = 500  k = 50	Time = 10.315 ms
+N = 500  k = 50	Time = 13.641 ms
+
+N = 500  k = 100	Time = 40.998 ms
+N = 500  k = 100	Time = 34.220 ms
+N = 500  k = 100	Time = 43.841 ms
+
+N = 1000  k = 50	Time = 15.086 ms
+N = 1000  k = 50	Time = 15.378 ms
+N = 1000  k = 50	Time = 16.212 ms
+
+N = 1000  k = 100	Time = 43.586 ms
+N = 1000  k = 100	Time = 29.501 ms
+N = 1000  k = 100	Time = 40.897 ms
+
+N = 1000  k = 200	Time = 49.308 ms
+N = 1000  k = 200	Time = 43.666 ms
+N = 1000  k = 200	Time = 26.522 ms
+
+N = 1500  k = 75	Time = 23.849 ms
+N = 1500  k = 75	Time = 23.129 ms
+N = 1500  k = 75	Time = 20.286 ms
+
+N = 1500  k = 150	Time = 46.166 ms
+N = 1500  k = 150	Time = 34.232 ms
+N = 1500  k = 150	Time = 43.121 ms
+
+N = 1500  k = 300	Time = 74.449 ms
+N = 1500  k = 300	Time = 63.051 ms
+N = 1500  k = 300	Time = 63.643 ms
+
+N = 2000  k = 100	Time = 49.877 ms
+N = 2000  k = 100	Time = 52.344 ms
+N = 2000  k = 100	Time = 43.760 ms
+
+N = 2000  k = 200	Time = 51.984 ms
+N = 2000  k = 200	Time = 63.423 ms
+N = 2000  k = 200	Time = 61.561 ms
+
+N = 2000  k = 400	Time = 75.963 ms
+N = 2000  k = 400	Time = 75.567 ms
+N = 2000  k = 400	Time = 79.000 ms
+
+N = 2500  k = 125	Time = 58.242 ms
+N = 2500  k = 125	Time = 49.989 ms
+N = 2500  k = 125	Time = 61.491 ms
+
+N = 2500  k = 250	Time = 78.673 ms
+N = 2500  k = 250	Time = 80.952 ms
+N = 2500  k = 250	Time = 82.578 ms
+
+N = 2500  k = 500	Time = 112.078 ms
+N = 2500  k = 500	Time = 103.528 ms
+N = 2500  k = 500	Time = 96.283 ms
+
+N = 3000  k = 150	Time = 74.089 ms
+N = 3000  k = 150	Time = 64.998 ms
+N = 3000  k = 150	Time = 51.302 ms
+
+N = 3000  k = 300	Time = 86.154 ms
+N = 3000  k = 300	Time = 84.279 ms
+N = 3000  k = 300	Time = 89.187 ms
+
+N = 3000  k = 600	Time = 134.029 ms
+N = 3000  k = 600	Time = 126.398 ms
+N = 3000  k = 600	Time = 132.266 ms
+
+N = 3500  k = 175	Time = 85.898 ms
+N = 3500  k = 175	Time = 80.184 ms
+N = 3500  k = 175	Time = 81.653 ms
+
+N = 3500  k = 350	Time = 115.797 ms
+N = 3500  k = 350	Time = 111.547 ms
+N = 3500  k = 350	Time = 124.131 ms
+
+N = 3500  k = 700	Time = 196.627 ms
+N = 3500  k = 700	Time = 185.207 ms
+N = 3500  k = 700	Time = 183.331 ms
+
+N = 4000  k = 200	Time = 115.001 ms
+N = 4000  k = 200	Time = 89.812 ms
+N = 4000  k = 200	Time = 87.553 ms
+
+N = 4000  k = 400	Time = 142.193 ms
+N = 4000  k = 400	Time = 136.838 ms
+N = 4000  k = 400	Time = 145.794 ms
+
+N = 4000  k = 800	Time = 249.914 ms
+N = 4000  k = 800	Time = 253.816 ms
+N = 4000  k = 800	Time = 252.954 ms
+
+N = 4500  k = 225	Time = 97.327 ms
+N = 4500  k = 225	Time = 126.640 ms
+N = 4500  k = 225	Time = 106.206 ms
+
+N = 4500  k = 450	Time = 154.355 ms
+N = 4500  k = 450	Time = 164.207 ms
+N = 4500  k = 450	Time = 163.483 ms
+
+N = 4500  k = 900	Time = 330.058 ms
+N = 4500  k = 900	Time = 295.308 ms
+N = 4500  k = 900	Time = 288.766 ms
+
+N = 5000  k = 250	Time = 127.750 ms
+N = 5000  k = 250	Time = 121.653 ms
+N = 5000  k = 250	Time = 119.146 ms
+
+N = 5000  k = 500	Time = 197.323 ms
+N = 5000  k = 500	Time = 184.322 ms
+N = 5000  k = 500	Time = 193.933 ms
+
+N = 5000  k = 1000	Time = 323.502 ms
+N = 5000  k = 1000	Time = 332.394 ms
+N = 5000  k = 1000	Time = 330.361 ms
+
+N = 5500  k = 275	Time = 152.308 ms
+N = 5500  k = 275	Time = 135.334 ms
+N = 5500  k = 275	Time = 151.262 ms
+
+N = 5500  k = 550	Time = 225.660 ms
+N = 5500  k = 550	Time = 228.270 ms
+N = 5500  k = 550	Time = 226.960 ms
+
+N = 5500  k = 1100	Time = 486.924 ms
+N = 5500  k = 1100	Time = 445.855 ms
+N = 5500  k = 1100	Time = 459.716 ms
+
+N = 6000  k = 300	Time = 151.858 ms
+N = 6000  k = 300	Time = 161.345 ms
+
+N = 6000  k = 600	Time = 258.657 ms
+N = 6000  k = 600	Time = 295.585 ms
+N = 6000  k = 600	Time = 261.789 ms
+
+N = 6000  k = 1200	Time = 533.481 ms
+N = 6000  k = 1200	Time = 522.489 ms
+N = 6000  k = 1200	Time = 539.843 ms
+
+N = 6500  k = 325	Time = 221.494 ms
+N = 6500  k = 325	Time = 188.396 ms
+N = 6500  k = 325	Time = 172.154 ms
+
+N = 6500  k = 650	Time = 315.427 ms
+N = 6500  k = 650	Time = 364.720 ms
+N = 6500  k = 650	Time = 353.774 ms
+
+N = 6500  k = 1300	Time = 669.697 ms
+N = 6500  k = 1300	Time = 633.919 ms
+N = 6500  k = 1300	Time = 637.476 ms
+
+N = 7000  k = 350	Time = 202.808 ms
+N = 7000  k = 350	Time = 200.388 ms
+N = 7000  k = 350	Time = 240.709 ms
+
+N = 7000  k = 700	Time = 348.852 ms
+N = 7000  k = 700	Time = 353.437 ms
+N = 7000  k = 700	Time = 349.939 ms
+
+N = 7000  k = 1400	Time = 760.964 ms
+N = 7000  k = 1400	Time = 743.190 ms
+N = 7000  k = 1400	Time = 784.363 ms
+
+N = 7500  k = 375	Time = 234.304 ms
+N = 7500  k = 375	Time = 237.005 ms
+N = 7500  k = 375	Time = 257.579 ms
+
+N = 7500  k = 750	Time = 411.798 ms
+N = 7500  k = 750	Time = 427.657 ms
+N = 7500  k = 750	Time = 414.995 ms
+
+N = 7500  k = 1500	Time = 929.056 ms
+N = 7500  k = 1500	Time = 894.118 ms
+N = 7500  k = 1500	Time = 908.132 ms
+
+N = 8000  k = 400	Time = 291.819 ms
+N = 8000  k = 400	Time = 289.102 ms
+N = 8000  k = 400	Time = 280.927 ms
+
+N = 8000  k = 800	Time = 522.764 ms
+N = 8000  k = 800	Time = 526.803 ms
+N = 8000  k = 800	Time = 533.059 ms
+
+N = 8000  k = 1600	Time = 1171.868 ms
+N = 8000  k = 1600	Time = 1150.869 ms
+N = 8000  k = 1600	Time = 1162.070 ms
+
+N = 8500  k = 425	Time = 308.857 ms
+N = 8500  k = 425	Time = 305.233 ms
+N = 8500  k = 425	Time = 296.125 ms
+
+N = 8500  k = 850	Time = 561.105 ms
+N = 8500  k = 850	Time = 525.903 ms
+N = 8500  k = 850	Time = 570.718 ms
+
+N = 8500  k = 1700	Time = 1290.977 ms
+N = 8500  k = 1700	Time = 1308.271 ms
+N = 8500  k = 1700	Time = 1260.761 ms
+
+N = 9000  k = 450	Time = 345.113 ms
+N = 9000  k = 450	Time = 314.907 ms
+N = 9000  k = 450	Time = 301.921 ms
+
+N = 9000  k = 900	Time = 552.630 ms
+N = 9000  k = 900	Time = 563.062 ms
+N = 9000  k = 900	Time = 566.222 ms
+
+N = 9000  k = 1800	Time = 1387.618 ms
+N = 9000  k = 1800	Time = 1431.228 ms
+N = 9000  k = 1800	Time = 1433.892 ms
+
+N = 9500  k = 475	Time = 368.532 ms
+N = 9500  k = 475	Time = 353.877 ms
+N = 9500  k = 475	Time = 364.541 ms
+
+N = 9500  k = 950	Time = 676.725 ms
+N = 9500  k = 950	Time = 640.174 ms
+N = 9500  k = 950	Time = 657.476 ms
+
+N = 9500  k = 1900	Time = 1765.038 ms
+N = 9500  k = 1900	Time = 1774.439 ms
+N = 9500  k = 1900	Time = 1784.634 ms
+
+N = 10000  k = 500	Time = 380.793 ms
+N = 10000  k = 500	Time = 401.416 ms
+N = 10000  k = 500	Time = 356.943 ms
+
+N = 10000  k = 1000	Time = 772.360 ms
+N = 10000  k = 1000	Time = 742.702 ms
+N = 10000  k = 1000	Time = 736.590 ms
+
+N = 10000  k = 2000	Time = 2039.227 ms
+N = 10000  k = 2000	Time = 2034.909 ms
+N = 10000  k = 2000	Time = 2031.388 ms
+
+N = 10500  k = 525	Time = 411.671 ms
+N = 10500  k = 525	Time = 416.099 ms
+N = 10500  k = 525	Time = 455.921 ms
+
+N = 10500  k = 1050	Time = 897.711 ms
+N = 10500  k = 1050	Time = 909.742 ms
+N = 10500  k = 1050	Time = 916.173 ms
+
+N = 10500  k = 2100	Time = 2534.600 ms
+N = 10500  k = 2100	Time = 2539.537 ms
+N = 10500  k = 2100	Time = 2534.184 ms
+
+N = 11000  k = 550	Time = 476.850 ms
+N = 11000  k = 550	Time = 430.207 ms
+N = 11000  k = 550	Time = 437.912 ms
+
+N = 11000  k = 1100	Time = 897.059 ms
+N = 11000  k = 1100	Time = 901.116 ms
+N = 11000  k = 1100	Time = 896.766 ms
+
+N = 11000  k = 2200	Time = 2869.270 ms
+N = 11000  k = 2200	Time = 2918.417 ms
+N = 11000  k = 2200	Time = 2882.292 ms
+
+N = 11500  k = 575	Time = 545.582 ms
+N = 11500  k = 575	Time = 483.764 ms
+N = 11500  k = 575	Time = 539.048 ms
+
+N = 11500  k = 1150	Time = 1086.624 ms
+N = 11500  k = 1150	Time = 1078.872 ms
+N = 11500  k = 1150	Time = 1090.331 ms
+
+N = 11500  k = 2300	Time = 3434.321 ms
+N = 11500  k = 2300	Time = 3458.815 ms
+N = 11500  k = 2300	Time = 3478.551 ms
+
+N = 12000  k = 600	Time = 568.025 ms
+N = 12000  k = 600	Time = 565.122 ms
+N = 12000  k = 600	Time = 560.004 ms
+
+N = 12000  k = 1200	Time = 1150.626 ms
+N = 12000  k = 1200	Time = 1234.170 ms
+N = 12000  k = 1200	Time = 1205.501 ms
+
+N = 12000  k = 2400	Time = 4270.748 ms
+N = 12000  k = 2400	Time = 4307.356 ms
+N = 12000  k = 2400	Time = 4295.996 ms
+
+N = 12500  k = 625	Time = 604.493 ms
+N = 12500  k = 625	Time = 647.921 ms
+N = 12500  k = 625	Time = 614.619 ms
+
+N = 12500  k = 1250	Time = 1291.239 ms
+N = 12500  k = 1250	Time = 1302.460 ms
+N = 12500  k = 1250	Time = 1321.180 ms
+
+N = 12500  k = 2500	Time = 4553.745 ms
+N = 12500  k = 2500	Time = 4618.873 ms
+N = 12500  k = 2500	Time = 4589.923 ms
+
+N = 13000  k = 650	Time = 672.360 ms
+N = 13000  k = 650	Time = 613.271 ms
+N = 13000  k = 650	Time = 614.165 ms
+
+N = 13000  k = 1300	Time = 1321.469 ms
+N = 13000  k = 1300	Time = 1313.100 ms
+N = 13000  k = 1300	Time = 1349.001 ms
+
+N = 13000  k = 2600	Time = 5072.181 ms
+N = 13000  k = 2600	Time = 5082.172 ms
+N = 13000  k = 2600	Time = 5056.318 ms
+
+N = 13500  k = 675	Time = 717.620 ms
+N = 13500  k = 675	Time = 751.892 ms
+N = 13500  k = 675	Time = 713.268 ms
+
+N = 13500  k = 1350	Time = 1609.696 ms
+N = 13500  k = 1350	Time = 1682.033 ms
+N = 13500  k = 1350	Time = 1610.313 ms
+
+N = 13500  k = 2700	Time = 5893.364 ms
+N = 13500  k = 2700	Time = 5941.561 ms
+N = 13500  k = 2700	Time = 5924.144 ms
+
+N = 14000  k = 700	Time = 717.862 ms
+N = 14000  k = 700	Time = 731.560 ms
+N = 14000  k = 700	Time = 773.813 ms
+
+N = 14000  k = 1400	Time = 1677.210 ms
+N = 14000  k = 1400	Time = 1681.381 ms
+N = 14000  k = 1400	Time = 1682.825 ms
+
+N = 14000  k = 2800	Time = 6303.094 ms
+N = 14000  k = 2800	Time = 6294.898 ms
+N = 14000  k = 2800	Time = 6270.033 ms
+
+N = 14500  k = 725	Time = 791.536 ms
+N = 14500  k = 725	Time = 796.194 ms
+N = 14500  k = 725	Time = 765.180 ms
+
+N = 14500  k = 1450	Time = 1819.586 ms
+N = 14500  k = 1450	Time = 1864.176 ms
+N = 14500  k = 1450	Time = 1866.249 ms
+
+N = 14500  k = 2900	Time = 7166.911 ms
+N = 14500  k = 2900	Time = 7087.072 ms
+N = 14500  k = 2900	Time = 7070.156 ms
+
+N = 15000  k = 750	Time = 781.837 ms
+N = 15000  k = 750	Time = 793.289 ms
+N = 15000  k = 750	Time = 806.777 ms
+
+N = 15000  k = 1500	Time = 1891.891 ms
+N = 15000  k = 1500	Time = 1941.115 ms
+N = 15000  k = 1500	Time = 1931.323 ms
+
+N = 15000  k = 3000	Time = 7697.003 ms
+N = 15000  k = 3000	Time = 7577.504 ms
+N = 15000  k = 3000	Time = 7602.520 ms
+
+N = 15500  k = 775	Time = 888.256 ms
+N = 15500  k = 775	Time = 880.828 ms
+N = 15500  k = 775	Time = 882.212 ms
+
+N = 15500  k = 1550	Time = 2140.777 ms
+N = 15500  k = 1550	Time = 2139.446 ms
+N = 15500  k = 1550	Time = 2106.397 ms
+
+N = 15500  k = 3100	Time = 8357.202 ms
+N = 15500  k = 3100	Time = 8413.156 ms
+N = 15500  k = 3100	Time = 8285.052 ms
+
+N = 16000  k = 800	Time = 1020.951 ms
+N = 16000  k = 800	Time = 1028.420 ms
+N = 16000  k = 800	Time = 1038.175 ms
+
+N = 16000  k = 1600	Time = 2311.416 ms
+N = 16000  k = 1600	Time = 2324.016 ms
+N = 16000  k = 1600	Time = 2327.719 ms
+
+N = 16000  k = 3200	Time = 9938.275 ms
+N = 16000  k = 3200	Time = 9915.241 ms
+N = 16000  k = 3200	Time = 9943.551 ms
+
+N = 16500  k = 825	Time = 994.715 ms
+N = 16500  k = 825	Time = 1011.078 ms
+N = 16500  k = 825	Time = 1002.585 ms
+
+N = 16500  k = 1650	Time = 2530.755 ms
+N = 16500  k = 1650	Time = 2564.111 ms
+N = 16500  k = 1650	Time = 2581.345 ms
+
+N = 16500  k = 3300	Time = 9908.002 ms
+N = 16500  k = 3300	Time = 9902.062 ms
+N = 16500  k = 3300	Time = 9900.687 ms
+
+N = 17000  k = 850	Time = 1045.817 ms
+N = 17000  k = 850	Time = 1003.190 ms
+N = 17000  k = 850	Time = 999.366 ms
+
+N = 17000  k = 1700	Time = 2638.879 ms
+N = 17000  k = 1700	Time = 2686.852 ms
+N = 17000  k = 1700	Time = 2699.205 ms
+
+N = 17000  k = 3400	Time = 10622.900 ms
+N = 17000  k = 3400	Time = 10649.934 ms
+N = 17000  k = 3400	Time = 10668.228 ms
+
+N = 17500  k = 875	Time = 1112.209 ms
+N = 17500  k = 875	Time = 1115.599 ms
+N = 17500  k = 875	Time = 1102.599 ms
+
+N = 17500  k = 1750	Time = 2916.286 ms
+N = 17500  k = 1750	Time = 2926.467 ms
+N = 17500  k = 1750	Time = 2917.232 ms
+
+N = 17500  k = 3500	Time = 11481.313 ms
+N = 17500  k = 3500	Time = 11531.056 ms
+
+N = 18000  k = 900	Time = 1210.581 ms
+N = 18000  k = 900	Time = 1279.741 ms
+N = 18000  k = 900	Time = 1268.304 ms
+
+N = 18000  k = 1800	Time = 3029.492 ms
+N = 18000  k = 1800	Time = 3066.078 ms
+N = 18000  k = 1800	Time = 3006.071 ms
+
+N = 18000  k = 3600	Time = 12098.029 ms
+N = 18000  k = 3600	Time = 12600.239 ms
+N = 18000  k = 3600	Time = 12115.870 ms
+
+N = 18500  k = 925	Time = 1278.689 ms
+N = 18500  k = 925	Time = 1306.188 ms
+N = 18500  k = 925	Time = 1280.823 ms
+
+N = 18500  k = 1850	Time = 3470.759 ms
+N = 18500  k = 1850	Time = 3537.900 ms
+N = 18500  k = 1850	Time = 3494.082 ms
+
+N = 18500  k = 3700	Time = 13546.309 ms
+N = 18500  k = 3700	Time = 13499.765 ms
+N = 18500  k = 3700	Time = 13477.488 ms
+
+N = 19000  k = 950	Time = 1259.746 ms
+N = 19000  k = 950	Time = 1261.093 ms
+N = 19000  k = 950	Time = 1293.375 ms
+
+N = 19000  k = 1900	Time = 3712.980 ms
+N = 19000  k = 1900	Time = 3691.616 ms
+N = 19000  k = 1900	Time = 3696.746 ms
+
+N = 19000  k = 3800	Time = 14228.343 ms
+
+N = 19500  k = 975	Time = 1452.723 ms
+N = 19500  k = 975	Time = 1459.410 ms
+N = 19500  k = 975	Time = 1403.456 ms
+
+N = 19500  k = 1950	Time = 4176.476 ms
+N = 19500  k = 1950	Time = 4241.147 ms
+N = 19500  k = 1950	Time = 4285.970 ms
+
+N = 19500  k = 3900	Time = 15459.983 ms
+N = 19500  k = 3900	Time = 15340.938 ms
+N = 19500  k = 3900	Time = 15424.395 ms
+
+N = 20000  k = 1000	Time = 1524.669 ms
+N = 20000  k = 1000	Time = 1564.320 ms
+N = 20000  k = 1000	Time = 1560.091 ms
+
+N = 20000  k = 2000	Time = 4405.797 ms
+N = 20000  k = 2000	Time = 4426.918 ms
+N = 20000  k = 2000	Time = 4401.809 ms
+
+N = 20000  k = 4000	Time = 18082.802 ms
+N = 20000  k = 4000	Time = 17988.389 ms
+N = 20000  k = 4000	Time = 18098.875 ms
+
+===========================
+Phi Banded
+===========================
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 73.506 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 71.316 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 71.961 ms
+
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 93.277 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 109.529 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 109.666 ms
+
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 538.761 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 503.207 ms
+n = 500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 498.626 ms
+
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 138.764 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 137.111 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 136.255 ms
+
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 656.334 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 671.645 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 671.256 ms
+
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 742.334 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 738.085 ms
+n = 1000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 752.318 ms
+
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 741.124 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 764.930 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 741.034 ms
+
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 865.845 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 853.516 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 863.880 ms
+
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1061.470 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1371.381 ms
+n = 1500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1044.182 ms
+
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 933.068 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 932.168 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 948.245 ms
+
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1476.433 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1405.140 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1150.483 ms
+
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1446.559 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1454.254 ms
+n = 2000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1470.701 ms
+
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1112.421 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1139.794 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1490.112 ms
+
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1598.735 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1474.550 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1520.240 ms
+
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1924.861 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2002.219 ms
+n = 2500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1957.860 ms
+
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1737.521 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1702.534 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1642.077 ms
+
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1810.368 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1790.847 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1814.088 ms
+
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2891.602 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2972.707 ms
+n = 3000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2865.806 ms
+
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1965.495 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1742.602 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1817.844 ms
+
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2248.155 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2240.961 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2249.364 ms
+
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3248.570 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3289.320 ms
+n = 3500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3212.329 ms
+
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2040.833 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1973.072 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 1967.290 ms
+
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3186.744 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3073.431 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3379.899 ms
+
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 10874.309 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 10912.522 ms
+n = 4000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 10851.653 ms
+
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2282.825 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2244.044 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2301.235 ms
+
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3254.472 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3168.222 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3230.264 ms
+
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5287.428 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7525.024 ms
+n = 4500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6084.653 ms
+
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2549.950 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2685.436 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2610.650 ms
+
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3811.647 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3756.880 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3811.636 ms
+
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7368.896 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8383.537 ms
+n = 5000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7863.945 ms
+
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2927.675 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2878.186 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 2924.312 ms
+
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4761.173 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4440.412 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4387.293 ms
+
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 11989.647 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13412.193 ms
+n = 5500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12129.757 ms
+
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3607.167 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3292.304 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3510.510 ms
+
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5695.866 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5534.166 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5362.123 ms
+
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 25069.307 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23967.131 ms
+n = 6000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 24509.148 ms
+
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3714.515 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3948.786 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 3866.914 ms
+
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6252.796 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5913.294 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5883.946 ms
+
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 21624.215 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 22810.530 ms
+n = 6500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 21632.990 ms
+
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4176.213 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4211.019 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4366.456 ms
+
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6500.599 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6808.475 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6633.482 ms
+
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 29132.097 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 28218.422 ms
+n = 7000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 27857.883 ms
+
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4564.437 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4646.116 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 4628.182 ms
+
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 9922.393 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8058.996 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8441.133 ms
+
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 36623.867 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 38446.309 ms
+n = 7500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 38000.620 ms
+
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13301.518 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13358.011 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13599.411 ms
+
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 24730.301 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 24857.475 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 24752.502 ms
+
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47072.074 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47123.031 ms
+n = 8000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47689.747 ms
+
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5773.335 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5691.599 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 5933.191 ms
+
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12424.935 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12266.696 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 11551.313 ms
+
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 56906.706 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 55749.655 ms
+n = 8500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 58014.659 ms
+
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6099.980 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6108.793 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6100.302 ms
+
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12766.630 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13437.511 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 14948.150 ms
+
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 67077.499 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 66949.381 ms
+n = 9000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 67793.489 ms
+
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6710.314 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6906.053 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 6973.143 ms
+
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 18579.459 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 20205.847 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 16937.862 ms
+
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 78676.020 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 78129.445 ms
+n = 9500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 78808.441 ms
+
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7885.018 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7388.871 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 7629.178 ms
+
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 32363.832 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 32426.525 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 31849.268 ms
+
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87288.742 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 86922.664 ms
+n = 10000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87871.985 ms
+
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8415.557 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8391.799 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8426.819 ms
+
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23514.656 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23498.231 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23059.233 ms
+
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 101714.228 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 102372.724 ms
+n = 10500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 101959.258 ms
+
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 9052.980 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8530.289 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 8618.117 ms
+
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 28635.605 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 27257.718 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 27005.652 ms
+
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 113978.827 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 113216.906 ms
+n = 11000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 113303.275 ms
+
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 9336.963 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 9468.983 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 10142.397 ms
+
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 34434.653 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 32437.510 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 37279.650 ms
+
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 126420.459 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 126748.493 ms
+n = 11500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 127096.049 ms
+
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 22507.961 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 22008.816 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 22578.791 ms
+
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 59427.671 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 59445.923 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 60542.770 ms
+
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 124854.439 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 125632.785 ms
+n = 12000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 126556.324 ms
+
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12121.667 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 10934.884 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 11201.298 ms
+
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 46000.482 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 46431.862 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 45374.779 ms
+
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 154132.928 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 152956.943 ms
+n = 12500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 152909.304 ms
+
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 11708.614 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 11918.585 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 12240.758 ms
+
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 53325.464 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 54004.593 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 53248.350 ms
+
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 166989.218 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 165283.386 ms
+n = 13000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 167212.473 ms
+
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13680.964 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13518.019 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 13210.245 ms
+
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 63427.722 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 65418.254 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 62867.341 ms
+
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 183363.167 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 183757.826 ms
+n = 13500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 184331.243 ms
+
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 19014.015 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 16229.490 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 16385.909 ms
+
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 90056.248 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 88308.575 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87474.966 ms
+
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 189488.282 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 189053.164 ms
+n = 14000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 189764.161 ms
+
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 14580.536 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 14692.884 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 15302.001 ms
+
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 81448.707 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 81665.782 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 81369.000 ms
+
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 211048.212 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 213741.615 ms
+n = 14500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 212967.852 ms
+
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 17769.134 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 16915.012 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 18370.565 ms
+
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 91739.155 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 91862.040 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 93562.991 ms
+
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 227534.914 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 228327.698 ms
+n = 15000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 227582.594 ms
+
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 18892.957 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 19717.135 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 20559.935 ms
+
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 105846.660 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 103263.017 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 103762.291 ms
+
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 245666.179 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 245486.003 ms
+n = 15500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 245677.916 ms
+
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 49948.071 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 50035.996 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 49831.545 ms
+
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 101171.471 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 102728.426 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 102563.058 ms
+
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 236812.164 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 237181.532 ms
+n = 16000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 234300.358 ms
+
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 30575.690 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 28111.625 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 22744.032 ms
+
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 125065.776 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 126039.762 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 128503.148 ms
+
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 280634.293 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 280186.145 ms
+n = 16500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 280626.733 ms
+
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23734.972 ms
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 23027.523 ms
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 24989.434 ms
+
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 137386.531 ms
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 137879.092 ms
+
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 296683.040 ms
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 296093.672 ms
+n = 17000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 297609.097 ms
+
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 29057.901 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 26506.176 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 29168.023 ms
+
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 147750.225 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 150339.016 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 148031.848 ms
+
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 316145.759 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 317008.464 ms
+n = 17500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 317478.278 ms
+
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47358.759 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47632.560 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 47628.123 ms
+
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 156366.879 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 155589.653 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 157666.710 ms
+
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 326385.829 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 327067.049 ms
+n = 18000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 326987.608 ms
+
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 34667.592 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 31304.178 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 36007.017 ms
+
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 169248.260 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 165997.232 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 355564.508 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 355394.212 ms
+n = 18500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 355217.593 ms
+
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 31824.442 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 35994.600 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 35825.472 ms
+
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 183518.997 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 183582.773 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 185727.583 ms
+
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 374175.996 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 373465.344 ms
+n = 19000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 373909.613 ms
+
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 43077.960 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 45385.604 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 41926.154 ms
+
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 201104.097 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 202695.018 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 201626.230 ms
+
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 397599.134 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 398076.751 ms
+n = 19500	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 397650.611 ms
+
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87188.218 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87376.004 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 87975.070 ms
+
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 185942.347 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 185323.415 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 185761.574 ms
+
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 402532.701 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 402319.397 ms
+n = 20000	[Offload] [MIC 0] [File]            dgbsv_phi.c
+
+Time = 401935.749 ms

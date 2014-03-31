@@ -1,0 +1,360 @@
+===========================
+DENSE CPU
+===========================
+N = 500  Time = 25.109 ms
+N = 500  Time = 29.069 ms
+N = 500  Time = 32.342 ms
+
+N = 1000  Time = 29.348 ms
+N = 1000  Time = 22.579 ms
+N = 1000  Time = 22.814 ms
+
+N = 1500  Time = 39.678 ms
+N = 1500  Time = 40.500 ms
+N = 1500  Time = 44.374 ms
+
+N = 2000  Time = 62.469 ms
+N = 2000  Time = 58.439 ms
+N = 2000  Time = 59.324 ms
+
+N = 2500  Time = 97.569 ms
+N = 2500  Time = 100.386 ms
+N = 2500  Time = 93.904 ms
+
+N = 3000  Time = 130.779 ms
+N = 3000  Time = 145.936 ms
+N = 3000  Time = 132.959 ms
+
+N = 3500  Time = 199.890 ms
+N = 3500  Time = 219.727 ms
+N = 3500  Time = 208.592 ms
+
+N = 4000  Time = 315.255 ms
+N = 4000  Time = 321.807 ms
+N = 4000  Time = 325.197 ms
+
+N = 4500  Time = 404.926 ms
+N = 4500  Time = 403.097 ms
+N = 4500  Time = 400.594 ms
+
+N = 5000  Time = 538.838 ms
+N = 5000  Time = 536.051 ms
+N = 5000  Time = 526.513 ms
+
+N = 5500  Time = 631.416 ms
+N = 5500  Time = 623.783 ms
+N = 5500  Time = 628.783 ms
+
+N = 6000  Time = 819.326 ms
+N = 6000  Time = 813.441 ms
+N = 6000  Time = 803.003 ms
+
+N = 6500  Time = 1003.504 ms
+N = 6500  Time = 1010.915 ms
+N = 6500  Time = 995.177 ms
+
+N = 7000  Time = 1221.705 ms
+N = 7000  Time = 1233.430 ms
+N = 7000  Time = 1218.163 ms
+
+N = 7500  Time = 1348.196 ms
+N = 7500  Time = 1347.992 ms
+N = 7500  Time = 1357.089 ms
+
+N = 8000  Time = 1772.368 ms
+N = 8000  Time = 1740.830 ms
+N = 8000  Time = 1791.803 ms
+
+N = 8500  Time = 2696.192 ms
+N = 8500  Time = 2061.400 ms
+N = 8500  Time = 2241.301 ms
+
+N = 9000  Time = 2406.834 ms
+N = 9000  Time = 3081.351 ms
+N = 9000  Time = 3179.790 ms
+
+N = 9500  Time = 3255.765 ms
+N = 9500  Time = 3047.726 ms
+N = 9500  Time = 3029.404 ms
+
+N = 10000  Time = 3268.994 ms
+N = 10000  Time = 2969.265 ms
+N = 10000  Time = 3853.876 ms
+
+N = 10500  Time = 3844.025 ms
+N = 10500  Time = 3808.607 ms
+N = 10500  Time = 3798.304 ms
+
+N = 11000  Time = 3922.208 ms
+N = 11000  Time = 3797.247 ms
+N = 11000  Time = 3560.215 ms
+
+N = 11500  Time = 3901.606 ms
+N = 11500  Time = 4647.170 ms
+N = 11500  Time = 4568.121 ms
+
+N = 12000  Time = 5018.089 ms
+N = 12000  Time = 4324.060 ms
+N = 12000  Time = 4558.432 ms
+
+N = 12500  Time = 4532.312 ms
+N = 12500  Time = 5416.786 ms
+N = 12500  Time = 5302.062 ms
+
+N = 13000  Time = 5570.594 ms
+N = 13000  Time = 5322.860 ms
+N = 13000  Time = 5093.056 ms
+
+N = 13500  Time = 5704.555 ms
+N = 13500  Time = 6117.847 ms
+N = 13500  Time = 6137.553 ms
+
+N = 14000  Time = 6419.894 ms
+N = 14000  Time = 6900.741 ms
+N = 14000  Time = 6938.594 ms
+
+N = 14500  Time = 7469.209 ms
+N = 14500  Time = 6811.004 ms
+N = 14500  Time = 6709.768 ms
+
+N = 15000  Time = 7125.672 ms
+N = 15000  Time = 7662.604 ms
+N = 15000  Time = 7630.356 ms
+
+N = 15500  Time = 7983.745 ms
+N = 15500  Time = 8609.170 ms
+N = 15500  Time = 8626.001 ms
+
+N = 16000  Time = 9307.411 ms
+N = 16000  Time = 9364.977 ms
+N = 16000  Time = 9359.307 ms
+
+N = 16500  Time = 9778.661 ms
+N = 16500  Time = 9214.540 ms
+N = 16500  Time = 9277.715 ms
+
+N = 17000  Time = 10423.448 ms
+N = 17000  Time = 10127.447 ms
+N = 17000  Time = 10005.644 ms
+
+N = 17500  Time = 10973.415 ms
+N = 17500  Time = 10880.757 ms
+N = 17500  Time = 10963.524 ms
+
+N = 18000  Time = 12130.149 ms
+N = 18000  Time = 11637.262 ms
+N = 18000  Time = 11769.056 ms
+
+N = 18500  Time = 12520.860 ms
+N = 18500  Time = 12635.051 ms
+N = 18500  Time = 12579.839 ms
+
+N = 19000  Time = 13880.482 ms
+N = 19000  Time = 13368.768 ms
+N = 19000  Time = 13296.169 ms
+
+N = 19500  Time = 14510.524 ms
+N = 19500  Time = 15281.362 ms
+N = 19500  Time = 15107.842 ms
+
+N = 20000  Time = 16212.832 ms
+N = 20000  Time = 15950.527 ms
+N = 20000  Time = 16073.910 ms
+
+===========================
+DENSE Phi
+===========================
+N = 500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 0.419 s	N = 500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 0.409 s	N = 500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 0.413 s	
+
+N = 1000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.266 s	N = 1000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.235 s	N = 1000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.254 s	
+
+N = 1500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.291 s	N = 1500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.305 s	N = 1500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.278 s	
+
+N = 2000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.314 s	N = 2000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.371 s	N = 2000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.315 s	
+
+N = 2500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.530 s	N = 2500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.495 s	N = 2500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.574 s	
+
+N = 3000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.558 s	N = 3000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.634 s	N = 3000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.602 s	
+
+N = 3500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.801 s	N = 3500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.831 s	N = 3500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.788 s	
+
+N = 4000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.953 s	N = 4000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.935 s	N = 4000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 1.947 s	
+
+N = 4500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.012 s	N = 4500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.296 s	N = 4500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.047 s	
+
+N = 5000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.126 s	N = 5000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.085 s	N = 5000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.112 s	
+
+N = 5500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.508 s	N = 5500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.487 s	N = 5500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.444 s	
+
+N = 6000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.557 s	N = 6000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.536 s	N = 6000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.511 s	
+
+N = 6500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.978 s	N = 6500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.981 s	N = 6500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 2.999 s	
+
+N = 7000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.043 s	N = 7000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.030 s	N = 7000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.046 s	
+
+N = 7500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.577 s	N = 7500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.624 s	N = 7500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.575 s	
+
+N = 8000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.695 s	N = 8000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.704 s	N = 8000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 3.693 s	
+
+N = 8500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.378 s	N = 8500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.380 s	N = 8500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.377 s	
+
+N = 9000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.464 s	N = 9000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.228 s	N = 9000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 4.245 s	
+
+N = 9500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.091 s	N = 9500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.084 s	N = 9500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.111 s	
+
+N = 10000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.035 s	N = 10000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.048 s	N = 10000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.032 s	
+
+N = 10500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 6.117 s	N = 10500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 6.163 s	N = 10500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 6.107 s	
+
+N = 11000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 6.234 s	N = 11000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.978 s	N = 11000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 5.955 s	
+
+N = 11500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.291 s	N = 11500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.328 s	N = 11500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.288 s	
+
+N = 12000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.180 s	N = 12000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.299 s	N = 12000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 7.086 s	
+
+N = 12500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.581 s	N = 12500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.612 s	N = 12500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.982 s	
+
+N = 13000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.302 s	N = 13000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.288 s	N = 13000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 8.296 s	
+
+N = 13500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 10.134 s	N = 13500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 10.117 s	N = 13500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 10.179 s	
+
+N = 14000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.360 s	N = 14000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.392 s	N = 14000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.326 s	
+
+N = 14500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.800 s	N = 14500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.804 s	N = 14500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 11.789 s	
+
+N = 15000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.769 s	N = 15000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.822 s	N = 15000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.785 s	
+
+N = 15500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.706 s	N = 15500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.703 s	N = 15500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 13.802 s	
+
+N = 16000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 15.969 s	N = 16000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 16.109 s	N = 16000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 16.074 s	
+
+N = 16500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 15.892 s	N = 16500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 15.924 s	N = 16500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 15.906 s	
+
+N = 17000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 18.409 s	N = 17000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 18.370 s	N = 17000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 18.347 s	
+
+N = 17500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 17.666 s	N = 17500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 17.631 s	N = 17500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 17.673 s	
+
+N = 18000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 21.090 s	N = 18000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 21.075 s	N = 18000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 21.080 s	
+
+N = 18500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 20.118 s	N = 18500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 20.108 s	N = 18500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 20.314 s	
+
+N = 19000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 24.075 s	N = 19000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 24.063 s	N = 19000  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 24.047 s	
+
+N = 19500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 22.955 s	N = 19500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 22.998 s	N = 19500  [Offload] [MIC 0] [File]            dgetrf_phi.c
+Time = 23.564 s	

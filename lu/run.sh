@@ -1,5 +1,11 @@
 #!/bin/bash
 
+export OMP_NUM_THREADS=40 
+export KMP_AFFINITY=granularity=fine,compact,1,0 
+export MIC_OMP_NUM_THREAD=236 
+export MIC_KMP_AFFINITY=explicit,granularity=fine,proclist=[1-236:1] 
+export MIC_ENV_PREFIX=MIC_ 
+
 echo CPU Banded
 echo ===========================
 for i in {500..20000..500}
