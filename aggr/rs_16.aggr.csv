@@ -1,0 +1,12 @@
+# started on Tue Nov 11 10:21:10 2014
+
+1922207270485,cycles,2.33%
+1171252600778,instructions,1.19%
+457714928358,cache-references,1.36%
+2784888320,cache-misses,2.72%
+173802904204,branches,0.89%
+811814632,branch-misses,5.49%
+1081743344493,L1-dcache-loads,0.45%
+1475261176,L1-dcache-load-misses,1.69%
+6602493405,LLC-loads,2.16%
+201025477,LLC-load-misses,1.35%
