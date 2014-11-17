@@ -1,0 +1,137 @@
+
+
+General Exploration Metrics
+---------------------------
+Parameter                              r001ge       
+-------------------------------------  -------------
+Hardware Event Count                                
+ CPU_CLK_UNHALTED.THREAD               1363444045163
+ INST_RETIRED.ANY                      1323641985460
+CPI Rate                               1.030        
+Filled Pipeline Slots                  0.0          
+ Retiring                              0.307        
+  General Retirement                   0.304        
+  Microcode Sequencer                  0.008        
+ Bad Speculation                       0.008        
+  Branch Mispredict                    0.007        
+  Machine Clears                       0.001        
+Unfilled Pipeline Slots (Stalls)       0.0          
+ Back-end Bound                        0.619        
+  Memory Bound                         0.231        
+   L1 Bound                            0.203        
+    DTLB Overhead                      0.003        
+    Loads Blocked by Store Forwarding  0.003        
+    Split Loads                        0.0          
+    4K Aliasing                        0.002        
+   L2 Bound                            0.0          
+   L3 Bound                            0.002        
+    Contested Accesses                 0.000        
+    Data Sharing                       0.0          
+    L3 Latency                         0.001        
+   DRAM Bound                          0.022        
+   Store Bound                         0.011        
+    False Sharing                      0.000        
+    Split Stores                       0.0          
+    DTLB Store Overhead                0.000        
+  Core Bound                           0.521        
+   DIV Active                          0.002        
+   Port Utilization                    0.519        
+    Cycles of 0 Ports Utilized         0.272        
+    Cycles of 1 Port Utilized          0.288        
+    Cycles of 2 Ports Utilized         0.237        
+    Cycles of 3+ Ports Utilized        0.206        
+ Front-end Bound                       0.068        
+  Front-End Latency                    0.027        
+   ICache Misses                       0.024        
+   ITLB Overhead                       0.000        
+   Branch Resteers                     0.006        
+   DSB Switches                        0.047        
+   Length Changing Prefixes            0.0          
+  Front-End Bandwidth                  0.041        
+   Front-End Bandwidth DSB             0.117        
+   Front-End Bandwidth MITE            0.082        
+
+Collection and Platform Info
+----------------------------
+Parameter                 r001ge                                                           
+------------------------  -----------------------------------------------------------------
+Application Command Line  ./dress                                                          
+User Name                 odeshmukh                                                        
+Operating System          2.6.32-358.23.2.el6.centos.plus.x86_64 CentOS release 6.4 (Final)
+Computer Name             lagrange                                                         
+Result Size               405964006                                                        
+
+CPU
+---
+Parameter          r001ge    
+-----------------  ----------
+Name               Unknown   
+Frequency          3000000000
+Logical CPU Count  40        
+
+Summary
+-------
+Elapsed Time:  53.359
+CPU Usage:     7.255 
+
+Event summary
+-------------
+Hardware Event Type                                    Hardware Event Count:Self  Hardware Event Sample Count:Self  Events Per Sample
+-----------------------------------------------------  -------------------------  --------------------------------  -----------------
+CPU_CLK_UNHALTED.REF_TSC                                           1271649907472                            635824  2000003          
+CPU_CLK_UNHALTED.THREAD                                            1363444045163                            681721  2000003          
+INST_RETIRED.ANY                                                   1323641985460                            661820  2000003          
+OFFCORE_RESPONSE.DEMAND_RFO.LLC_HIT.HITM_OTHER_CORE_0                          0                                 0  100003           
+L1D_PEND_MISS.PENDING                                                33880050820                              1210  2000003          
+INST_RETIRED.PREC_DIST                                             1307405961106                             46693  2000003          
+BACLEARS.ANY                                                          1429442882                              1021  100003           
+CYCLE_ACTIVITY.STALLS_L1D_PENDING                                    23100034650                               825  2000003          
+MACHINE_CLEARS.COUNT                                                    86802604                                62  100003           
+LD_BLOCKS.NO_SR                                                                0                                 0  100003           
+MEM_LOAD_UOPS_RETIRED.L1_MISS                                          697220916                               498  100003           
+DSB2MITE_SWITCHES.PENALTY_CYCLES                                     63448095172                              2266  2000003          
+RS_EVENTS.EMPTY_END                                                   8226523396                              2938  200003           
+ICACHE.IFETCH_STALL                                                  32312048468                              1154  2000003          
+RS_EVENTS.EMPTY_CYCLES                                               62104093156                              2218  2000003          
+RESOURCE_STALLS.SB                                                   20944031416                               748  2000003          
+DTLB_STORE_MISSES.WALK_DURATION                                         56000084                                 2  2000003          
+DTLB_STORE_MISSES.STLB_HIT                                               8400252                                 6  100003           
+MEM_LOAD_UOPS_RETIRED.LLC_MISS_PS                                       67204704                                48  100007           
+IDQ.MS_UOPS                                                          44464066696                              1588  2000003          
+ILD_STALL.LCP                                                                  0                                 0  2000003          
+UOPS_EXECUTED.CYCLES_GE_1_UOP_EXEC                                  996297494444                             35582  2000003          
+UOPS_EXECUTED.CYCLES_GE_2_UOPS_EXEC                                 603568905352                             21556  2000003          
+CYCLE_ACTIVITY.STALLS_LDM_PENDING                                   300132450198                             10719  2000003          
+CYCLE_ACTIVITY.STALLS_L2_PENDING                                     32984049476                              1178  2000003          
+UOPS_EXECUTED.CYCLES_GE_3_UOPS_EXEC                                 280420420630                             10015  2000003          
+CYCLE_ACTIVITY.CYCLES_NO_EXECUTE                                    371112556668                             13254  2000003          
+IDQ.ALL_MITE_CYCLES_4_UOPS                                           44044066066                              1573  2000003          
+IDQ.ALL_MITE_CYCLES_ANY_UOPS                                        156436234654                              5587  2000003          
+IDQ.ALL_DSB_CYCLES_4_UOPS                                           227388341082                              8121  2000003          
+IDQ.ALL_DSB_CYCLES_ANY_UOPS                                         387156580734                             13827  2000003          
+IDQ_UOPS_NOT_DELIVERED.CYCLES_0_UOPS_DELIV.CORE                      36792055188                              1314  2000003          
+ARITH.FPU_DIV_ACTIVE                                                  3052004578                               109  2000003          
+BR_MISP_RETIRED.ALL_BRANCHES_PS                                        610413734                               109  400009           
+DTLB_LOAD_MISSES.DEMAND_LD_WALK_DURATION                               196000294                                 7  2000003          
+ICACHE.MISSES                                                         1164817472                               416  200003           
+IDQ.MS_CYCLES                                                        25788038682                               921  2000003          
+IDQ_UOPS_NOT_DELIVERED.CORE                                         373240559860                             13330  2000003          
+ITLB_MISSES.WALK_DURATION                                              140000210                                 5  2000003          
+L1D.REPLACEMENT                                                       1372002058                                49  2000003          
+L2_LINES_IN.ALL                                                       1824254726                              1303  100003           
+LD_BLOCKS.STORE_FORWARD                                                287008610                               205  100003           
+LD_BLOCKS_PARTIAL.ADDRESS_ALIAS                                        592217766                               423  100003           
+MACHINE_CLEARS.MASKMOV                                                         0                                 0  100003           
+MACHINE_CLEARS.MEMORY_ORDERING                                          88202646                                63  100003           
+MACHINE_CLEARS.SMC                                                             0                                 0  100003           
+MEM_LOAD_UOPS_LLC_HIT_RETIRED.XSNP_HITM_PS                               4762618                                17  20011            
+MEM_LOAD_UOPS_LLC_HIT_RETIRED.XSNP_HIT_PS                                      0                                 0  20011            
+MEM_LOAD_UOPS_LLC_MISS_RETIRED.LOCAL_DRAM                                1400098                                 1  100007           
+MEM_LOAD_UOPS_RETIRED.LLC_HIT_PS                                        46219404                                66  50021            
+MEM_UOPS_RETIRED.ALL_STORES_PS                                      366940550410                             13105  2000003          
+MEM_UOPS_RETIRED.SPLIT_LOADS_PS                                                0                                 0  100003           
+MEM_UOPS_RETIRED.SPLIT_STORES_PS                                               0                                 0  100003           
+TLB_ACCESS.LOAD_STLB_HIT                                               534816044                               382  100003           
+UOPS_ISSUED.ANY                                                    1704810557212                             60886  2000003          
+UOPS_RETIRED.RETIRE_SLOTS                                          1672946509416                             59748  2000003          
+INT_MISC.RECOVERY_CYCLES                                              3108004662                               111  2000003          

@@ -1,0 +1,33 @@
+
+
+Collection and Platform Info
+----------------------------
+Parameter                 r000bw                                                           
+------------------------  -----------------------------------------------------------------
+Application Command Line  ./dress                                                          
+User Name                 odeshmukh                                                        
+Operating System          2.6.32-358.23.2.el6.centos.plus.x86_64 CentOS release 6.4 (Final)
+Computer Name             lagrange                                                         
+Result Size               347657739                                                        
+
+CPU
+---
+Parameter          r000bw    
+-----------------  ----------
+Name               Unknown   
+Frequency          3000000000
+Logical CPU Count  40        
+
+Summary
+-------
+Elapsed Time:  53.747
+CPU Usage:     7.235 
+
+Event summary
+-------------
+Hardware Event Type             Hardware Event Count:Self  Hardware Event Sample Count:Self  Events Per Sample
+------------------------------  -------------------------  --------------------------------  -----------------
+CPU_CLK_UNHALTED.THREAD                     1389712084565                            694855  2000003          
+CPU_CLK_UNHALTED.REF_TSC                    1294433941648                            647216  2000003          
+INST_RETIRED.ANY                            1329421994130                            664710  2000003          
+MEM_LOAD_UOPS_RETIRED.LLC_MISS                   44303101                               443  100007           
