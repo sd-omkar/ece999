@@ -1,0 +1,345 @@
+CPU: AMD64 family15h, speed 2200 MHz (estimated)
+Counted DISPATCHED_FPU_OPS events (FPU Pipe Assignment) with a unit mask of 0xff (All ops) count 500
+samples  %        image name               symbol name
+25754790 24.8893  libChronoEngine_Parallel.so real3::cross(real3 const&) const
+8923197   8.6233  libChronoEngine_Parallel.so real3::operator*(float) const
+7597560   7.3422  libChronoEngine_Parallel.so real3::real3(float __vector)
+7090054   6.8518  libChronoEngine_Parallel.so real3::operator+(real3 const&) const
+7010110   6.7745  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+5550654   5.3641  libChronoEngine_Parallel.so cross(real3 const&, real3 const&)
+5500313   5.3155  libChronoEngine_Parallel.so real3::dot(real3 const&) const
+4157548   4.0178  libChronoEngine_Parallel.so operator*(float, real3 const&)
+2599204   2.5119  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.15
+2475507   2.3923  libChronoEngine_Parallel.so real3::operator-() const
+2220680   2.1461  dress                    real3::real3(float, float, float)
+1515342   1.4644  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid18host_shurB_slidingERKfP4int2P5bool2P5real3P5real4PfS8_S8_SA_S8_S8_SB_._omp_fn.23
+1172663   1.1333  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS4Res4EiPfS1_S1_._omp_fn.12
+1161451   1.1224  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.18
+1097519   1.0606  libChronoEngine_Parallel.so Cone_generalized(float&, float&, float&, float const&)
+1073937   1.0378  libChronoEngine_Parallel.so overlap(real3, real3, real3, real3)
+1067879   1.0320  libChronoEngine_Parallel.so dot(real3 const&, real3 const&)
+891327    0.8614  libm-2.12.so             __ieee754_sqrt
+828341    0.8005  libChronoEngine_Parallel.so real3::length() const
+818516    0.7910  libChronoEngine_Parallel.so real3::operator-(real3 const&) const
+774590    0.7486  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid18host_shurA_slidingEP5bool2P5real3S4_S4_P5real4PfS4_S4_._omp_fn.20
+692532    0.6693  libChronoEngine_Parallel.so real4::operator float __vector() const
+686588    0.6635  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.17
+685960    0.6629  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS4Res4EiPfS1_S1_._omp_fn.11
+663468    0.6412  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid16host_Reduce_ShurEPbP5real3S3_PfS3_S3_S3_PiS5_S5_._omp_fn.25
+635325    0.6140  libChronoEngine_Parallel.so real3::operator+=(real3 const&)
+553322    0.5347  libChronoEngine_Parallel.so chrono::ChConstraintRigidRigid::func_Project(int&, int2*, real3*, float*, float*)
+543192    0.5249  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid17host_shurA_normalEPfP5real3S3_S3_S3_S3_._omp_fn.19
+532474    0.5146  libChronoEngine_Parallel.so function_Count_AABB_AABB_Intersection(unsigned int const&, real3 const*, unsigned int const&, unsigned int const*, unsigned int const*, unsigned int const*, short2 const*, unsigned int*)
+531164    0.5133  libChronoEngine_Parallel.so function_Store_AABB_AABB_Intersection(unsigned int const&, real3 const*, unsigned int const&, unsigned int const*, unsigned int const*, unsigned int const*, unsigned int const*, short2 const*, long long*)
+529948    0.5121  libChronoEngine_Parallel.so operator~(real4 const&)
+504014    0.4871  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid17host_shurB_normalERKfP4int2P5bool2P5real3P5real4PfS8_S8_S8_S8_SB_._omp_fn.22
+440309    0.4255  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.14
+363640    0.3514  libChronoEngine_Parallel.so real3::operator/(float) const
+355692    0.3437  libChronoEngine_Parallel.so chrono::Orthogonalize(real3&, real3&, real3&)
+343919    0.3324  libChronoEngine_Parallel.so GetSupportPoint_Cylinder(real3 const&, real3 const&)
+328282    0.3172  libChronoEngine_Parallel.so chrono::Compute_Jacobian(real4 const&, real3 const&, real3 const&, real3 const&, real3 const&, real3&, real3&, real3&)
+322331    0.3115  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+313292    0.3028  libChronoEngine_Parallel.so real3::real3()
+295638    0.2857  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid12host_ProjectEP4int2P5real3PfS5_._omp_fn.12
+264191    0.2553  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.16
+254555    0.2460  dress                    thrust::detail::vector_base<float, std::allocator<float> >::operator[](unsigned long)
+207105    0.2001  libChronoEngine_Parallel.so _Z3DotIN6thrust11host_vectorIfSaIfEEEEfRKT_S6_._omp_fn.19
+207014    0.2001  libChronoEngine_Parallel.so mult(real4 const&, real4 const&)
+206922    0.2000  libChronoEngine_Parallel.so float __vector change_sign<0, 1, 1, 1>(float __vector const&)
+193688    0.1872  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid10ComputeRHSEv._omp_fn.17
+168321    0.1627  libm-2.12.so             sqrt
+152575    0.1474  libChronoEngine_Parallel.so _ZL6SEAXMYRKfRKN6thrust11host_vectorIfSaIfEEES6_RS4_._omp_fn.2
+146876    0.1419  dress                    thrust::detail::contiguous_storage<float, std::allocator<float> >::operator[](unsigned long)
+132521    0.1281  libChronoEngine_Parallel.so mult(real4 const&, real4 const&)
+127096    0.1228  libChronoEngine_Parallel.so float __vector change_sign<0, 1, 1, 1>(float __vector const&)
+126469    0.1222  libChronoEngine_Parallel.so portalReachTolerance(simplex const&, real3 const&)
+116948    0.1130  libChronoEngine_Parallel.so real4::real4(float __vector)
+109078    0.1054  libc-2.12.so             __mcount_internal
+105450    0.1019  libChronoEngine_Parallel.so collide(short2, short2)
+102463    0.0990  libChronoEngine_Parallel.so real3::normalize() const
+96722     0.0935  libChronoEngine_Parallel.so operator~(real4 const&)
+95401     0.0922  libChronoEngine_Parallel.so real3::real3(float)
+89896     0.0869  libChronoEngine_Parallel.so int3 HashMin<real3>(real3 const&, real3 const&)
+89645     0.0866  libChronoEngine_Parallel.so AMat(real4 const&)
+85113     0.0823  dress                    thrust::iterator_adaptor<thrust::detail::normal_iterator<float*>, float*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+80507     0.0778  dress                    thrust::detail::normal_iterator<float*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<float*> >(thrust::detail::normal_iterator<float*> const&)
+72647     0.0702  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::operator[](long) const
+69530     0.0672  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid8host_RHSEP4int2PffP5bool2P5real3S7_S7_S7_S7_P5real4S3_._omp_fn.14
+68848     0.0665  libChronoEngine_Parallel.so SupportVert(chrono::collision::ConvexShape const&, real3 const&)
+64386     0.0622  libChronoEngine_Parallel.so TransformLocalToParent(real3 const&, real4 const&, real3 const&)
+63969     0.0618  libChronoEngine_Parallel.so PortalDir(simplex const&)
+60790     0.0587  libChronoEngine_Parallel.so std::fmin(float, float)
+56236     0.0543  libChronoEngine_Parallel.so long long __vector constant4i<0, -2147483648, -2147483648, -2147483648>()
+46345     0.0448  libChronoEngine_Parallel.so _ZN6chrono14ChSolverAPGDRS11SolveAPGDRSEjjRN6thrust11host_vectorIfSaIfEEES5_._omp_fn.13
+46221     0.0447  libChronoEngine_Parallel.so LocalSupportVert(chrono::collision::ConvexShape const&, real3 const&)
+45882     0.0443  libChronoEngine_Parallel.so M33::operator*(real3 const&) const
+44955     0.0434  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::operator*() const
+43685     0.0422  dress                    thrust::detail::vector_base<float, std::allocator<float> >::operator[](unsigned long) const
+42482     0.0411  libChronoEngine_Parallel.so real4::operator*(float) const
+41572     0.0402  no-vmlinux               /no-vmlinux
+36666     0.0354  libChronoEngine_Parallel.so MPRSupport(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3 const&, support&)
+32127     0.0310  dress                    thrust::detail::contiguous_storage<float, std::allocator<float> >::operator[](unsigned long) const
+31437     0.0304  libChronoEngine_Parallel.so ExpandPortal(simplex&)
+31432     0.0304  libChronoEngine_Parallel.so TransformSupportVert(chrono::collision::ConvexShape const&, real3 const&)
+31003     0.0300  libChronoEngine_Parallel.so real4::real4(float)
+28810     0.0278  libChronoEngine_Parallel.so DiscoverPortal(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+27684     0.0268  libChronoEngine_Parallel.so quatRotateT(real3 const&, real4 const&)
+26539     0.0256  libChronoEngine_Parallel.so isEqual(float const&, float const&)
+24721     0.0239  libChronoEngine_Parallel.so real3::operator*(real3 const&) const
+23735     0.0229  libChronoEngine_Parallel.so normalize(real3 const&)
+23640     0.0228  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+23410     0.0226  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::derived() const
+23019     0.0222  dress                    thrust::detail::fill_functor<float>::operator()() const
+22634     0.0219  dress                    void thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> >::operator()<float>(float const&)
+20941     0.0202  libChronoEngine_Parallel.so _Z4NormIN6thrust11host_vectorIfSaIfEEEEfRKT_._omp_fn.20
+18822     0.0182  libChronoEngine_Parallel.so bbox_reduction::operator()(thrust::pair<real3, real3>, thrust::pair<real3, real3>)
+18495     0.0179  libChronoEngine_Parallel.so FindCenter(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+18139     0.0175  libChronoEngine_Parallel.so float __vector change_sign<1, 0, 0, 0>(float __vector const&)
+17389     0.0168  libChronoEngine_Parallel.so GetCenter(chrono::collision::ConvexShape const&)
+17350     0.0168  libChronoEngine_Parallel.so long long __vector constant4i<0, -2147483648, -2147483648, -2147483648>()
+16475     0.0159  libm-2.12.so             fminf
+16319     0.0158  libChronoEngine_Parallel.so support::support()
+15695     0.0152  libChronoEngine_Parallel.so portalCanEncapsuleOrigin(simplex const&, real3 const&)
+15530     0.0150  dress                    std::fmax(float, float)
+15485     0.0150  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+15347     0.0148  dress                    chrono::ChVector<double> chrono::ChMatrix<double>::Matr34_x_Quat<double>(chrono::ChQuaternion<double> const&)
+14015     0.0135  libChronoEngine_Parallel.so RefinePortal(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+13482     0.0130  libm-2.12.so             isnan
+13447     0.0130  libm-2.12.so             fmaxf
+13125     0.0127  dress                    chrono::ChMatrix<double>::GetElementN(int)
+13001     0.0126  libChronoEngine_Parallel.so IsZero(float const&)
+11957     0.0116  dress                    chrono::ChQuaternion<double>::Cross(chrono::ChQuaternion<double>, chrono::ChQuaternion<double>)
+11760     0.0114  libChronoEngine_Parallel.so FindPos(simplex const&, real3&)
+10451     0.0101  libChronoEngine_Parallel.so _ZN6chrono16ChSolverParallel5shurAEPf._omp_fn.13
+10424     0.0101  libChronoEngine_Parallel.so float __vector change_sign<1, 0, 0, 0>(float __vector const&)
+9807      0.0095  libChronoEngine_Parallel.so chrono::collision::ConvexShape::ConvexShape()
+9530      0.0092  libChronoEngine.so       chrono::ChVector<double> chrono::ChMatrix33<double>::Matr_x_Vect<double>(chrono::ChVector<double> const&) const
+9518      0.0092  libChronoEngine_Parallel.so real4::real4()
+9129      0.0088  libChronoEngine_Parallel.so operator*(float, real4 const&)
+8910      0.0086  dress                    chrono::ChMatrix<double>::GetElementN(int) const
+8098      0.0078  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid14host_JacobiansEP5real3S2_S2_P4int2P5real4S2_S2_._omp_fn.18
+7812      0.0075  libc-2.12.so             mcount
+6803      0.0066  libChronoEngine_Parallel.so _ZN6chrono19ChSystemParallelDVI12UpdateBodiesEv._omp_fn.11
+6760      0.0065  dress                    chrono::ChFrame<double>::SetMatrix_Gl(chrono::ChMatrixNM<double, 3, 4>&, chrono::ChQuaternion<double> const&)
+6154      0.0059  libChronoEngine_Parallel.so ComputeAABBBox(real3 const&, real3 const&, real3 const&, real4 const&, real4 const&, real3&, real3&)
+6032      0.0058  libChronoEngine_Parallel.so function_Count_AABB_BIN_Intersection(unsigned int const&, real3 const*, real3 const&, unsigned int const&, unsigned int*)
+5913      0.0057  dress                    chrono::ChMatrix<double>::operator()(int)
+5898      0.0057  dress                    void chrono::ChMatrix33<double>::Set_A_quaternion<double>(chrono::ChQuaternion<double> const&)
+5888      0.0057  libm-2.12.so             cos
+5876      0.0057  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid12host_ProjectEP4int2P5real3PfS5_._omp_fn.11
+5638      0.0054  libChronoEngine_Parallel.so IsZero(real3 const&)
+5502      0.0053  dress                    float* thrust::system::detail::internal::scalar::for_each_n<float*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> > >(float*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> >)
+4425      0.0043  libChronoEngine_Parallel.so chrono::collision::host_Dispatch_Finalize(unsigned int const&, real3 const*, float const&, SYSTEMTYPE const&, unsigned int const&, unsigned int const&, int const&, real3*, real3*, real3*, float*)
+4333      0.0042  libChronoEngine_Parallel.so thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>::dereference() const
+4285      0.0041  dress                    void thrust::detail::host_function<thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> >, void>::operator()<float>(float&) const
+4066      0.0039  libChronoEngine_Parallel.so M33::M33()
+3917      0.0038  libChronoEngine_Parallel.so chrono::collision::MPRGetPoints(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3, real3&, real3&)
+3889      0.0038  libChronoEngine_Parallel.so MatMult(M33 const&, real3 const&)
+3681      0.0036  libChronoEngine_Parallel.so FindPenetration(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&, float&, real3&, real3&)
+3589      0.0035  libChronoEngine_Parallel.so chrono::collision::MPRContact(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3&, float&)
+3502      0.0034  libChronoEngine_Parallel.so function_ComputeAABB(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, real3 const*, real4 const*, unsigned int const&, real3*)
+3378      0.0033  libChronoEngine_Parallel.so chrono::collision::host_DispatchHybridMPR(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, bool const*, real3 const*, real4 const*, float const&, SYSTEMTYPE const&, long long const*, unsigned int const*, unsigned int*, real3*, real3*, real3*, float*, float*, int2*)
+3340      0.0032  libm-2.12.so             sin
+3276      0.0032  dress                    chrono::ChMatrix<double>::SetElementN(int, double)
+3075      0.0030  libChronoEngine_Parallel.so thrust::detail::vector_base<real4, std::allocator<real4> >::operator[](unsigned long)
+2967      0.0029  libChronoEngine_Parallel.so simplex::simplex()
+2743      0.0027  libChronoEngine.so       chrono::ChVector<double> chrono::Vcross<double, double>(chrono::ChVector<double> const&, chrono::ChVector<double> const&)
+2691      0.0026  libChronoEngine_Parallel.so bbox_transformation::operator()(real3)
+2446      0.0024  libChronoEngine_Parallel.so chrono::collision::host_Dispatch_Init(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, bool const*, real3 const*, real4 const*, long long const*, unsigned int const*, unsigned int&, unsigned int&, unsigned int&, chrono::collision::ConvexShape&, chrono::collision::ConvexShape&)
+2160      0.0021  libChronoEngine_Parallel.so thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>::reference thrust::iterator_core_access::dereference<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >(thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> const&)
+2066      0.0020  libChronoEngine_Parallel.so long long __vector constant4i<-2147483648, 0, 0, 0>()
+2003      0.0019  libChronoEngine_Parallel.so void thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >::operator()<real3>(real3 const&)
+2000      0.0019  libChronoEngine.so       bool chrono::Vnotnull<double>(chrono::ChVector<double>*)
+1970      0.0019  libChronoEngine_Parallel.so portalEncapsulesOrigin(simplex const&, real3 const&)
+1927      0.0019  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real3*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<real3*> >(thrust::detail::normal_iterator<real3*> const&)
+1877      0.0018  libChronoEngine_Parallel.so thrust::detail::fill_functor<real3>::operator()() const
+1866      0.0018  libChronoEngine_Parallel.so AbsMat(M33 const&)
+1777      0.0017  dress                    chrono::ChVector<double>::ChVector(double, double, double)
+1562      0.0015  libChronoEngine_Parallel.so chrono::collision::MPRCollision(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3&, real3&, float&)
+1406      0.0014  libChronoEngine.so       chrono::ChVector<double>::operator+=(chrono::ChVector<double> const&)
+1393      0.0013  libChronoEngine_Parallel.so thrust::detail::contiguous_storage<real4, std::allocator<real4> >::operator[](unsigned long)
+1333      0.0013  libChronoEngine_Parallel.so thrust::detail::vector_base<real3, std::allocator<real3> >::operator[](unsigned long)
+1231      0.0012  libChronoEngine_Parallel.so function_Store_AABB_BIN_Intersection(unsigned int const&, real3 const*, unsigned int const*, real3 const&, int3 const&, unsigned int const&, unsigned int*, unsigned int*)
+1146      0.0011  libChronoEngine.so       chrono::ChVector<double>::operator*(double) const
+1139      0.0011  libChronoEngine_Parallel.so thrust::iterator_adaptor<thrust::detail::normal_iterator<real3*>, real3*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+1096      0.0011  libChronoEngine_Parallel.so thrust::pair<real3, real3> thrust::detail::host_device_function<bbox_transformation, thrust::pair<real3, real3> >::operator()<real3>(real3&) const
+1092      0.0011  libChronoEngine_Parallel.so long long __vector constant4i<-2147483648, 0, 0, 0>()
+1053      0.0010  libChronoEngine.so       chrono::ChVector<double>::operator-(chrono::ChVector<double> const&) const
+1015     9.8e-04  libChronoEngine_Parallel.so _ZN6chrono9collision22ChCNarrowphaseDispatch8DispatchEPKiPK5real3S6_S6_PK5real4PKjPKbS6_S9_PKxSB_PjPS4_SH_SH_PfSI_P4int2._omp_fn.15
+935      9.0e-04  libChronoEngine_Parallel.so thrust::pair<real3, real3>::pair(real3 const&, real3 const&)
+928      9.0e-04  libChronoEngine.so       chrono::ChQuaternion<double>::operator/(double) const
+914      8.8e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, real3, thrust::any_system_tag, thrust::random_access_traversal_tag, real3, long>::operator*() const
+888      8.6e-04  dress                    chrono::ChMatrix<double>::SetElement(int, int, double)
+840      8.1e-04  libChronoEngine_Parallel.so thrust::minus<real3>::operator()(real3 const&, real3 const&) const
+837      8.1e-04  dress                    chrono::ChVector<double>::operator+(chrono::ChVector<double> const&) const
+816      7.9e-04  dress                    chrono::ChVector<double>::operator=(chrono::ChVector<double> const&)
+782      7.6e-04  libChronoEngine_Parallel.so thrust::detail::contiguous_storage<real3, std::allocator<real3> >::operator[](unsigned long)
+761      7.4e-04  libChronoEngine.so       chrono::ChVector<double>::Normalize()
+760      7.3e-04  libChronoEngine_Parallel.so FindPenetrationSegment(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&, float&, real3&, real3&)
+752      7.3e-04  libChronoEngine.so       chrono::ChVector<double>::Length() const
+720      7.0e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::derived() const
+669      6.5e-04  libChronoEngine_Parallel.so TransformLocalToParent(real3 const&, real4 const&, real3 const&)
+618      6.0e-04  dress                    real4::real4(float, float, float, float)
+591      5.7e-04  dress                    thrust::detail::pointer_traits<float*>::get(float*)
+591      5.7e-04  libChronoEngine.so       chrono::ChBody::VariablesQbSetSpeed(double)
+569      5.5e-04  libChronoEngine.so       chrono::ChVector<double>::operator/(double) const
+530      5.1e-04  libChronoEngine.so       chrono::ChQuaternion<double>::operator-(chrono::ChQuaternion<double> const&) const
+496      4.8e-04  dress                    chrono::ChVector<double>::ChVector()
+493      4.8e-04  libChronoEngine_Parallel.so void thrust::detail::host_binary_transform_functor<thrust::minus<real3> >::operator()<thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >(thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>)
+482      4.7e-04  libChronoEngine_Parallel.so thrust::detail::dereference_iterator::apply<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >::type thrust::detail::dereference_iterator::operator()<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >(thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> const&)
+472      4.6e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::operator*() const
+453      4.4e-04  dress                    thrust::detail::pointer_traits<float*>::raw_pointer thrust::raw_pointer_cast<float*>(float* const&)
+426      4.1e-04  dress                    chrono::ChMatrixNM<double, 3, 4>::ChMatrixNM()
+425      4.1e-04  libChronoEngine_Parallel.so _ZN6chrono9collision16ChCAABBGenerator16host_ComputeAABBEPKiPK5real3S6_S6_PK5real4PKjS6_S9_PS4_._omp_fn.0
+425      4.1e-04  libChronoEngine_Parallel.so chrono::collision::host_Preprocess(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, unsigned int const*, real3 const*, real4 const*, real3*, real3*, real3*)
+415      4.0e-04  dress                    std::vector<chrono::ChBody*, std::allocator<chrono::ChBody*> >::operator[](unsigned long)
+415      4.0e-04  libChronoEngine.so       chrono::ChBody::ComputeGyro()
+407      3.9e-04  dress                    chrono::ChBody::BFlagGet(int)
+404      3.9e-04  libChronoEngine_Parallel.so _ZN6chrono16ChSystemParallel11Integrate_YEv._omp_fn.11
+400      3.9e-04  libChronoEngine.so       chrono::ChMatrix<double>::ElementN(int)
+398      3.8e-04  dress                    thrust::detail::raw_reference<float>::type thrust::raw_reference_cast<float>(float&)
+392      3.8e-04  libChronoEngine_Parallel.so thrust::iterator_adaptor<thrust::detail::normal_iterator<real4*>, real4*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+386      3.7e-04  libChronoEngine.so       double const& std::max<double>(double const&, double const&)
+381      3.7e-04  dress                    chrono::ChMatrix<double>::GetElement(int, int)
+374      3.6e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::operator[](long) const
+367      3.5e-04  libChronoEngine.so       chrono::ChQuaternion<double>::Q_from_AngAxis(double, chrono::ChVector<double> const&)
+359      3.5e-04  libChronoEngine_Parallel.so function_addForces(int&, bool*, float*, real3*, real3*, real3*, real3*, real3*)
+358      3.5e-04  libChronoEngine.so       chrono::ChBody::VariablesQbIncrementPosition(double)
+356      3.4e-04  libChronoEngine.so       chrono::ChMatrix<double>::FillElem(double)
+355      3.4e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::operator[](long) const
+352      3.4e-04  dress                    chrono::ChQuaternion<double>::ChQuaternion(chrono::ChQuaternion<double> const&)
+328      3.2e-04  dress                    chrono::ChFrame<double>::GetRot()
+326      3.2e-04  libChronoEngine.so       chrono::ChBody::UpdateForces(double)
+279      2.7e-04  libChronoEngine_Parallel.so chrono::ChBody::GetKfriction()
+261      2.5e-04  libChronoEngine_Parallel.so thrust::detail::tuple_transform_functor<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::detail::dereference_iterator::apply, thrust::detail::dereference_iterator, 3u>::do_it_on_the_host_or_device(thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> const&, thrust::detail::dereference_iterator)
+250      2.4e-04  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real4*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<real4*> >(thrust::detail::normal_iterator<real4*> const&)
+249      2.4e-04  libChronoEngine.so       chrono::ChQuaternion<double>::operator*=(double)
+218      2.1e-04  dress                    chrono::ChLcpVariablesBodyOwnMass::GetBodyMass()
+214      2.1e-04  libChronoEngine.so       void chrono::ChMatrix<double>::PasteVector<double>(chrono::ChVector<double> const&, int, int)
+195      1.9e-04  dress                    chrono::ChVector<double>::ChVector(chrono::ChVector<double> const&)
+175      1.7e-04  libChronoEngine_Parallel.so _ZN6chrono16ChSolverParallel5SetupEPNS_21ChParallelDataManagerE._omp_fn.11
+160      1.5e-04  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetCompliance()
+155      1.5e-04  libChronoEngine_Parallel.so thrust::detail::raw_reference<real3>::type thrust::raw_reference_cast<real3>(real3&)
+147      1.4e-04  libChronoEngine.so       chrono::ChBody::Variables()
+136      1.3e-04  libChronoEngine.so       chrono::ChLcpVariables::Get_fb()
+136      1.3e-04  libChronoEngine_Parallel.so _ZN6chrono9collision13ChCBroadphase32host_Store_AABB_BIN_IntersectionEPK5real3PKjPjS7_._omp_fn.1
+135      1.3e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::operator*() const
+134      1.3e-04  libChronoEngine.so       void chrono::ChMatrix<double>::PasteSumVector<double>(chrono::ChVector<double> const&, int, int)
+131      1.3e-04  libChronoEngine_Parallel.so length(real3 const&)
+125      1.2e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, real3, thrust::any_system_tag, thrust::random_access_traversal_tag, real3, long>::derived() const
+123      1.2e-04  libChronoEngine_Parallel.so _ZN6chrono9collision22ChCNarrowphaseDispatch23PreprocessLocalToParentEiPKiPK5real3S6_S6_PK5real4PKjPKbS6_S9_PS4_SE_SE_._omp_fn.12
+122      1.2e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::derived() const
+121      1.2e-04  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetSpinningFriction()
+120      1.2e-04  libChronoEngine_Parallel.so _ZN6chrono9collision13ChCBroadphase32host_Count_AABB_BIN_IntersectionEPK5real3Pj._omp_fn.0
+119      1.2e-04  libc-2.12.so             __GI_memset
+118      1.1e-04  dress                    chrono::ChFrameMoving<double>::GetWvel_loc() const
+114      1.1e-04  dress                    chrono::ChSharedPtr<chrono::ChMaterialSurface>::operator->()
+110      1.1e-04  libChronoEngine.so       chrono::ChPhysicsItem::GetSystem()
+105      1.0e-04  libChronoEngine_Parallel.so thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>::dereference() const
+98       9.5e-05  libChronoEngine_Parallel.so real3& thrust::detail::get_class<0>::get<real3&, real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >(thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >&)
+97       9.4e-05  libChronoEngine.so       chrono::ChBody::VariablesBody()
+96       9.3e-05  dress                    chrono::ChMatrixNM<double, 3, 4>::~ChMatrixNM()
+82       7.9e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::SetWvel_loc(chrono::ChVector<double> const&)
+79       7.6e-05  libChronoEngine.so       chrono::ChVector<double>::Scale(double)
+78       7.5e-05  libChronoEngine_Parallel.so thrust::detail::dereference_iterator::apply<thrust::detail::normal_iterator<real3*> >::type thrust::detail::dereference_iterator::operator()<thrust::detail::normal_iterator<real3*> >(thrust::detail::normal_iterator<real3*> const&)
+77       7.4e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetCohesion()
+75       7.2e-05  dress                    chrono::ChFrame<double>::GetPos()
+71       6.9e-05  dress                    chrono::ChQuaternion<double>::operator%(chrono::ChQuaternion<double> const&) const
+70       6.8e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceRolling()
+69       6.7e-05  libChronoEngine.so       chrono::ChBody::VariablesFbLoadForces(double)
+60       5.8e-05  libChronoEngine.so       chrono::ChMatrix<double>::Element(int, int) const
+60       5.8e-05  libChronoEngine.so       chrono::ChQuaternion<double>::ChQuaternion(double, chrono::ChVector<double>)
+55       5.3e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::GetCoord_dt()
+55       5.3e-05  libChronoEngine.so       chrono::ChMatrix33<double>::operator*(chrono::ChVector<double> const&)
+54       5.2e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetKfriction()
+51       4.9e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::SetRot_dtdt(chrono::ChQuaternion<double> const&)
+51       4.9e-05  libm-2.12.so             __dubsin
+49       4.7e-05  dress                    chrono::ChBody::GetMaterialSurface()
+49       4.7e-05  dress                    chrono::ChQuaternion<double>::ChQuaternion(double, double, double, double)
+46       4.4e-05  libChronoEngine.so       chrono::ChMatrix<double>::ClipVector(int, int) const
+43       4.2e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceSpinning()
+42       4.1e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetRollingFriction()
+42       4.1e-05  libChronoEngine_Parallel.so thrust::detail::pointer_traits<real3*>::raw_pointer thrust::raw_pointer_cast<real3*>(real3* const&)
+42       4.1e-05  libChronoEngine_Parallel.so thrust::pair<real3, real3> thrust::detail::host_function<bbox_reduction, thrust::pair<real3, real3> >::operator()<thrust::pair<real3, real3>, thrust::pair<real3, real3> >(thrust::pair<real3, real3>&, thrust::pair<real3, real3> const&) const
+42       4.1e-05  libm-2.12.so             __dubcos
+41       4.0e-05  libstdc++.so.6.0.20      std::string::compare(std::string const&) const
+37       3.6e-05  libc-2.12.so             __memcmp_sse4_1
+35       3.4e-05  libChronoEngine.so       chrono::ChMatrix<double>::Element(int, int)
+33       3.2e-05  libChronoEngine.so       chrono::ChSystem::Get_G_acc()
+33       3.2e-05  libChronoEngine_Parallel.so thrust::detail::pointer_traits<real3*>::get(real3*)
+31       3.0e-05  libChronoEngine.so       chrono::ChBody::VariablesFbReset()
+30       2.9e-05  libChronoEngine.so       chrono::ChFrame<double>::SetRot(chrono::ChQuaternion<double> const&)
+29       2.8e-05  libChronoEngine.so       chrono::ChSystem::GetStep()
+29       2.8e-05  libChronoEngine_Parallel.so _ZN6chrono19ChLcpSolverParallel14host_addForcesEPbPfP5real3S4_S4_S4_S4_._omp_fn.11
+29       2.8e-05  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::tuple<real3, real3, real3, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, long>::operator++()
+28       2.7e-05  dress                    chrono::ChBody::GetMass()
+28       2.7e-05  libc-2.12.so             __strlen_sse42
+26       2.5e-05  libChronoEngine.so       chrono::ChBody::VariablesQbLoadSpeed()
+24       2.3e-05  dress                    chrono::ChTimer<double>::operator()() const
+22       2.1e-05  libChronoEngine.so       chrono::ChLcpVariables::Get_qb()
+22       2.1e-05  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::tuple<real3, real3, real3, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, long>::derived()
+20       1.9e-05  dress                    chrono::ChQuaternion<double>::operator=(chrono::ChQuaternion<double> const&)
+18       1.7e-05  libChronoEngine.so       chrono::ChBody::GetLimitSpeed()
+16       1.5e-05  libChronoEngine_Parallel.so void thrust::iterator_core_access::increment<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> > >(thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >&)
+15       1.4e-05  libgomp.so.1.0.0         GOMP_atomic_start
+15       1.4e-05  libgomp.so.1.0.0         gomp_thread_start
+14       1.4e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceT()
+14       1.4e-05  libChronoEngine_Parallel.so thrust::access_traits<thrust::tuple_element<0, thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > > >::type>::non_const_type thrust::get<0, real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >(thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >&)
+13       1.3e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::SetPos_dt(chrono::ChVector<double> const&)
+12       1.2e-05  libChronoEngine.so       chrono::ChBody::ClampSpeed()
+12       1.2e-05  libChronoEngine.so       chrono::ChMatrixNM<double, 3, 3>::ChMatrixNM(chrono::ChMatrixNM<double, 3, 3> const&)
+12       1.2e-05  libChronoEngine_Parallel.so thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>::reference thrust::iterator_core_access::dereference<thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default> >(thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default> const&)
+11       1.1e-05  dress                    chrono::ChMatrix<double>::~ChMatrix()
+10       9.7e-06  libgomp.so.1.0.0         gomp_team_barrier_wait_final
+8        7.7e-06  libChronoEngine.so       chrono::ChBody::GetNoGyroTorque()
+8        7.7e-06  libChronoEngine.so       chrono::ChFrame<double>::SetPos(chrono::ChVector<double> const&)
+8        7.7e-06  libChronoEngine.so       std::vector<chrono::ChMarker*, std::allocator<chrono::ChMarker*> >::begin()
+8        7.7e-06  libChronoEngine_Parallel.so thrust::detail::raw_reference<thrust::pair<real3, real3> >::type thrust::raw_reference_cast<thrust::pair<real3, real3> >(thrust::pair<real3, real3>&)
+7        6.8e-06  libChronoEngine_Parallel.so real3* thrust::system::detail::internal::scalar::for_each_n<real3*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> > >(real3*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >)
+6        5.8e-06  dress                    chrono::ChBody::IsActive()
+5        4.8e-06  libChronoEngine_Parallel.so _ZpLI5real3EvRN6thrust11host_vectorIT_SaIS3_EEERKS5_._omp_fn.16
+5        4.8e-06  libChronoEngine_Parallel.so chrono::ChSolverAPGDRS::SolveAPGDRS(unsigned int, unsigned int, thrust::host_vector<float, std::allocator<float> >&, thrust::host_vector<float, std::allocator<float> >&)
+5        4.8e-06  libc-2.12.so             _int_free
+5        4.8e-06  libgomp.so.1.0.0         gomp_barrier_wait_end
+5        4.8e-06  libm-2.12.so             __ieee754_pow
+4        3.9e-06  libChronoEngine_Parallel.so chrono::collision::RCollision(unsigned int const&, chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, int const&, int const&, unsigned int*, real3*, real3*, real3*, float*, float*, int2*, int&)
+4        3.9e-06  libc-2.12.so             memchr
+3        2.9e-06  dress                    bool std::operator< <char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+3        2.9e-06  dress                    chrono::ChQuaternion<double>::ChQuaternion()
+3        2.9e-06  dress                    thrust::detail::normal_iterator<float*> thrust::operator+<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>(thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long> const&, thrust::detail::normal_iterator<float*>::difference_type)
+3        2.9e-06  libChronoEngine_Parallel.so chrono::collision::snap_to_cylinder(float const&, float const&, real3&)
+3        2.9e-06  libChronoEngine_Parallel.so thrust::access_traits<thrust::tuple_element<0, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > >::type>::const_type thrust::get<0, thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > >(thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > const&)
+2        1.9e-06  dress                    chrono::ChMatrix<double>::GetColumns() const
+2        1.9e-06  libChronoEngine.so       bool __gnu_cxx::operator!=<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > >(__gnu_cxx::__normal_iterator<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > > const&, __gnu_cxx::__normal_iterator<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > > const&)
+2        1.9e-06  libChronoEngine.so       chrono::ChBody::GetCollide()
+2        1.9e-06  libChronoEngine.so       chrono::ChBody::UpdateTime(double)
+2        1.9e-06  libChronoEngine_OpenGL.so char* std::string::_S_construct<char const*>(char const*, char const*, std::allocator<char> const&, std::forward_iterator_tag)
+2        1.9e-06  libChronoEngine_Parallel.so chrono::collision::cylinder_sphere(real3 const&, real4 const&, float const&, float const&, real3 const&, float const&, real3&, float&, real3&, real3&, float&)
+2        1.9e-06  libChronoEngine_Parallel.so thrust::detail::pointer_traits<thrust::pair<real3, real3>*>::get(thrust::pair<real3, real3>*)
+1        9.7e-07  dress                    chrono::ChMatrix<double>::GetRows() const
+1        9.7e-07  dress                    std::_Rb_tree<std::string, std::pair<std::string const, chrono::TimerData>, std::_Select1st<std::pair<std::string const, chrono::TimerData> >, std::less<std::string>, std::allocator<std::pair<std::string const, chrono::TimerData> > >::_M_lower_bound(std::_Rb_tree_node<std::pair<std::string const, chrono::TimerData> >*, std::_Rb_tree_node<std::pair<std::string const, chrono::TimerData> >*, std::string const&)
+1        9.7e-07  dress                    std::_Rb_tree_iterator<std::pair<std::string const, chrono::TimerData> >::operator*() const
+1        9.7e-07  dress                    std::less<std::string>::operator()(std::string const&, std::string const&) const
+1        9.7e-07  dress                    std::map<std::string, chrono::TimerData, std::less<std::string>, std::allocator<std::pair<std::string const, chrono::TimerData> > >::operator[](std::string const&)
+1        9.7e-07  libChronoEngine.so       chrono::ChLcpVariablesBodyOwnMass::GetBodyInvInertia()
+1        9.7e-07  libChronoEngine.so       chrono::ChMatrix33<double>::ChMatrix33(chrono::ChMatrix33<double> const&)
+1        9.7e-07  libChronoEngine_Parallel.so TransformParentToLocal(real3 const&, real4 const&, real3 const&)
+1        9.7e-07  libChronoEngine_Parallel.so _make_int2(int const&, int const&)
+1        9.7e-07  libChronoEngine_Parallel.so chrono::ChConstraintBilateral::ShurA(float*)
+1        9.7e-07  libChronoEngine_Parallel.so chrono::ChConstraintRigidRigid::ShurA(float*)
+1        9.7e-07  libChronoEngine_Parallel.so chrono::ChSolverParallel::ShurProduct(thrust::host_vector<float, std::allocator<float> >&, thrust::host_vector<float, std::allocator<float> >&)
+1        9.7e-07  libChronoEngine_Parallel.so chrono::ChSolverParallel::shurA(float*)
+1        9.7e-07  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+1        9.7e-07  libChronoEngine_Parallel.so real3& thrust::detail::get_class<1>::get<real3&, real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >(thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >&)
+1        9.7e-07  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real3*> const& thrust::detail::get_class<0>::get<thrust::detail::normal_iterator<real3*> const&, thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > >(thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > const&)
+1        9.7e-07  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real3*> thrust::operator+<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>(thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long> const&, thrust::detail::normal_iterator<real3*>::difference_type)
+1        9.7e-07  libChronoEngine_Parallel.so thrust::detail::pointer_traits<thrust::pair<real3, real3>*>::raw_pointer thrust::raw_pointer_cast<thrust::pair<real3, real3>*>(thrust::pair<real3, real3>* const&)
+1        9.7e-07  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>, thrust::pair<real3, real3>, thrust::system::cpp::detail::tag, std::random_access_iterator_tag, thrust::pair<real3, real3>, long>::operator*() const
+1        9.7e-07  libChronoEngine_Parallel.so void thrust::detail::host_function<thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >, void>::operator()<real3>(real3&) const
+1        9.7e-07  libc-2.12.so             __printf_fp
+1        9.7e-07  libc-2.12.so             printf
+1        9.7e-07  libgomp.so.1.0.0         gomp_iter_guided_next
+1        9.7e-07  libgomp.so.1.0.0         gomp_team_barrier_wait_end
+1        9.7e-07  libstdc++.so.6.0.20      std::allocator<char>::allocator()
+1        9.7e-07  libstdc++.so.6.0.20      std::allocator<char>::~allocator()
+1        9.7e-07  libstdc++.so.6.0.20      std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)

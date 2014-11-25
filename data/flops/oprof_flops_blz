@@ -1,0 +1,416 @@
+CPU: AMD64 family15h, speed 2200 MHz (estimated)
+Counted DISPATCHED_FPU_OPS events (FPU Pipe Assignment) with a unit mask of 0xff (All ops) count 500
+samples  %        image name               symbol name
+34416411 45.3271  libChronoEngine_Parallel.so blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> >::operator[](unsigned long) const
+6219606   8.1913  libChronoEngine_Parallel.so blaze::DynamicVector<float, false>::operator[](unsigned long) const
+3390957   4.4660  libChronoEngine_Parallel.so real3::cross(real3 const&) const
+2278977   3.0015  libChronoEngine_Parallel.so blaze::sse_float_t::sse_float_t(float __vector)
+2096138   2.7607  libChronoEngine_Parallel.so Cone_generalized(float&, float&, float&, float const&)
+1847017   2.4326  libChronoEngine_Parallel.so blaze::load(float const*)
+1698847   2.2374  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator++()
+1668719   2.1977  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>::operator[](unsigned long) const
+1613691   2.1253  libm-2.12.so             __ieee754_sqrt
+1328826   1.7501  libChronoEngine_Parallel.so overlap(real3, real3, real3, real3)
+1064537   1.4020  libChronoEngine_Parallel.so chrono::ChConstraintRigidRigid::func_Project(int&, int2*, real3*, float*, float*)
+977164    1.2869  libChronoEngine_Parallel.so blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>::operator[](unsigned long) const
+976015    1.2854  libChronoEngine_Parallel.so real3::operator*(float) const
+973243    1.2818  libChronoEngine_Parallel.so blaze::operator*(blaze::sse_float_t const&, blaze::sse_float_t const&)
+969199    1.2765  libChronoEngine_Parallel.so real3::real3(float __vector)
+954117    1.2566  libChronoEngine_Parallel.so real3::operator+(real3 const&) const
+746347    0.9830  libChronoEngine_Parallel.so cross(real3 const&, real3 const&)
+630238    0.8300  libChronoEngine_Parallel.so function_Store_AABB_AABB_Intersection(unsigned int const&, real3 const*, unsigned int const&, unsigned int const*, unsigned int const*, unsigned int const*, unsigned int const*, short2 const*, long long*)
+608076    0.8008  libChronoEngine_Parallel.so function_Count_AABB_AABB_Intersection(unsigned int const&, real3 const*, unsigned int const&, unsigned int const*, unsigned int const*, unsigned int const*, short2 const*, unsigned int*)
+580867    0.7650  libChronoEngine_Parallel.so operator*(float, real3 const&)
+545855    0.7189  libChronoEngine_Parallel.so blaze::operator-(blaze::sse_float_t const&, blaze::sse_float_t const&)
+540335    0.7116  libChronoEngine_Parallel.so real3::dot(real3 const&) const
+424760    0.5594  libChronoEngine_Parallel.so blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::load() const
+371579    0.4894  libChronoEngine_Parallel.so GetSupportPoint_Cylinder(real3 const&, real3 const&)
+365937    0.4819  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+347609    0.4578  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+342931    0.4516  dress                    real3::real3(float, float, float)
+340726    0.4487  libChronoEngine_Parallel.so blaze::set(float)
+332925    0.4385  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid12host_ProjectEP4int2P5real3PfS5_._omp_fn.12
+321952    0.4240  libChronoEngine_Parallel.so blaze::operator+(blaze::sse_float_t const&, blaze::sse_float_t const&)
+307169    0.4045  libChronoEngine_Parallel.so real3::operator-(real3 const&) const
+281336    0.3705  libm-2.12.so             sqrt
+261798    0.3448  libChronoEngine_Parallel.so blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::load() const
+257507    0.3391  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>::ConstIterator::load() const
+242696    0.3196  libChronoEngine_Parallel.so blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>::operator[](unsigned long) const
+234426    0.3087  libChronoEngine_Parallel.so blaze::DynamicVector<float, false>::store(unsigned long, blaze::sse_float_t const&)
+228377    0.3008  libChronoEngine_Parallel.so blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::store(unsigned long, blaze::sse_float_t const&)
+225622    0.2971  libChronoEngine_Parallel.so mult(real4 const&, real4 const&)
+203560    0.2681  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid10ComputeRHSEv._omp_fn.17
+195861    0.2580  libChronoEngine_Parallel.so blaze::store(float*, blaze::sse_float_t const&)
+183194    0.2413  libChronoEngine_Parallel.so blaze::EnableIf<blaze::TDVecDVecMultExprHelper<blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>, blaze::DynamicVector<float, false> >, blaze::MultTrait<blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>::ElementType, blaze::DynamicVector<float, false>::ElementType>::Type const>::Type blaze::operator*<blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>, blaze::DynamicVector<float, false> >(blaze::DenseVector<blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>, true> const&, blaze::DenseVector<blaze::DynamicVector<float, false>, false> const&)
+176734    0.2328  libChronoEngine_Parallel.so blaze::DenseIterator<float const>::load() const
+159074    0.2095  libChronoEngine_Parallel.so dot(real3 const&, real3 const&)
+157884    0.2079  libChronoEngine_Parallel.so blaze::ValueIndexPair<float>::index() const
+141176    0.1859  libChronoEngine_Parallel.so mult(real4 const&, real4 const&)
+140176    0.1846  libChronoEngine_Parallel.so real3::real3()
+138982    0.1830  libChronoEngine_Parallel.so real3::operator-() const
+138603    0.1825  libChronoEngine_Parallel.so portalReachTolerance(simplex const&, real3 const&)
+137652    0.1813  libChronoEngine_Parallel.so float __vector change_sign<0, 1, 1, 1>(float __vector const&)
+119984    0.1580  libChronoEngine_Parallel.so collide(short2, short2)
+110359    0.1453  libChronoEngine_Parallel.so real3::normalize() const
+106423    0.1402  libChronoEngine_Parallel.so operator~(real4 const&)
+102677    0.1352  libc-2.12.so             __mcount_internal
+101692    0.1339  libChronoEngine_Parallel.so real4::operator float __vector() const
+96479     0.1271  libChronoEngine_Parallel.so AMat(real4 const&)
+92539     0.1219  libChronoEngine_Parallel.so int3 HashMin<real3>(real3 const&, real3 const&)
+91034     0.1199  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>::ConstIterator::load() const
+88969     0.1172  libChronoEngine_Parallel.so blaze::DisableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>::VectorizedAssign<blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> > >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>::assign<blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> > >(blaze::DenseVector<blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> >, false> const&)
+88600     0.1167  libChronoEngine_Parallel.so blaze::DynamicVector<float, false>::load(unsigned long) const
+76871     0.1012  libChronoEngine_Parallel.so SupportVert(chrono::collision::ConvexShape const&, real3 const&)
+70081     0.0923  libChronoEngine_Parallel.so PortalDir(simplex const&)
+69363     0.0914  libChronoEngine_Parallel.so TransformLocalToParent(real3 const&, real4 const&, real3 const&)
+68843     0.0907  no-vmlinux               /no-vmlinux
+67731     0.0892  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid8host_RHSEP4int2PffP5bool2P5real3S7_S7_S7_S7_P5real4S3_._omp_fn.14
+65450     0.0862  libChronoEngine_Parallel.so real4::real4(float __vector)
+64442     0.0849  libChronoEngine_Parallel.so bool blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator!=<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>(blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*> const&) const
+60889     0.0802  libChronoEngine_Parallel.so std::fmin(float, float)
+52296     0.0689  libChronoEngine_Parallel.so LocalSupportVert(chrono::collision::ConvexShape const&, real3 const&)
+50321     0.0663  libChronoEngine_Parallel.so real3::length() const
+46870     0.0617  libChronoEngine_Parallel.so blaze::DenseIterator<float const>::operator+=(long)
+46067     0.0607  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixElement<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::index() const
+44793     0.0590  libChronoEngine_Parallel.so real4::operator*(float) const
+43022     0.0567  libChronoEngine_Parallel.so M33::operator*(real3 const&) const
+42041     0.0554  libChronoEngine_Parallel.so blaze::EnableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::VectorizedAssign<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::assign<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> >(blaze::DenseVector<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false> const&)
+41444     0.0546  libChronoEngine_Parallel.so MPRSupport(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3 const&, support&)
+38320     0.0505  libChronoEngine_Parallel.so blaze::Vector<blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> >, false>::operator~() const
+35186     0.0463  libChronoEngine_Parallel.so blaze::EnableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::VectorizedAssign<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::assign<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> >(blaze::DenseVector<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false> const&)
+33545     0.0442  libChronoEngine_Parallel.so TransformSupportVert(chrono::collision::ConvexShape const&, real3 const&)
+33308     0.0439  libChronoEngine_Parallel.so ExpandPortal(simplex&)
+32784     0.0432  libChronoEngine_Parallel.so real4::real4(float)
+31708     0.0418  libChronoEngine_Parallel.so DiscoverPortal(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+30296     0.0399  libChronoEngine_Parallel.so bool blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator==<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>(blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*> const&) const
+30027     0.0395  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::base() const
+28774     0.0379  libChronoEngine_Parallel.so quatRotateT(real3 const&, real4 const&)
+28617     0.0377  libChronoEngine_Parallel.so operator~(real4 const&)
+25879     0.0341  libChronoEngine_Parallel.so isEqual(float const&, float const&)
+25805     0.0340  libChronoEngine_Parallel.so normalize(real3 const&)
+24985     0.0329  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+23725     0.0312  libChronoEngine_Parallel.so real3::real3(float)
+23426     0.0309  libChronoEngine_Parallel.so real3::operator/(float) const
+22440     0.0296  libm-2.12.so             isnan
+21142     0.0278  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid18host_shurA_slidingEP5bool2P5real3S4_S4_P5real4PfS4_S4_._omp_fn.20
+20239     0.0267  libChronoEngine_Parallel.so FindCenter(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+19977     0.0263  libChronoEngine_Parallel.so chrono::Orthogonalize(real3&, real3&, real3&)
+19333     0.0255  libChronoEngine_Parallel.so float __vector change_sign<1, 0, 0, 0>(float __vector const&)
+19306     0.0254  libChronoEngine_Parallel.so thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>::dereference() const
+18650     0.0246  libChronoEngine_Parallel.so GetCenter(chrono::collision::ConvexShape const&)
+18364     0.0242  libChronoEngine_Parallel.so long long __vector constant4i<0, -2147483648, -2147483648, -2147483648>()
+18028     0.0237  libChronoEngine_Parallel.so chrono::Compute_Jacobian(real4 const&, real3 const&, real3 const&, real3 const&, real3 const&, real3&, real3&, real3&)
+17888     0.0236  libChronoEngine_Parallel.so support::support()
+17673     0.0233  libChronoEngine_Parallel.so blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::operator+=(unsigned long)
+17069     0.0225  libChronoEngine_Parallel.so bbox_reduction::operator()(thrust::pair<real3, real3>, thrust::pair<real3, real3>)
+16520     0.0218  libChronoEngine_Parallel.so blaze::EnableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::VectorizedAssign<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false> >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false> >(blaze::DenseVector<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> const&)
+16134     0.0212  libChronoEngine_Parallel.so portalCanEncapsuleOrigin(simplex const&, real3 const&)
+15558     0.0205  libm-2.12.so             fminf
+15548     0.0205  dress                    chrono::ChVector<double> chrono::ChMatrix<double>::Matr34_x_Quat<double>(chrono::ChQuaternion<double> const&)
+15323     0.0202  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>::ConstIterator::operator+=(unsigned long)
+15295     0.0201  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid12host_ProjectEP4int2P5real3PfS5_._omp_fn.11
+14914     0.0196  dress                    std::fmax(float, float)
+14822     0.0195  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+14793     0.0195  libChronoEngine_Parallel.so RefinePortal(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&)
+14252     0.0188  libChronoEngine_Parallel.so IsZero(float const&)
+13494     0.0178  libChronoEngine_Parallel.so blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>::load(unsigned long) const
+12839     0.0169  dress                    chrono::ChMatrix<double>::GetElementN(int)
+12666     0.0167  libChronoEngine_Parallel.so FindPos(simplex const&, real3&)
+12661     0.0167  libm-2.12.so             fmaxf
+12299     0.0162  libChronoEngine_Parallel.so void thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >::operator()<real3>(real3 const&)
+12125     0.0160  libChronoEngine_Parallel.so float __vector change_sign<0, 1, 1, 1>(float __vector const&)
+11933     0.0157  libChronoEngine_Parallel.so float __vector change_sign<1, 0, 0, 0>(float __vector const&)
+11596     0.0153  dress                    chrono::ChQuaternion<double>::Cross(chrono::ChQuaternion<double>, chrono::ChQuaternion<double>)
+11214     0.0148  libChronoEngine_Parallel.so blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::operator+=(unsigned long)
+10761     0.0142  libChronoEngine_Parallel.so chrono::collision::ConvexShape::ConvexShape()
+10077     0.0133  libChronoEngine_Parallel.so real4::real4()
+9573      0.0126  libChronoEngine.so       chrono::ChVector<double> chrono::ChMatrix33<double>::Matr_x_Vect<double>(chrono::ChVector<double> const&) const
+9404      0.0124  libChronoEngine_Parallel.so operator*(float, real4 const&)
+8971      0.0118  libChronoEngine_Parallel.so thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>::reference thrust::iterator_core_access::dereference<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >(thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> const&)
+8927      0.0118  libChronoEngine_Parallel.so blaze::EnableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::VectorizedAssign<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false> >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>::assign<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false> >(blaze::DenseVector<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>, false> const&)
+8619      0.0114  libChronoEngine_Parallel.so thrust::detail::fill_functor<real3>::operator()() const
+8498      0.0112  libc-2.12.so             mcount
+8143      0.0107  dress                    chrono::ChMatrix<double>::GetElementN(int) const
+7650      0.0101  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid14host_JacobiansEP5real3S2_S2_P4int2P5real4S2_S2_._omp_fn.18
+7117      0.0094  dress                    chrono::ChFrame<double>::SetMatrix_Gl(chrono::ChMatrixNM<double, 3, 4>&, chrono::ChQuaternion<double> const&)
+6745      0.0089  libChronoEngine_Parallel.so _ZN6chrono19ChSystemParallelDVI12UpdateBodiesEv._omp_fn.11
+6600      0.0087  libChronoEngine_Parallel.so ComputeAABBBox(real3 const&, real3 const&, real3 const&, real4 const&, real4 const&, real3&, real3&)
+6276      0.0083  dress                    void chrono::ChMatrix33<double>::Set_A_quaternion<double>(chrono::ChQuaternion<double> const&)
+6210      0.0082  dress                    chrono::ChMatrix<double>::operator()(int)
+5941      0.0078  libChronoEngine_Parallel.so IsZero(real3 const&)
+5892      0.0078  libChronoEngine_Parallel.so _ZN6chrono22ChConstraintRigidRigid16host_Reduce_ShurEPbP5real3S3_PfS3_S3_S3_PiS5_S5_._omp_fn.25
+5451      0.0072  libChronoEngine_Parallel.so function_Count_AABB_BIN_Intersection(unsigned int const&, real3 const*, real3 const&, unsigned int const&, unsigned int*)
+5335      0.0070  libChronoEngine_Parallel.so real3::operator+=(real3 const&)
+5330      0.0070  libm-2.12.so             cos
+5284      0.0070  libChronoEngine_Parallel.so blaze::DynamicVector<float, false>::operator[](unsigned long)
+4934      0.0065  libChronoEngine_Parallel.so chrono::collision::host_Dispatch_Finalize(unsigned int const&, real3 const*, float const&, SYSTEMTYPE const&, unsigned int const&, unsigned int const&, int const&, real3*, real3*, real3*, float*)
+4563      0.0060  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator->() const
+4351      0.0057  libChronoEngine_Parallel.so simplex::simplex()
+4329      0.0057  libChronoEngine_Parallel.so chrono::collision::MPRGetPoints(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3, real3&, real3&)
+4164      0.0055  libChronoEngine_Parallel.so chrono::collision::MPRContact(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3&, float&)
+4069      0.0054  libChronoEngine_Parallel.so M33::M33()
+3619      0.0048  libChronoEngine_Parallel.so MatMult(M33 const&, real3 const&)
+3572      0.0047  libChronoEngine_Parallel.so thrust::detail::vector_base<real4, std::allocator<real4> >::operator[](unsigned long)
+3548      0.0047  libChronoEngine_Parallel.so chrono::collision::host_DispatchHybridMPR(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, bool const*, real3 const*, real4 const*, float const&, SYSTEMTYPE const&, long long const*, unsigned int const*, unsigned int*, real3*, real3*, real3*, float*, float*, int2*)
+3540      0.0047  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, real3, thrust::any_system_tag, thrust::random_access_traversal_tag, real3, long>::operator*() const
+3505      0.0046  libChronoEngine_Parallel.so function_ComputeAABB(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, real3 const*, real4 const*, unsigned int const&, real3*)
+3296      0.0043  libChronoEngine_Parallel.so FindPenetration(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&, float&, real3&, real3&)
+3258      0.0043  dress                    chrono::ChMatrix<double>::SetElementN(int, double)
+3250      0.0043  libm-2.12.so             sin
+3162      0.0042  libChronoEngine_Parallel.so long long __vector constant4i<0, -2147483648, -2147483648, -2147483648>()
+3025      0.0040  libChronoEngine_Parallel.so blaze::DisableIf<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>::VectorizedAssign<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false> >, void>::Type blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>::assign<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false> >(blaze::DenseVector<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>, false> const&)
+2700      0.0036  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>::ConstIterator::operator+=(unsigned long)
+2682      0.0035  libChronoEngine.so       chrono::ChVector<double> chrono::Vcross<double, double>(chrono::ChVector<double> const&, chrono::ChVector<double> const&)
+2600      0.0034  libChronoEngine_Parallel.so bbox_transformation::operator()(real3)
+2565      0.0034  libChronoEngine_Parallel.so thrust::minus<real3>::operator()(real3 const&, real3 const&) const
+2496      0.0033  dress                    thrust::detail::vector_base<float, std::allocator<float> >::operator[](unsigned long)
+2473      0.0033  libChronoEngine_Parallel.so chrono::collision::host_Dispatch_Init(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, real4 const*, unsigned int const*, bool const*, real3 const*, real4 const*, long long const*, unsigned int const*, unsigned int&, unsigned int&, unsigned int&, chrono::collision::ConvexShape&, chrono::collision::ConvexShape&)
+2191      0.0029  libChronoEngine_Parallel.so void thrust::detail::host_binary_transform_functor<thrust::minus<real3> >::operator()<thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >(thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>)
+2182      0.0029  libChronoEngine_Parallel.so long long __vector constant4i<-2147483648, 0, 0, 0>()
+2122      0.0028  dress                    thrust::detail::normal_iterator<float*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<float*> >(thrust::detail::normal_iterator<float*> const&)
+2079      0.0027  libChronoEngine_Parallel.so thrust::detail::dereference_iterator::apply<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >::type thrust::detail::dereference_iterator::operator()<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> >(thrust::constant_iterator<real3, thrust::use_default, thrust::use_default> const&)
+2024      0.0027  libChronoEngine_Parallel.so portalEncapsulesOrigin(simplex const&, real3 const&)
+1820      0.0024  libChronoEngine_Parallel.so AbsMat(M33 const&)
+1778      0.0023  libChronoEngine.so       bool chrono::Vnotnull<double>(chrono::ChVector<double>*)
+1755      0.0023  dress                    chrono::ChVector<double>::ChVector(double, double, double)
+1539      0.0020  libChronoEngine_Parallel.so thrust::detail::contiguous_storage<real4, std::allocator<real4> >::operator[](unsigned long)
+1522      0.0020  dress                    thrust::detail::contiguous_storage<float, std::allocator<float> >::operator[](unsigned long)
+1445      0.0019  libChronoEngine_Parallel.so chrono::collision::MPRCollision(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, real3&, real3&, real3&, float&)
+1376      0.0018  libChronoEngine_Parallel.so function_Store_AABB_BIN_Intersection(unsigned int const&, real3 const*, unsigned int const*, real3 const&, int3 const&, unsigned int const&, unsigned int*, unsigned int*)
+1273      0.0017  libChronoEngine.so       chrono::ChVector<double>::operator+=(chrono::ChVector<double> const&)
+1257      0.0017  libChronoEngine_Parallel.so long long __vector constant4i<-2147483648, 0, 0, 0>()
+1213      0.0016  libChronoEngine_Parallel.so thrust::detail::tuple_transform_functor<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::detail::dereference_iterator::apply, thrust::detail::dereference_iterator, 3u>::do_it_on_the_host_or_device(thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> const&, thrust::detail::dereference_iterator)
+1209      0.0016  libChronoEngine.so       chrono::ChVector<double>::operator*(double) const
+1076      0.0014  libChronoEngine_Parallel.so _ZN6chrono9collision22ChCNarrowphaseDispatch8DispatchEPKiPK5real3S6_S6_PK5real4PKjPKbS6_S9_PKxSB_PjPS4_SH_SH_PfSI_P4int2._omp_fn.15
+1002      0.0013  libChronoEngine.so       chrono::ChVector<double>::operator-(chrono::ChVector<double> const&) const
+990       0.0013  dress                    thrust::iterator_adaptor<thrust::detail::normal_iterator<float*>, float*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+974       0.0013  dress                    chrono::ChVector<double>::operator=(chrono::ChVector<double> const&)
+969       0.0013  libChronoEngine_Parallel.so thrust::pair<real3, real3>::pair(real3 const&, real3 const&)
+917       0.0012  libChronoEngine_Parallel.so thrust::pair<real3, real3> thrust::detail::host_device_function<bbox_transformation, thrust::pair<real3, real3> >::operator()<real3>(real3&) const
+858       0.0011  dress                    chrono::ChVector<double>::operator+(chrono::ChVector<double> const&) const
+854       0.0011  libChronoEngine_Parallel.so FindPenetrationSegment(chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, simplex&, float&, real3&, real3&)
+848       0.0011  dress                    chrono::ChQuaternion<double>::ChQuaternion(chrono::ChQuaternion<double> const&)
+833       0.0011  dress                    chrono::ChMatrix<double>::SetElement(int, int, double)
+813       0.0011  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::operator*() const
+812       0.0011  libChronoEngine.so       chrono::ChVector<double>::Normalize()
+808       0.0011  libChronoEngine.so       chrono::ChQuaternion<double>::operator/(double) const
+693      9.1e-04  dress                    chrono::ChQuaternion<double>::operator%(chrono::ChQuaternion<double> const&) const
+651      8.6e-04  libChronoEngine_Parallel.so TransformLocalToParent(real3 const&, real4 const&, real3 const&)
+619      8.2e-04  libChronoEngine.so       chrono::ChVector<double>::operator/(double) const
+595      7.8e-04  libChronoEngine_Parallel.so thrust::detail::raw_reference<real3>::type thrust::raw_reference_cast<real3>(real3&)
+593      7.8e-04  libChronoEngine.so       chrono::ChBody::VariablesQbSetSpeed(double)
+527      6.9e-04  dress                    real4::real4(float, float, float, float)
+524      6.9e-04  libChronoEngine.so       chrono::ChVector<double>::Length() const
+507      6.7e-04  dress                    chrono::ChMatrixNM<double, 3, 4>::ChMatrixNM()
+499      6.6e-04  dress                    chrono::ChVector<double>::ChVector()
+479      6.3e-04  libChronoEngine.so       chrono::ChQuaternion<double>::Q_from_AngAxis(double, chrono::ChVector<double> const&)
+475      6.3e-04  libChronoEngine.so       chrono::ChBody::ComputeGyro()
+455      6.0e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::operator[](long) const
+449      5.9e-04  dress                    chrono::ChBody::BFlagGet(int)
+437      5.8e-04  libChronoEngine.so       chrono::ChMatrix<double>::ElementN(int)
+435      5.7e-04  libChronoEngine_Parallel.so real3::operator*(real3 const&) const
+418      5.5e-04  libChronoEngine_Parallel.so chrono::collision::host_Preprocess(unsigned int const&, int const*, real3 const*, real3 const*, real3 const*, unsigned int const*, real3 const*, real4 const*, real3*, real3*, real3*)
+417      5.5e-04  dress                    std::vector<chrono::ChBody*, std::allocator<chrono::ChBody*> >::operator[](unsigned long)
+415      5.5e-04  libChronoEngine.so       chrono::ChBody::VariablesQbIncrementPosition(double)
+401      5.3e-04  libChronoEngine.so       chrono::ChQuaternion<double>::operator-(chrono::ChQuaternion<double> const&) const
+384      5.1e-04  libChronoEngine.so       double const& std::max<double>(double const&, double const&)
+377      5.0e-04  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::operator[](long) const
+375      4.9e-04  libChronoEngine.so       chrono::ChMatrix<double>::FillElem(double)
+370      4.9e-04  libChronoEngine_Parallel.so function_addForces(int&, bool*, float*, real3*, real3*, real3*, real3*, real3*)
+370      4.9e-04  libChronoEngine_Parallel.so thrust::iterator_adaptor<thrust::detail::normal_iterator<real4*>, real4*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+367      4.8e-04  libChronoEngine_Parallel.so thrust::detail::vector_base<real3, std::allocator<real3> >::operator[](unsigned long)
+362      4.8e-04  libChronoEngine_Parallel.so chrono::ChConstraintRigidRigid::Build_D(SOLVERMODE)
+346      4.6e-04  libChronoEngine.so       chrono::ChBody::UpdateForces(double)
+330      4.3e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, real3, thrust::any_system_tag, thrust::random_access_traversal_tag, real3, long>::derived() const
+327      4.3e-04  dress                    chrono::ChMatrix<double>::GetElement(int, int)
+301      4.0e-04  libChronoEngine_Parallel.so thrust::iterator_adaptor<thrust::detail::normal_iterator<real3*>, real3*, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default, thrust::use_default>::dereference() const
+268      3.5e-04  libChronoEngine_Parallel.so _ZN6chrono16ChSystemParallel11Integrate_YEv._omp_fn.11
+268      3.5e-04  libChronoEngine_Parallel.so _ZN6chrono9collision16ChCAABBGenerator16host_ComputeAABBEPKiPK5real3S6_S6_PK5real4PKjS6_S9_PS4_._omp_fn.0
+260      3.4e-04  dress                    chrono::ChFrame<double>::GetRot()
+258      3.4e-04  libChronoEngine_Parallel.so chrono::ChBody::GetKfriction()
+257      3.4e-04  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixElement<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::SubmatrixElement(blaze::CompressedMatrix<float, false>::Element const*, unsigned long)
+233      3.1e-04  libChronoEngine_Parallel.so real3& thrust::detail::get_class<0>::get<real3&, real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >(thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >&)
+230      3.0e-04  libChronoEngine_Parallel.so chrono::ChConstraintBilateral::ShurBilaterals(thrust::host_vector<float, std::allocator<float> >&, thrust::host_vector<float, std::allocator<float> >&)
+229      3.0e-04  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real4*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<real4*> >(thrust::detail::normal_iterator<real4*> const&)
+224      3.0e-04  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real3*>::reference thrust::iterator_core_access::dereference<thrust::detail::normal_iterator<real3*> >(thrust::detail::normal_iterator<real3*> const&)
+224      3.0e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::tuple<real3, real3, real3, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, long>::derived()
+222      2.9e-04  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetCompliance()
+205      2.7e-04  dress                    chrono::ChLcpVariablesBodyOwnMass::GetBodyMass()
+200      2.6e-04  libChronoEngine.so       void chrono::ChMatrix<double>::PasteVector<double>(chrono::ChVector<double> const&, int, int)
+194      2.6e-04  libChronoEngine_Parallel.so _ZN6chrono16ChSolverParallel5SetupEPNS_21ChParallelDataManagerE._omp_fn.11
+191      2.5e-04  dress                    chrono::ChVector<double>::ChVector(chrono::ChVector<double> const&)
+185      2.4e-04  libChronoEngine.so       void chrono::ChMatrix<double>::PasteSumVector<double>(chrono::ChVector<double> const&, int, int)
+183      2.4e-04  libChronoEngine_Parallel.so _ZN6chrono16ChSolverParallel5shurAEPf._omp_fn.13
+175      2.3e-04  libChronoEngine_Parallel.so thrust::detail::contiguous_storage<real3, std::allocator<real3> >::operator[](unsigned long)
+165      2.2e-04  libChronoEngine_Parallel.so _ZN6chrono9collision13ChCBroadphase32host_Store_AABB_BIN_IntersectionEPK5real3PKjPjS7_._omp_fn.1
+162      2.1e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::operator*() const
+161      2.1e-04  libChronoEngine.so       chrono::ChQuaternion<double>::operator*=(double)
+161      2.1e-04  libc-2.12.so             __GI_memset
+154      2.0e-04  libChronoEngine.so       chrono::ChPhysicsItem::GetSystem()
+152      2.0e-04  libChronoEngine_Parallel.so thrust::detail::dereference_iterator::apply<thrust::detail::normal_iterator<real3*> >::type thrust::detail::dereference_iterator::operator()<thrust::detail::normal_iterator<real3*> >(thrust::detail::normal_iterator<real3*> const&)
+140      1.8e-04  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>, false>::operator~() const
+135      1.8e-04  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetSpinningFriction()
+135      1.8e-04  libChronoEngine_Parallel.so void thrust::detail::host_function<thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >, void>::operator()<real3>(real3&) const
+132      1.7e-04  dress                    chrono::ChFrameMoving<double>::GetWvel_loc() const
+130      1.7e-04  libChronoEngine.so       chrono::ChLcpVariables::Get_fb()
+130      1.7e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real4*>, real4, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real4&, long>::derived() const
+127      1.7e-04  dress                    chrono::ChMatrixNM<double, 3, 4>::~ChMatrixNM()
+124      1.6e-04  libChronoEngine_Parallel.so length(real3 const&)
+117      1.5e-04  dress                    thrust::iterator_facade<thrust::detail::normal_iterator<float*>, float, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, float&, long>::derived() const
+113      1.5e-04  libChronoEngine_Parallel.so thrust::detail::pointer_traits<real3*>::get(real3*)
+111      1.5e-04  libChronoEngine_Parallel.so _ZN6chrono9collision22ChCNarrowphaseDispatch23PreprocessLocalToParentEiPKiPK5real3S6_S6_PK5real4PKjPKbS6_S9_PS4_SE_SE_._omp_fn.12
+104      1.4e-04  libChronoEngine_Parallel.so thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>::dereference() const
+100      1.3e-04  libChronoEngine_Parallel.so _ZN6chrono9collision13ChCBroadphase32host_Count_AABB_BIN_IntersectionEPK5real3Pj._omp_fn.0
+98       1.3e-04  dress                    chrono::ChFrame<double>::GetPos()
+97       1.3e-04  libChronoEngine.so       chrono::ChMatrix<double>::Element(int, int) const
+96       1.3e-04  dress                    chrono::ChSharedPtr<chrono::ChMaterialSurface>::operator->()
+95       1.3e-04  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixElement<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator->() const
+90       1.2e-04  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceSpinning()
+88       1.2e-04  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::operator*() const
+87       1.1e-04  libChronoEngine.so       chrono::ChFrameMoving<double>::SetWvel_loc(chrono::ChVector<double> const&)
+85       1.1e-04  libChronoEngine.so       chrono::ChBody::VariablesFbLoadForces(double)
+82       1.1e-04  libChronoEngine.so       chrono::ChBody::VariablesBody()
+76       1.0e-04  libChronoEngine.so       chrono::ChQuaternion<double>::ChQuaternion(double, chrono::ChVector<double>)
+71       9.4e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetCohesion()
+64       8.4e-05  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::operator[](long) const
+63       8.3e-05  dress                    chrono::ChQuaternion<double>::ChQuaternion(double, double, double, double)
+63       8.3e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::GetCoord_dt()
+57       7.5e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::SetRot_dtdt(chrono::ChQuaternion<double> const&)
+54       7.1e-05  libChronoEngine.so       chrono::ChMatrix<double>::ClipVector(int, int) const
+54       7.1e-05  libChronoEngine_Parallel.so thrust::detail::pointer_traits<real3*>::raw_pointer thrust::raw_pointer_cast<real3*>(real3* const&)
+51       6.7e-05  libChronoEngine.so       chrono::ChBody::Variables()
+48       6.3e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceRolling()
+48       6.3e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetKfriction()
+48       6.3e-05  libm-2.12.so             __dubsin
+47       6.2e-05  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::detail::normal_iterator<real3*>, real3, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, real3&, long>::derived() const
+44       5.8e-05  dress                    chrono::ChBody::GetMaterialSurface()
+44       5.8e-05  libChronoEngine_Parallel.so blaze::SparseElement::SparseElement()
+41       5.4e-05  libChronoEngine.so       chrono::ChSystem::GetStep()
+41       5.4e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetRollingFriction()
+40       5.3e-05  libChronoEngine_Parallel.so thrust::pair<real3, real3> thrust::detail::host_function<bbox_reduction, thrust::pair<real3, real3> >::operator()<thrust::pair<real3, real3>, thrust::pair<real3, real3> >(thrust::pair<real3, real3>&, thrust::pair<real3, real3> const&) const
+38       5.0e-05  libChronoEngine.so       chrono::ChBody::VariablesQbLoadSpeed()
+37       4.9e-05  libChronoEngine.so       chrono::ChSystem::Get_G_acc()
+36       4.7e-05  libm-2.12.so             __dubcos
+35       4.6e-05  libChronoEngine.so       chrono::ChBody::VariablesFbReset()
+34       4.5e-05  libChronoEngine.so       chrono::ChVector<double>::Scale(double)
+29       3.8e-05  libChronoEngine.so       chrono::ChLcpVariables::Get_qb()
+28       3.7e-05  libChronoEngine.so       chrono::ChBody::GetLimitSpeed()
+28       3.7e-05  libChronoEngine_Parallel.so real3* thrust::system::detail::internal::scalar::for_each_n<real3*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> > >(real3*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<real3> >)
+25       3.3e-05  dress                    chrono::ChBody::GetMass()
+25       3.3e-05  libgomp.so.1.0.0         gomp_work_share_end_nowait
+23       3.0e-05  libChronoEngine_Parallel.so blaze::CompressedMatrix<float, false>::append(unsigned long, unsigned long, float const&, bool)
+21       2.8e-05  libChronoEngine.so       chrono::ChMatrix33<double>::operator*(chrono::ChVector<double> const&)
+20       2.6e-05  libChronoEngine.so       chrono::ChMatrix<double>::Element(int, int)
+20       2.6e-05  libChronoEngine_Parallel.so _ZN6chrono19ChLcpSolverParallel14host_addForcesEPbPfP5real3S4_S4_S4_S4_._omp_fn.11
+17       2.2e-05  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::nonZeros(unsigned long) const
+14       1.8e-05  libChronoEngine.so       chrono::ChFrame<double>::SetRot(chrono::ChQuaternion<double> const&)
+14       1.8e-05  libChronoEngine_Parallel.so chrono::collision::snap_to_cylinder(float const&, float const&, real3&)
+13       1.7e-05  libChronoEngine_Parallel.so thrust::access_traits<thrust::tuple_element<0, thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > > >::type>::non_const_type thrust::get<0, real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >(thrust::detail::cons<real3&, thrust::detail::cons<real3, thrust::detail::cons<real3&, thrust::null_type> > >&)
+13       1.7e-05  libChronoEngine_Parallel.so thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>::reference thrust::iterator_core_access::dereference<thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default> >(thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default> const&)
+12       1.6e-05  libChronoEngine.so       chrono::ChFrameMoving<double>::SetPos_dt(chrono::ChVector<double> const&)
+12       1.6e-05  libChronoEngine_Parallel.so chrono::ChMaterialSurface::GetComplianceT()
+12       1.6e-05  libChronoEngine_Parallel.so thrust::detail::raw_reference<thrust::pair<real3, real3> >::type thrust::raw_reference_cast<thrust::pair<real3, real3> >(thrust::pair<real3, real3>&)
+11       1.4e-05  libChronoEngine_Parallel.so blaze::CompressedMatrix<float, false>::finalize(unsigned long)
+10       1.3e-05  libChronoEngine.so       chrono::ChBody::GetNoGyroTorque()
+10       1.3e-05  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::end(unsigned long) const
+10       1.3e-05  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::tuple<real3, real3, real3, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, long>::operator++()
+9        1.2e-05  dress                    chrono::ChBody::IsActive()
+9        1.2e-05  libChronoEngine_Parallel.so blaze::DenseVector<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, false>::DenseVector()
+9        1.2e-05  libChronoEngine_Parallel.so blaze::EnableIf<blaze::IsVecScalarMultExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false> >, blaze::SubvectorExprTrait<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, true>::Type>::Type blaze::subvector<true, blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, false>(blaze::Vector<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, false> const&, unsigned long, unsigned long)
+9        1.2e-05  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false, blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false>&, blaze::Vector<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false> const&)
+9        1.2e-05  libc-2.12.so             free
+8        1.1e-05  dress                    chrono::ChQuaternion<double>::operator=(chrono::ChQuaternion<double> const&)
+8        1.1e-05  libChronoEngine.so       chrono::ChBody::ClampSpeed()
+8        1.1e-05  libChronoEngine.so       chrono::ChFrame<double>::SetPos(chrono::ChVector<double> const&)
+8        1.1e-05  libChronoEngine.so       chrono::ChMatrixNM<double, 3, 3>::ChMatrixNM(chrono::ChMatrixNM<double, 3, 3> const&)
+8        1.1e-05  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false, blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false>&, blaze::Vector<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false> cons)
+8        1.1e-05  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false, blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false>&, blaze::Vector<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>, false> cons)
+8        1.1e-05  libc-2.12.so             __memcmp_sse4_1
+8        1.1e-05  libgomp.so.1.0.0         gomp_iter_dynamic_next
+7        9.2e-06  dress                    chrono::ChMatrix<double>::~ChMatrix()
+7        9.2e-06  libChronoEngine_Parallel.so blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::ConstIterator(blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>::ConstIterator, blaze::DenseIterator<float const>)
+7        9.2e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>::begin() const
+7        9.2e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::operator~() const
+7        9.2e-06  libgomp.so.1.0.0         gomp_thread_start
+6        7.9e-06  libChronoEngine_Parallel.so _ZpLI5real3EvRN6thrust11host_vectorIT_SaIS3_EEERKS5_._omp_fn.16
+6        7.9e-06  libChronoEngine_Parallel.so blaze::EnableIf<blaze::IsVecScalarMultExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false> >, blaze::SubvectorExprTrait<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, false>::Type>::Type blaze::subvector<false, blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, false>(blaze::Vector<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, false> const&, unsigned long, unsigned long)
+6        7.9e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>, false> const&)
+6        7.9e-06  libc-2.12.so             memchr
+6        7.9e-06  libgomp.so.1.0.0         GOMP_loop_end_nowait
+5        6.6e-06  libChronoEngine.so       chrono::ChBody::GetCollide()
+5        6.6e-06  libChronoEngine_Parallel.so _make_int2(int const&, int const&)
+5        6.6e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, false>::operator~() const
+5        6.6e-06  libChronoEngine_Parallel.so chrono::collision::RCollision(unsigned int const&, chrono::collision::ConvexShape const&, chrono::collision::ConvexShape const&, int const&, int const&, unsigned int*, real3*, real3*, real3*, float*, float*, int2*, int&)
+5        6.6e-06  libChronoEngine_Parallel.so quatRotateMat(real3 const&, real4 const&)
+5        6.6e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, blaze::DynamicVector<float, false>, false>, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, blaze::DynamicVector<float, false>, false>, false> const&)
+4        5.3e-06  libChronoEngine_Parallel.so blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::begin() const
+4        5.3e-06  libChronoEngine_Parallel.so blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>::leftOperand() const
+4        5.3e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, float, false>::rightOperand() const
+4        5.3e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, float, false>::ConstIterator::ConstIterator(blaze::DenseIterator<float const>, float)
+4        5.3e-06  libChronoEngine_Parallel.so blaze::DenseVector<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>, false>::DenseVector()
+4        5.3e-06  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>, false, blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> >, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>, false>&, blaze::Vector<blaze::SMatDVecMultExpr<blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>, blaze::DynamicVector<float, false> >, false> const&)
+4        5.3e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, float, false>, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, float, false>, false> const&)
+4        5.3e-06  libChronoEngine_Parallel.so void thrust::iterator_core_access::increment<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> > >(thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >&)
+4        5.3e-06  libc-2.12.so             __strlen_sse42
+4        5.3e-06  libgomp.so.1.0.0         gomp_team_barrier_wait_final
+3        4.0e-06  dress                    chrono::ChMatrix<double>::GetColumns() const
+3        4.0e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>::DVecScalarMultExpr(blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false> const&, double)
+3        4.0e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>::leftOperand() const
+3        4.0e-06  libChronoEngine_Parallel.so chrono::collision::cylinder_sphere(real3 const&, real4 const&, float const&, float const&, real3 const&, float const&, real3&, float&, real3&, real3&, float&)
+3        4.0e-06  libChronoEngine_Parallel.so quatRotate(real3 const&, real4 const&)
+3        4.0e-06  libChronoEngine_Parallel.so thrust::detail::normal_iterator<real3*> const& thrust::detail::get_class<0>::get<thrust::detail::normal_iterator<real3*> const&, thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > >(thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > const&)
+3        4.0e-06  libChronoEngine_Parallel.so thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> > thrust::system::detail::internal::scalar::for_each<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::detail::host_binary_transform_functor<thrust::minus<real3> > >(thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::detail::host_binary_transform_functor<thrust::minus<real3> >)
+3        4.0e-06  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>, false, blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>, false>&, blaze::Vector<blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>, false> const&)
+3        4.0e-06  libChronoEngine_Parallel.so void blaze::assign<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>(blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false>, true, false>, false>&, blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false> const&)
+3        4.0e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::SMatDVecMultExpr<blaze::CompressedMatrix<float, false>, blaze::DynamicVector<float, false> >, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::SMatDVecMultExpr<blaze::CompressedMatrix<float, false>, blaze::DynamicVector<float, false> >, false> const&)
+2        2.6e-06  dress                    chrono::ChMatrix<double>::ChMatrix()
+2        2.6e-06  dress                    chrono::ChMatrix<double>::GetRows() const
+2        2.6e-06  dress                    chrono::ChTimer<double>::operator()() const
+2        2.6e-06  ld-2.12.so               index
+2        2.6e-06  libChronoEngine.so       bool __gnu_cxx::operator!=<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > >(__gnu_cxx::__normal_iterator<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > > const&, __gnu_cxx::__normal_iterator<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > > const&)
+2        2.6e-06  libChronoEngine.so       std::vector<chrono::ChMarker*, std::allocator<chrono::ChMarker*> >::begin()
+2        2.6e-06  libChronoEngine_Parallel.so blaze::DVecDVecSubExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, blaze::DynamicVector<float, false>, false>::leftOperand() const
+2        2.6e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>::leftOperand() const
+2        2.6e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>::rightOperand() const
+2        2.6e-06  libChronoEngine_Parallel.so blaze::EnableIf<blaze::IsVecVecAddExpr<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false> >, blaze::SubvectorExprTrait<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>, true>::Type>::Type blaze::subvector<true, blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>, false>(blaze::Vector<blaze::DVecDVecAddExpr<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, float, false>, blaze::DynamicVector<float, false>, false>, false> const&, unsigned long, unsigned long)
+2        2.6e-06  libChronoEngine_Parallel.so blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*>::operator-(blaze::SparseSubmatrix<blaze::CompressedMatrix<float, false> const, false, false>::SubmatrixIterator<blaze::CompressedMatrix<float, false> const, blaze::CompressedMatrix<float, false>::Element const*> const&) const
+2        2.6e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, false>::operator~() const
+2        2.6e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, false>::operator~() const
+2        2.6e-06  libChronoEngine_Parallel.so chrono::ChLcpSolverParallelDVI::RunTimeStep(float)
+2        2.6e-06  libChronoEngine_Parallel.so thrust::detail::pointer_traits<thrust::pair<real3, real3>*>::get(thrust::pair<real3, real3>*)
+2        2.6e-06  libChronoEngine_Parallel.so thrust::detail::pointer_traits<thrust::pair<real3, real3>*>::raw_pointer thrust::raw_pointer_cast<thrust::pair<real3, real3>*>(thrust::pair<real3, real3>* const&)
+2        2.6e-06  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::transform_iterator<bbox_transformation, thrust::detail::normal_iterator<real3*>, thrust::pair<real3, real3>, thrust::use_default>, thrust::pair<real3, real3>, thrust::system::cpp::detail::tag, std::random_access_iterator_tag, thrust::pair<real3, real3>, long>::operator*() const
+2        2.6e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, false> const&)
+2        2.6e-06  libChronoEngine_Parallel.so void blaze::smpAssign_backend<blaze::DynamicVector<float, false>, false, blaze::DynamicVector<float, false>, false>(blaze::DenseVector<blaze::DynamicVector<float, false>, false>&, blaze::DenseVector<blaze::DynamicVector<float, false>, false> const&)
+2        2.6e-06  libc-2.12.so             next_line
+2        2.6e-06  libgomp.so.1.0.0         gomp_barrier_wait_end
+1        1.3e-06  dress                    float* thrust::for_each_n<thrust::system::cpp::detail::tag, float*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> > >(thrust::detail::execution_policy_base<thrust::system::cpp::detail::tag> const&, float*, unsigned long, thrust::detail::host_generate_functor<thrust::detail::fill_functor<float> >)
+1        1.3e-06  libChronoEngine.so       __gnu_cxx::__normal_iterator<chrono::ChForce**, std::vector<chrono::ChForce*, std::allocator<chrono::ChForce*> > >::base() const
+1        1.3e-06  libChronoEngine.so       chrono::ChBody::UpdateMarkers(double)
+1        1.3e-06  libChronoEngine.so       chrono::ChFrameMoving<double>::SetPos_dtdt(chrono::ChVector<double> const&)
+1        1.3e-06  libChronoEngine.so       chrono::ChLcpVariablesBodyOwnMass::GetBodyInvInertia()
+1        1.3e-06  libChronoEngine_Parallel.so TransformParentToLocal(real3 const&, real4 const&, real3 const&)
+1        1.3e-06  libChronoEngine_Parallel.so _ZN5blaze9smpAssignINS_13DynamicVectorIfLb0EEELb0ENS_15DVecDVecAddExprINS_18DVecScalarMultExprIS2_fLb0EEES2_Lb0EEELb0EEENS_8EnableIfINS_3AndINS_15IsSMPAssignableIT_EENS9_IT1_EENS_8NullTypeESE_SE_EEvE4TypeERNS_11DenseVectorISA_XT0_EEERKNS_6VectorISC_XT2_EEE._omp_fn.16
+1        1.3e-06  libChronoEngine_Parallel.so _ZN5blaze9smpAssignINS_13DynamicVectorIfLb0EEELb0ENS_15DVecDVecSubExprIS2_S2_Lb0EEELb0EEENS_8EnableIfINS_3AndINS_15IsSMPAssignableIT_EENS7_IT1_EENS_8NullTypeESC_SC_EEvE4TypeERNS_11DenseVectorIS8_XT0_EEERKNS_6VectorISA_XT2_EEE._omp_fn.13
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>::ConstIterator::ConstIterator(blaze::DenseIterator<float const>, blaze::DenseIterator<float const>)
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, float, false>::begin() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>::rightOperand() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DVecTransExpr<blaze::DynamicVector<float, false>, true>::size() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DenseIterator<float const> const blaze::operator+<float const>(blaze::DenseIterator<float const> const&, long)
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DenseSubvector<blaze::DynamicVector<float, false>, false, false>::size() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DenseVector<blaze::DVecScalarMultExpr<blaze::DynamicVector<float, false>, double, false>, false>::DenseVector()
+1        1.3e-06  libChronoEngine_Parallel.so blaze::DynamicVector<float, false>::size() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecDVecSubExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, blaze::DenseSubvector<blaze::DynamicVector<float, false> const, true, false>, false>, false>::operator~() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecScalarMultExpr<blaze::DVecDVecSubExpr<blaze::DynamicVector<float, false>, blaze::DynamicVector<float, false>, false>, float, false>, false>::operator~() const
+1        1.3e-06  libChronoEngine_Parallel.so blaze::Vector<blaze::DVecScalarMultExpr<blaze::DenseSubvector<blaze::DynamicVector<float, false> const, false, false>, double, false>, false>::Vector()
+1        1.3e-06  libChronoEngine_Parallel.so float __vector change_sign<0, 1, 1, 1>(float __vector const&)
+1        1.3e-06  libChronoEngine_Parallel.so quatRotateT(real3 const&, real4 const&)
+1        1.3e-06  libChronoEngine_Parallel.so thrust::access_traits<thrust::tuple_element<0, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > >::type>::const_type thrust::get<0, thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > >(thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::detail::cons<thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::cons<thrust::detail::normal_iterator<real3*>, thrust::null_type> > > const&)
+1        1.3e-06  libChronoEngine_Parallel.so thrust::iterator_facade<thrust::zip_iterator<thrust::tuple<thrust::detail::normal_iterator<real3*>, thrust::constant_iterator<real3, thrust::use_default, thrust::use_default>, thrust::detail::normal_iterator<real3*>, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >, thrust::tuple<real3, real3, real3, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, thrust::system::cpp::detail::tag, thrust::random_access_traversal_tag, thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type>, long>::operator*() const
+1        1.3e-06  libChronoEngine_Parallel.so void Swap<support>(support&, support&)
+1        1.3e-06  libChronoEngine_Parallel.so void thrust::detail::host_function<thrust::detail::host_binary_transform_functor<thrust::minus<real3> >, void>::operator()<thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> >(thrust::detail::tuple_of_iterator_references<real3&, real3, real3&, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type, thrust::null_type> const&) const
+1        1.3e-06  libc-2.12.so             __printf_fp
+1        1.3e-06  libc-2.12.so             __strlen_sse2
+1        1.3e-06  libc-2.12.so             get_nprocs
+1        1.3e-06  libc-2.12.so             printf
+1        1.3e-06  libgomp.so.1.0.0         gomp_iter_guided_next
