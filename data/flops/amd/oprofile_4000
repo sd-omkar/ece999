@@ -1,0 +1,9 @@
+CPU: AMD64 family15h, speed 2200 MHz (estimated)
+Counted DISPATCHED_FPU_OPS events (FPU Pipe Assignment) with a unit mask of 0xff (All ops) count 500
+samples  %        image name               symbol name
+5950305  99.8438  a.out                    main._omp_fn.0
+7797      0.1308  no-vmlinux               /no-vmlinux
+1510      0.0253  libc-2.12.so             __GI_memset
+1        1.7e-05  ld-2.12.so               _dl_map_object_deps
+1        1.7e-05  ld-2.12.so               index
+1        1.7e-05  libc-2.12.so             memmove
