@@ -1,0 +1,15 @@
+# started on Tue Nov 25 09:39:10 2014
+
+1112544537787,LLC-loads
+
+10017062982,LLC-misses
+
+45004749695,LLC-stores
+
+<not supported>,LLC-misses
+
+911324,page-faults
+30442611682683,L1-dcache-loads
+854387854668,L1-dcache-load-misses
+1112182235428,LLC-loads
+9991761197,LLC-load-misses
